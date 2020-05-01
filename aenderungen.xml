@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-04-10T11:24:43">
+  <aenderungen>
+    <entscheidung>e1678ce0-d748-48ea-98f8-89aed6be323c</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6b16ca42-53d8-46a1-814e-96fa41ad2b99</datum>
+    <aenderung>bei EUT, LUR und PRO: FEM 2+2 (4. Sem.) mit WAHL 2+2 (5. bzw. 6. Sem.) getauscht</aenderung>
+    <entscheidung>Studiendekan WEST am 12.2.2003</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ff47d909-3ab8-4244-8a89-895f62b9a3ae</datum>
+    <aenderung>bei EUT: MESS* in MEET* geändert</aenderung>
+    <entscheidung>KOL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>1822b795-365e-4ffa-93ca-ba8ea2c299a9</datum>
+    <aenderung>FEM1 und FEM2 durch FEM ersetzt</aenderung>
+    <entscheidung>war falsch</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>35cbe0a3-20cc-4925-b2fe-9c9428102a99</datum>
+    <aenderung>Wahlpflichtfächer angepasst</aenderung>
+    <entscheidung>passten nicht</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>fa40f85c-f280-4ace-8e28-f8c915658f4d</datum>
+    <aenderung>KWTE auf Wunsch von SMOL und Eilentscheidung WEST vom 6. ins 7. Semester verschoben</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c4b92d4d-0302-4e3c-a0c7-f261dd6572d0</datum>
+    <aenderung>Master- (CBME) und Bachelorstudiengänge (ILST, GIM, FERT, LUR, TRE) eingeführt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>efa14252-9f84-4e29-846d-0d9af346da70</datum>
+    <aenderung>Alte Diplomstudiengänge (Endung _DIPLOM) laufen mit Studienbeginn 2003 aus</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ec1068f5-0506-403b-ab9b-93f0f0837582</datum>
+    <aenderung>ISWI (Bachelor) eingeführt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c36dc826-7ae9-49b7-b793-abf2387a05d5</datum>
+    <aenderung>PRSY* gelöscht</aenderung>
+    <entscheidung>WEST, SCHO</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ff84b2b0-9d31-437a-8e73-0cecba9a5fba</datum>
+    <aenderung>bei ILST (Bachelor) WERK ins 2. Semester und MANA ins 1. Semester getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>af5a276a-19b9-47ab-9684-3172c4e45c3e</datum>
+    <aenderung>MAN-Übung aus 5/IL nach 8/IL geschoben</aenderung>
+    <entscheidung>STE (Antrag FBR)</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>321898d5-e187-477c-bb12-ea73211ffbf9</datum>
+    <aenderung>WERK und MANA bei ILST wieder zurückgetauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>9710033e-a48c-4859-89eb-589fa42a8c7d</datum>
+    <aenderung>dafür bei allen Maschinenbauern WERK ins 2. Semester und MANA ins 1. Semester getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a0291dfb-13ff-4cb4-a327-fc87386d5a36</datum>
+    <aenderung>FB1-3, FBT1-3 und HPL in ILST englifiziert</aenderung>
+    <entscheidung>STE</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c1a65e29-c3e7-4781-89b8-4dfb087c81cc</datum>
+    <aenderung>Diverse Anpassungen, Ziel, Inhalt, Prüfungsform</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>46216651-e75c-4aa1-8355-6f9d134d1436</datum>
+    <aenderung>WEFE (6. -&gt; 7.), BLOG (7. -&gt; 6.), SVP (4. -&gt; 7.), KOIN (7. -&gt; 4.)</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f283c1c3-a29b-4c84-bb38-a2796eb8207f</datum>
+    <aenderung>Diverse Inhalte und Prüfungsformen angepasst (MANA, QSME, WEFE, PROS, SVP)</aenderung>
+    <entscheidung>KENT</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>52c7bb8a-efcd-4584-8d2f-31524ee36341</datum>
+    <aenderung>Diverse CBME-Module gegen neue Module ausgetauscht (überflüssige Module müssen noch gelöscht werden!)</aenderung>
+    <entscheidung>KENT</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4324d77f-a2da-48b2-832f-b30d336434f0</datum>
+    <aenderung>in CBME: IAT1, IAT2 und IAT3 durch CAO, UAV und ACFD ersetzt</aenderung>
+    <entscheidung>KENT, STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b9c681fd-cf54-4175-add7-2fabf99e98cd</datum>
+    <aenderung>in PVFS1 und PVFS2 Bemerkung und 6 SWS eingebaut</aenderung>
+    <entscheidung>STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6fe8fbe1-718b-4b29-9ce9-8b0cac56b6d7</datum>
+    <aenderung>ERP und TQM in GIM getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4ac773aa-9c82-4fc6-9881-c55e18484d76</datum>
+    <aenderung>Modulbeschreibungen von MEIK1 und MEIK2 korrigiert</aenderung>
+    <entscheidung>MENK, WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>8e0683cd-ffc1-4e26-a6f7-f3efada4c743</datum>
+    <aenderung>Starttermin aller Bachelor-WPM auf 4. Semester gesetzt</aenderung>
+    <entscheidung>BUCH</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b00abf1e-2b17-405f-8da7-bd635ec91eee</datum>
+    <aenderung>AEFL und WEBA in LUR getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>cdf3e295-ce78-4586-868c-4a0c6c3412a8</datum>
+    <aenderung>CAEP und WPM GIM, FERT und TRE getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>958cce26-9c02-4a08-b919-bafcc2130b82</datum>
+    <aenderung>AEFL und WPM in ILST getauscht</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>7f29e609-00bc-4f5a-b96b-941ecd971162</datum>
+    <aenderung>WRAU* (Wärmehaushalt bei Raunfahrzeugen) komplett gelöscht</aenderung>
+    <entscheidung>KOL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d5fe6a75-654f-469a-ae09-33c41cd70fd3</datum>
+    <aenderung>Modulverantwortlichkeit bei BCAS von WEST nach HENN geändert</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>31723e25-b9f0-420e-b7b2-e62f6c818a5c</datum>
+    <aenderung>FR in LUR vom 5. ins 7. Semester geschoben</aenderung>
+    <entscheidung>APEL, PAHL, WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>03a09311-4646-4cd2-bf2b-0bf7df2f4d70</datum>
+    <aenderung>CAQ und PREN in CBME getauscht</aenderung>
+    <entscheidung>KENT, WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ef2ba459-a468-40cd-b1b3-8248cf64196f</datum>
+    <aenderung>LURA in LUR vom 7. ins 4. Semester geschoben</aenderung>
+    <entscheidung>APEL, PAHL, WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>849a7f19-b66d-4a61-b882-82ca7baf6f43</datum>
+    <aenderung>LSTA in LUR vom 4. ins 5. Semester geschoben</aenderung>
+    <entscheidung>APEL, PAHL, WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>07b02662-2b37-4a7a-aa47-3354a198c53d</datum>
+    <aenderung>WPM HELI* und KLEB* eingeführt</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>60e80251-508c-41d9-aace-024377f2b639</datum>
+    <aenderung>Wahlpflichtmodule auch in ILST eingeführt</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>7dce3197-67a0-4624-826c-5f53a50a7a69</datum>
+    <aenderung>KULT: "Südamerika" in "Amerika" geändert</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a49e96c0-a66e-4ec9-a385-8f3984e8860e</datum>
+    <aenderung>Bei ILST EHA aus dem 3. und AEFL aus dem 5. Semester getauscht (gültig ab WS 2006)</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>7c753513-553d-4b78-90d8-208756c43d07</datum>
+    <aenderung>KLEB* von 2 auf 4 SWS geändert</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>656fb0fc-cee7-47b9-99f4-8dcc8b73bad0</datum>
+    <aenderung>Diverse inhaltliche Änderungen in CBME</aenderung>
+    <entscheidung>KENT</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>315cb960-aed9-42cb-b2f2-0b187c9aa291</datum>
+    <aenderung>Wahlpflichtfächer PDM* und WINT* eingeführt</aenderung>
+    <entscheidung>FBR-Beschluss vom 16.1.2007</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c23f2b91-923e-44aa-8aee-c4975d5e4125</datum>
+    <aenderung>Diverse Verschiebungen (MANA, BWL, BMAN, FR, AUTO, DIMA, WPM) in FERT, GIM und LUR wegen Einführung ENTEC</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>058f8578-de5e-4bc4-bfd7-1e4558f0f2f8</datum>
+    <aenderung>ENTEC_E und ENTEC_T eingepflegt</aenderung>
+    <entscheidung>Akkreditierungsantrag ENTEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>038183db-4304-4048-8cca-1242ca0b5437</datum>
+    <aenderung>Zahnräder und Getriebe in KOCA entfernt</aenderung>
+    <entscheidung>HENN (Prodekan und Modulverantwortlicher)</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>cd7e4274-92b0-45bf-bf7f-7641038613cf</datum>
+    <aenderung>Inhalt WERK geändert</aenderung>
+    <entscheidung>SCHB (wegen ENTEC)</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c3b3583f-6426-4eea-9314-37398ce8154e</datum>
+    <aenderung>CHIN1 - CHIN5 als WF in GIM eingeführt</aenderung>
+    <entscheidung>WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>5ba2d471-99a6-48e5-a474-89a461d1215e</datum>
+    <aenderung>Physik in „Physik und Strömungslehre“ und  Betriebsmanagement in „Qualitätsmanagement und Messtechnik“ umbenannt</aenderung>
+    <entscheidung>FBR-Beschluss: 15/07</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c8406f89-6971-4e82-8bb7-902e4ba87aec</datum>
+    <aenderung>Kleinigkeiten bei WINT* ergänzt</aenderung>
+    <entscheidung>Kollien</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b89c3503-cbdc-4711-b8bf-9026b11ecc6e</datum>
+    <aenderung>Mathematik 1 - Grundlagen und Mathematik 2 - Höhere Mathematik wieder auf Mathematik 1 und Mathematik 2 zurück geändert</aenderung>
+    <entscheidung>FBR-Empfehlung, nachdem sich H. Tydt und J. Kollien nicht mehr erinnern können</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ed3b7a0d-1df3-48e0-a6b5-3e334443dfa2</datum>
+    <aenderung>IMEC eingeführt und SCHO und WEST darauf hingewiesen, dass DIMA,QSME und PRDE Zusatzkosten verursachen würden</aenderung>
+    <entscheidung>FBR-Beschluss vom 13.11.2007</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>5cf03576-587f-42d7-b6aa-0ff5a8d010fb</datum>
+    <aenderung>Voraussetzungen bei FERT, LUR und GIM angepasst</aenderung>
+    <entscheidung>AR-Beschluss 3.6.2008</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>cd21d843-1019-40f0-9bff-09a51bbf6645</datum>
+    <aenderung>Prüfungsform bei FR in Rechnerprogramm geändert</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ea06beb9-efd3-462b-b86d-64805aed5e34</datum>
+    <aenderung>Letzter GIM-Anfang im WS 2007/2008</aenderung>
+    <entscheidung>e/m von HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0571f411-330c-4c1f-84ce-a26bd9066ebd</datum>
+    <aenderung>Englische Übersetzungen hinzugefügt (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>81d72113-54b8-4a7a-a69b-4f960e51db35</datum>
+    <aenderung>Modul-Ziel FLUB geändert (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c29e3599-793f-4636-af68-9111807f84e3</datum>
+    <aenderung>Korrektur der englischen Übersetzung von FLUB, AEFL, CAO, ACFD, AFEM, LURA, MAKO, KOCA (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>cd614ed8-4033-429e-b0df-109fdc1df7cc</datum>
+    <aenderung>MEAM eingefügt (Schemmerling)</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>74762af3-e3ac-4315-9b87-b7769892579d</datum>
+    <aenderung>Korrektur MEAM</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>9046ca85-2343-4ab0-8ddb-6873c357c0f3</datum>
+    <aenderung>Zusätzliche englische Bezeichner eingeführt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>82cbaa27-3e0c-45e1-9b6a-6da513316486</datum>
+    <aenderung>Stefan Rill entfernt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>3a54e3b5-20c7-4000-b118-4e8d68a7833a</datum>
+    <aenderung>ENTEC_T beginnt jetzt erst 2007</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>75b556c9-c216-4026-9b38-e64e404d20df</datum>
+    <aenderung>Kontaktdaten MEAM Dozenten aktualisiert (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6add9137-8e14-436e-8da2-365f44e28c2b</datum>
+    <aenderung>Modulvoraussetzungen geändert INFO1 (Schemmerling)</aenderung>
+    <entscheidung>Kollien</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d6f6bf83-cc75-4422-9083-59e5f3824232</datum>
+    <aenderung>Doppeleintrag Dozent Cardozo entfernt (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d4569a6c-5389-4f7f-9a6f-51752e210852</datum>
+    <aenderung>Korrektur MECH1, MECH2, AEFL, RAOS, MTP, SLAS (Schemmerling)</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>58b8d50b-0c33-484c-8eea-c7ffcdaf1a9d</datum>
+    <aenderung>Modul WIB, BEMA, FLUF, PRAX1,2, AIF, BTP1,2 hinzugefügt (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a70dec57-ac0d-4c90-a292-a68aa074bde7</datum>
+    <aenderung>Dozent Weiss, Knuschke, Claußen hinzugefügt (Schemmerling)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f5d16acd-ecea-4694-a83c-3fb9aed11492</datum>
+    <aenderung>ILST-MT eingefügt (Schemmerling)</aenderung>
+    <entscheidung>Akkreditierungsantrag ILST-MT, STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>78b16ade-23c0-44e6-8281-c3428d56f863</datum>
+    <aenderung>Diverse Korrekturen an ILST-MT</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>07831c6e-d585-40ae-98c9-e868ea456c65</datum>
+    <aenderung>FASE* und SANA* zu FASE(*) und SANA(*) gemacht, da jetzt Pflichtmodule in ILST-MT</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>52b2a79b-9986-4b5a-a82d-26b01a5a6745</datum>
+    <aenderung>FASE(*) auf JABL angepasst</aenderung>
+    <entscheidung>E-Mail von JABL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>85b885c3-a2bb-4ff9-bc98-22009203b933</datum>
+    <aenderung>Sehr viele Modulbeschreibungen in LUR korrigiert</aenderung>
+    <entscheidung>STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>fe6934ef-6ab2-4d0a-b5b7-752e9fe094e8</datum>
+    <aenderung>Neuen SVP für LUR ab 2010 eingeführt</aenderung>
+    <entscheidung>STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4b125b0f-b047-4e32-935e-11bec3905fde</datum>
+    <aenderung>Diverse Modulbeschreibungen in LUR korrigiert</aenderung>
+    <entscheidung>diverse Kollegen</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>e1b4cc1f-7208-486b-ac84-a554ba3148c7</datum>
+    <aenderung>WEBA auf 4 + 0 (wie es vorher war) angepasst</aenderung>
+    <entscheidung>SCHB</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b2491831-6ad0-4297-90ca-b9db933059d8</datum>
+    <aenderung>Diverse Modulbeschreibungen in LUR korrigiert</aenderung>
+    <entscheidung>diverse Kollegen</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b16fc6a2-f92c-4be9-973f-2be59b71c8ef</datum>
+    <aenderung>Diverse Modulbeschreibungen in LUR korrigiert</aenderung>
+    <entscheidung>diverse Kollegen</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>e740524f-e79f-406d-a4bd-637a875f8ce6</datum>
+    <aenderung>SANA(*) in TSA geändert und als Wahlpflichtmodul entfernt</aenderung>
+    <entscheidung>Abteilungsrat und SCHB</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c093d7e3-9208-4b2f-8a6d-8d2dd5438c5b</datum>
+    <aenderung>In ILST_MT BEMA durch BMAN ersetzt, da identisch</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f72db6d1-02b6-4451-bcdf-63d7ca389f25</datum>
+    <aenderung>TSA von 2 S + 2 L auf 4 P geändert</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>2718de8a-a7dc-407e-81de-859555818399</datum>
+    <aenderung>LURE aktualisiert</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>36356746-9883-44e5-8833-ce925c6f655f</datum>
+    <aenderung>PYS in PHY und STRL aufgeteilt. PHY ins 1. Semester, STRL ins 2. Semester (5. Semester bei IMEC), (IMEC, ENTEC, DMPE, LUR und FERT)</aenderung>
+    <entscheidung>FBR-Beschluss, e/m von HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>3f391de0-57d3-47ca-8a93-97f3525bda8b</datum>
+    <aenderung>ENGL gestrichen, (IMEC, ENTEC, DMPE, LUR und FERT)</aenderung>
+    <entscheidung>FBR-Beschluss, e/m von HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>62ae9e3b-08ef-430a-8d5d-42ad03d3aff4</datum>
+    <aenderung>WERK vom 2. (vom 5. bei IMEC) ins 1. Semester geschoben, (IMEC, ENTEC, DMPE, LUR und FERT)</aenderung>
+    <entscheidung>FBR-Beschluss, e/m von HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>005a0151-0cf7-4f33-b547-8bf7f1ecd6ad</datum>
+    <aenderung>Änderungen in ENTEC, DMPE, LUR und FERT finden nicht 2011 sondern erst 2012 statt.</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>93504ce3-cb3d-4f88-8dfa-62512dc04eee</datum>
+    <aenderung>Diverse Änderungen in IMEC ab 2011</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0de62d8b-a08b-4011-998f-e41344cfd57f</datum>
+    <aenderung>Sprache, Prüfungen und Modulverantwortliche in ILST geändert</aenderung>
+    <entscheidung>e/m von STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>67f16b21-bc5b-430a-bc06-5299181372bf</datum>
+    <aenderung>Diverse Änderungen in IMEC Studienbeginn 2008, 2010 und 2011</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>718c295b-49db-4e36-b727-dfb14db9b052</datum>
+    <aenderung>Studiengang M eingeführt und LUR angepasst (TSA, LURA, FLUB: Projekt durch Labor ersetzt, alle WPM ab 2011 beendet)</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>03b0b084-5848-4a1a-8df1-8d6613c70d79</datum>
+    <aenderung>SVP 2+2 wird zu SVPR 0+4.</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>41a9f123-a5a8-466e-b151-1eb8ed98b6da</datum>
+    <aenderung>WEBA 4+0 wird zu LWB 2+2.</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b364b910-e29c-4976-b3d7-380e2bc32cc3</datum>
+    <aenderung>BCAS 2+2 wird zu BCS 0+4.</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f8ba4eda-a8c9-4b6d-bd87-470f97e0eff9</datum>
+    <aenderung>Studiengang AT eingefügt</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6e359288-572c-4808-a4bf-80cd3b645602</datum>
+    <aenderung>Modulbeschreibungen BAHN und OM angepasst</aenderung>
+    <entscheidung>e/m von STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>8cfa5edf-cee3-4f35-945c-da29333309b9</datum>
+    <aenderung>Modulbeschreibungen AACD, ASC, DMSP, NSCP, AED, SC, ATHT angepasst</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>03dc4fc5-16f9-43f6-9762-b5aa26f708c2</datum>
+    <aenderung>SSED angepasst</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>bce4456d-13e0-4b51-b7eb-27d919a005cb</datum>
+    <aenderung>ST eingefügt</aenderung>
+    <entscheidung>e/m von STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>04ec4e47-2660-4124-b421-0457b175fa60</datum>
+    <aenderung>Englische Beschreibung von INTP1 und INTP2 angepasst</aenderung>
+    <entscheidung>e/m von STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>dd890df8-7d24-4faa-b972-d63f2ecc5c51</datum>
+    <aenderung>Beschreibung von MQAA erstellt</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d0577735-60da-4bcf-aa2a-13372b73a0b7</datum>
+    <aenderung>Deutsche Beschreibung von NCSP eingefügt</aenderung>
+    <entscheidung>Telefonat und e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a5a8585e-2f1a-4eb7-873b-b734eeee20d4</datum>
+    <aenderung>Englische Beschreibung von MQAA angepasst</aenderung>
+    <entscheidung>e/m von GREN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>2e5e5fe6-9d89-4db2-b4f6-5b4c94341fb4</datum>
+    <aenderung>Deutsche Beschreibung von SSED eingefügt</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b883e1e3-82e9-4528-a43f-0ef3a0897da6</datum>
+    <aenderung>Einige Änderungen in LURA finden nicht schon 2010 sondern erst 2011 statt</aenderung>
+    <entscheidung>e/m von STEC und HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f708105d-b540-4dc7-8007-30f0d663ecec</datum>
+    <aenderung>Deutsche Beschreibung von ATHT eingefügt</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4a933b72-7ac9-45d4-9b81-c474f783adaa</datum>
+    <aenderung>Ziele und Inhalte von FIMA und MARK eingefügt</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>3ed50b54-409b-416c-a5a2-3e694c434e66</datum>
+    <aenderung>FIMA angepasst</aenderung>
+    <entscheidung>e/m von BEUS</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>1a5155a9-49e0-4105-87c2-b1548dd38e29</datum>
+    <aenderung>Änderungen (ENGL streichen, PHYS aufteilen, WERK verschieben) in ENTEC, LUR und DMPE wieder rückgängig gemacht</aenderung>
+    <entscheidung>e/m von HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f32d33d0-7358-4afe-911f-637af20996d0</datum>
+    <aenderung>AT hat jetzt im zweiten Semester sowohl Luft- als auch Raumfahrtmodule.</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>aff9d9fb-fd0c-4882-9a79-c0e6fabc9037</datum>
+    <aenderung>Modelling in MSCT durch Modeling ersetzt</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>76017005-449a-4f64-b1c3-ea5db2d9721a</datum>
+    <aenderung>Modeling in MSCT durch Modelling ersetzt :-(</aenderung>
+    <entscheidung>e/m von APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>546d71f1-689c-4d3a-b8da-7a579d44c7a9</datum>
+    <aenderung>SCHO als Modulverantwortlichen für SCM und SCMA eingetragen</aenderung>
+    <entscheidung>e/m von WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>3861a54f-a59f-40ba-bfd2-3a2d09d387fd</datum>
+    <aenderung>CBME läuft 2012 aus. MM startet 2013.</aenderung>
+    <entscheidung>e/m von KENT</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>86d7241b-894b-4860-abea-fa5dab1c439d</datum>
+    <aenderung>ILST-FSI eingepflegt</aenderung>
+    <entscheidung>e/m von STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d053d539-4d7a-42c6-8b23-c0c6e1990193</datum>
+    <aenderung>LUR: CAEP und LURA mit FASE und FR getauscht. LBKP, TSA und RAOS mit PS getauscht</aenderung>
+    <entscheidung>Abteilungsratsbeschluss Nr: 04/13</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4dd4ba4b-8107-4de1-8f82-9fcfb47cc6f7</datum>
+    <aenderung>ENGL angepasst</aenderung>
+    <entscheidung>e/m HOOK und HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>99ca840f-2760-442f-9157-74cbbcfaad8c</datum>
+    <aenderung>ENTEC-E endet 2012.</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>46ec0433-1f8d-4fe2-8cd4-0153e9f63705</datum>
+    <aenderung>AKL eingeführt</aenderung>
+    <entscheidung>e/m BRI</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>d50b726c-e17d-41aa-9b3b-727c7d19e13c</datum>
+    <aenderung>ENGL aktualisiert</aenderung>
+    <entscheidung>e/m HENN, HOOK, Jahnke</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6f2f01e4-1234-40e9-95ee-f4eb0a99d423</datum>
+    <aenderung>Anpassungen in LUR, Abteilungsratsbeschluss Nr: 04/13 wieder rückgängig gemacht</aenderung>
+    <entscheidung>e/m HENN, Abteilungsratsbeschluss Nr: 12/13</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0f46292e-3204-4806-a734-a161c65e37b5</datum>
+    <aenderung>in M: TQM und WEFE getauscht, FAPL und ZERS getauscht</aenderung>
+    <entscheidung>ABR 11/13</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>855fb5c5-09f7-4dfb-8477-9fbec354722a</datum>
+    <aenderung>in IMEC: eigentlich vorgesehene Vertauschung von CHI6 und SCM wieder rückgängig gemacht</aenderung>
+    <entscheidung>Telefonat HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>7d9a2e2a-a58a-48c3-a0cf-65b69c8e0f0d</datum>
+    <aenderung>in IMEC: ab 2011 TQM und GIMP wieder zurückgetauscht</aenderung>
+    <entscheidung>ABR 11/13</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0fad2447-85b6-469d-a485-b608491a3a11</datum>
+    <aenderung>Neuen ENTEC ohne Y-Modell</aenderung>
+    <entscheidung>Unterlagen STRA</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>9d567cad-0c81-44d9-a718-eccd060a4878</datum>
+    <aenderung>Korrekturen in ENTEC</aenderung>
+    <entscheidung>e/m STRA</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f6ff18cc-16cf-4dd0-8109-a8ef4e0a7831</datum>
+    <aenderung>Beschreibung BCS aktualisiert</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>67d3697d-4d8c-4425-a920-36f1a499808f</datum>
+    <aenderung>ELEK1: 2 SU durch 4 SU ersetzt</aenderung>
+    <entscheidung>Telefonat HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>bbad7919-51cc-428d-8469-818b6ede95a1</datum>
+    <aenderung>ENTEC komplett gestrichen. ENTEC-T läuft weiter.</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6fbbe170-1d94-4f09-b9cc-f64daf01790b</datum>
+    <aenderung>Ausnahmeregelungen im WS 2014 in ENTEC-T eingebaut</aenderung>
+    <entscheidung>Gespräch und Unterlagen HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b7b1daba-34af-4e04-ba9b-6487a706a0d7</datum>
+    <aenderung>WEFE als L statt SU eingetragen.</aenderung>
+    <entscheidung>e/m GREN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>9d9acfff-65f4-46a3-b138-43d74cac417d</datum>
+    <aenderung>EFFE: … Wintersemester</aenderung>
+    <entscheidung>e/m STRA</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0ca891e4-f813-4ec7-9ab9-b8d13c04fe2f</datum>
+    <aenderung>Literaturstellen aktualisiert</aenderung>
+    <entscheidung>Forderung Akkreditierung</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>84c059b9-c451-4883-a7f7-7d503bddcc69</datum>
+    <aenderung>LURA ist jetzt 2+2.</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>10a5400b-36f4-40a3-80de-150f1a33a4c1</datum>
+    <aenderung>APELs Literaturlisten aktualisiert.</aenderung>
+    <entscheidung>e/m APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f0430395-d3cb-4feb-9f9c-13edb92633f7</datum>
+    <aenderung>Modulverantwortlichen in ROMA und KOMA geändert-</aenderung>
+    <entscheidung>e/m SMOL (und HENN)</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>ec66a13b-5b6b-4e51-b1e7-ab1ae8ee81dd</datum>
+    <aenderung>Reakkreditierter ENTEC komplett neu ab 2016</aenderung>
+    <entscheidung>e/m STRA</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>7b7af6c9-1a35-436a-89fd-8c546399a094</datum>
+    <aenderung>Anpassung Modultyp PPS, PROS, FAPL, LSM, TQM, UMF, SCM</aenderung>
+    <entscheidung>e/m WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0035b165-7179-4a0c-aefd-dbfe4c10715a</datum>
+    <aenderung>ILST_AO eingeführt</aenderung>
+    <entscheidung>e/m STEC, Amtsblatt</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b9400ffb-9de9-47e5-98cf-8decec1406cc</datum>
+    <aenderung>Fehlende Modulbeschreibungen in ILST nachgepflegt</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f061c298-f389-49d0-8f34-2d2907f87403</datum>
+    <aenderung>Änderungen in ILST_MT und _FSI</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>33e5510a-df59-484d-96f4-b385a99396ea</datum>
+    <aenderung>Anfangssemester in DMPE bei einigen WPM angepasst.</aenderung>
+    <entscheidung>e/m GREN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>aea9816e-67cd-4bf3-89f0-5c0710c96061</datum>
+    <aenderung>Ein paar Modulbeschreibungen in ILST erstellt</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>f690e871-9ea6-441c-8e05-9002ac935724</datum>
+    <aenderung>Literatur bei WEBA</aenderung>
+    <entscheidung>e/m SCHB</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c94d1473-4a29-4b96-a1bd-cda2139f5588</datum>
+    <aenderung>Neue BPOs von DMPE und LUR eingepflegt</aenderung>
+    <entscheidung>e/m und Telefonat HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4b35bad7-0c46-43ef-9be1-95ad1b3495fc</datum>
+    <aenderung>Modulbeschreibung RFM eingefügt</aenderung>
+    <entscheidung>e/m Apel</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>0c443bc5-8800-4d1f-a795-5af97655afc4</datum>
+    <aenderung>In RTFR SU durch L ersetzt</aenderung>
+    <entscheidung>nach e/m Witter</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>aaac8b4a-1610-47e6-8aec-4fd1965790fc</datum>
+    <aenderung>MATH 3 eingepflegt.</aenderung>
+    <entscheidung>Wunsch WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>fcf179cc-0435-43ef-be27-f6d159273a2d</datum>
+    <aenderung>Modulbeschreibung TPT eingepflegt</aenderung>
+    <entscheidung>e/m GREN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>120ad170-63f0-47db-8f3b-47c882a0f1c3</datum>
+    <aenderung>STRO ersetzt TSTR in IMEC</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a919b200-8b79-4526-bcbd-1b96d47231c4</datum>
+    <aenderung>FSI letzter Jahrgang hat 2014 begonnen.</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>dfd83287-0a8e-440c-9daf-53717df9d1fb</datum>
+    <aenderung>EHA und ST getauscht</aenderung>
+    <entscheidung>Abteilungsrat 19.12.2017</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>47a5216f-77ce-449a-8586-a1ac3c3b0093</datum>
+    <aenderung>MATH 3 jetzt im Sommersemester</aenderung>
+    <entscheidung>e/m GREN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b8f62a7d-f492-46bc-bcce-0adbc1cf87f7</datum>
+    <aenderung>AI* eingepflegt</aenderung>
+    <entscheidung>AR-Beschluss</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>b758ae18-a93a-4ce6-9c70-998c9983d3b2</datum>
+    <aenderung>WPM bei ENTEC nachgetragen</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>60827bc3-a6e4-4f5a-966c-f7ee8fdc6a35</datum>
+    <aenderung>Bei AI* Lehrform auf Projekt und Prüfungsform auf Rechnerprogramm geändert</aenderung>
+    <entscheidung>e/m WEST</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>8f4625e5-d729-478a-8bae-768e5ebf6b9a</datum>
+    <aenderung>Studiengang M an BPO fuer 2019 angepasst</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6345ff3f-93d2-4776-b1de-a2074caa016f</datum>
+    <aenderung>ILST an aktuelle BPO angepasst</aenderung>
+    <entscheidung>e/m STEC</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>56d5295e-06d8-45e1-ac11-ee40b6f5b66f</datum>
+    <aenderung>Modul Airbus Café erstellt</aenderung>
+    <entscheidung>e/m APEL (und STOLL)</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>fee2aa07-a491-4a09-871b-e902d9ffdaa7</datum>
+    <aenderung>Anpassung an die neue Modulvorlage (keine Inhaltlichen Änderungen)</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>c0d82b63-6e18-4c4c-b624-66d9636145ea</datum>
+    <aenderung>Neue englische typ Spalte hinzugefügt</aenderung>
+    <entscheidung>mündlich BUCH</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>a84b0f25-a55c-496f-84bb-7619d78bb555</datum>
+    <aenderung>Modul Airbus Café zu anderen Modulen hinzugefügt</aenderung>
+    <entscheidung>mündlich APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>65e74835-15b6-456e-8393-29d364fc8fd5</datum>
+    <aenderung>neue Benennunt des Studiengangs IMAC zu MAWIC</aenderung>
+    <entscheidung>e/m HAUG</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>79a9fbb8-6e43-40d4-964c-f6cbeb3ac9fa</datum>
+    <aenderung>Prof. Dr.-Ing. Kollien als Modulverantwortlichen der Module ATHT und EHA entfernt</aenderung>
+    <entscheidung>e/m BUCH</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>4db0592e-056b-4c0f-88ed-ad03cb2352c2</datum>
+    <aenderung>ENWI eingepflegt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>59989dfe-607b-4a30-8012-c44b5c6be274</datum>
+    <aenderung>Änderung des Dozenten in BWL von Beusch (verstorben) zu Haug</aenderung>
+    <entscheidung>e/m BUCH</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>204dfbb7-3463-477f-8a7b-42f6937ed092</datum>
+    <aenderung>Änderung Modulverantwortung in LWB von Schubert zu Jablonski</aenderung>
+    <entscheidung>e/m HENN</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>6456c32f-47db-4318-812d-8ba068ab0a4a</datum>
+    <aenderung>Alle Modulreihenfolgen eingefügt</aenderung>
+  </aenderungen>
+  <aenderungen>
+    <datum>92b1e982-bab3-4937-b482-93c791e160a3</datum>
+    <aenderung>Modulreihenfolgen tausch von Effiziente Energietechniken mit Strömungs- und Kolbenmaschinen in ENTEC und ENWI</aenderung>
+    <entscheidung>e/m HAUG</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>219995c4-8726-46c2-ade5-2428be336439</datum>
+    <aenderung>Modulbeschreibungen SATO und RTSA</aenderung>
+    <entscheidung>e/m APEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>133f204f-c8be-409a-a9f7-3b70a18d53cc</datum>
+    <aenderung>Ersetzt Schormann mit Farina Krohne in LSMF und SCM</aenderung>
+    <entscheidung>e/m BUCH</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>df080f9e-cb51-4a3b-8a82-281a8c1daf86</datum>
+    <aenderung>INDA update</aenderung>
+    <entscheidung>e/m GRENDEL</entscheidung>
+  </aenderungen>
+  <aenderungen>
+    <datum>614e379e-58b1-42a9-8318-b7c8eeb368a9</datum>
+    <aenderung>Aktualisierung der Modul Lernergebnisse MECH1, STRO, FLUA</aenderung>
+    <entscheidung>e/m APEL</entscheidung>
+  </aenderungen>
+</dataroot>

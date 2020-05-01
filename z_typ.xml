@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-04-10T11:25:43">
+  <z_typ>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <typ_name>Seminaristischer Unterricht</typ_name>
+    <typ_name_engl>Seminaristic Modul</typ_name_engl>
+    <typ_groesse>36</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>b7a8a0b9-a750-47df-b5a5-d1a8db5236d5</typ_id>
+    <typ_name>Übung</typ_name>
+    <typ_name_engl>Exercise</typ_name_engl>
+    <typ_groesse>18</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>70256641-db1e-4d35-9078-19701b832d2f</typ_id>
+    <typ_name>Labor</typ_name>
+    <typ_name_engl>Laboratory</typ_name_engl>
+    <typ_groesse>18</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <typ_name>Seminar</typ_name>
+    <typ_name_engl>Seminary</typ_name_engl>
+    <typ_groesse>20</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>4106e19b-219f-4ccc-b0fa-5ea501bcd157</typ_id>
+    <typ_name>Arbeit</typ_name>
+    <typ_name_engl>Thesis</typ_name_engl>
+    <typ_groesse>0</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
+    <typ_name>Flugschule</typ_name>
+    <typ_name_engl>Flight Training</typ_name_engl>
+    <typ_groesse>18</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>9caf3e98-97d5-4b49-b49c-9e76622569a9</typ_id>
+    <typ_name>Extern</typ_name>
+    <typ_name_engl>External</typ_name_engl>
+    <typ_groesse>0</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>d9066321-dbda-4bf3-b8f0-945060774e10</typ_id>
+    <typ_name>Praxis</typ_name>
+    <typ_name_engl>Placement</typ_name_engl>
+    <typ_groesse>0</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>3f1281b6-6485-49ba-be7e-eb4279b18795</typ_id>
+    <typ_name>Projekt</typ_name>
+    <typ_name_engl>Project</typ_name_engl>
+    <typ_groesse>18</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>c3a5e7fb-83b4-45dc-8e4f-ed89b5f75c17</typ_id>
+    <typ_name>tbd</typ_name>
+    <typ_name_engl>tbd</typ_name_engl>
+    <typ_groesse>0</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>2fe34c17-245d-434c-b559-4168435c6c6f</typ_id>
+    <typ_name>Sprachpraktische Übung</typ_name>
+    <typ_name_engl>Language course</typ_name_engl>
+    <typ_groesse>24</typ_groesse>
+  </z_typ>
+  <z_typ>
+    <typ_id>862c8fe6-e248-4cce-9058-18d6fa97672d</typ_id>
+    <typ_name>Lufthansa Technik Hamburg</typ_name>
+    <typ_name_engl>Lufthansa Technik Hamburg</typ_name_engl>
+    <typ_groesse>0</typ_groesse>
+  </z_typ>
+</dataroot>

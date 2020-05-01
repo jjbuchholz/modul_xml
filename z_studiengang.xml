@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-04-10T11:25:39">
+  <z_studiengang>
+    <studiengang_id>2d5ce5f0-1a47-4fca-907e-c63fb3e40db6</studiengang_id>
+    <studiengang_abk>EUT_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Energie- und Umwelttechnik (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>351018ae-d46c-4662-9029-b2e74f1d9114</studiengang_id>
+    <studiengang_abk>LUR_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Luft- und Raumfahrttechnik (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>e1af48d7-97d1-4d37-948f-5b0d5aca5ab1</studiengang_id>
+    <studiengang_abk>PRO_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Produktionstechnik  (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>457fe9c8-9952-40e2-9cef-d52b128894d2</studiengang_id>
+    <studiengang_abk>IE_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Industrial Engineering (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>cc53d702-ad2d-423f-b1cd-e701461b5fb2</studiengang_id>
+    <studiengang_abk>ILST_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management  (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>404c61d2-6b6a-4ca0-bf81-36ecb9757f59</studiengang_id>
+    <studiengang_abk>ISWI_DIPLOM</studiengang_abk>
+    <studiengang_abschluss>Diplom</studiengang_abschluss>
+    <studiengang_name>Wirtschaftsingenieurwesen  (Diplom)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>f6a14faa-b26a-4dd8-9327-6bd70e924174</studiengang_id>
+    <studiengang_abk>CBME</studiengang_abk>
+    <studiengang_abschluss>Master</studiengang_abschluss>
+    <studiengang_name>Computer Based Mechanical Engineering (Master)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>3b719bc1-266e-4c4f-993d-c1d7218ac22f</studiengang_id>
+    <studiengang_abk>GIM</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Global Industrial Management (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>c976d126-dee5-40d7-87c7-01f125ad591c</studiengang_id>
+    <studiengang_abk>ILST_VF</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management für Flugzeugführerinnen und  Flugzeugführer (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>c3d27c33-e669-48cb-a576-e1174f905c7b</studiengang_id>
+    <studiengang_abk>FERT</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Fertigungstechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>4bbbd757-1fd4-4131-9767-dd2eba371d6e</studiengang_id>
+    <studiengang_abk>TRE</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Thermische und regenerative Energietechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>3cdd5d78-e2cb-4211-9d5b-6774c206de4f</studiengang_id>
+    <studiengang_abk>LUR</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Luft- und Raumfahrttechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <studiengang_abk>ISWI</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Wirtschaftsingenieurwesen (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>78fa0d4c-9933-4bdf-b0ff-cfd8e99e2cf2</studiengang_id>
+    <studiengang_abk>ENTEC_T</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Thermische Energietechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>4cd6bb17-b345-452f-a03a-81a78ba14541</studiengang_id>
+    <studiengang_abk>ENTEC_E</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Elektrische Energietechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>db8cfec6-4a83-4bbc-a2a8-550c505782dc</studiengang_id>
+    <studiengang_abk>MAWIC (IMEC)</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Maschinenbau mit Schwerpunkt Wirtschaftsraum China (Bachelor) &lt;br&gt; [Industrial Management and Engineering China (Bachelor)]</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>e8927ef7-761e-4e54-86e2-d10f2185a605</studiengang_id>
+    <studiengang_abk>DMPE</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Dualer Studiengang Mechanical Production and Engineering (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>6fb2590b-0903-41fa-b95f-cb33a77c132a</studiengang_id>
+    <studiengang_abk>MEAM</studiengang_abk>
+    <studiengang_abschluss>Master</studiengang_abschluss>
+    <studiengang_name>Aeronautical Management (Master)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>9a275ccd-98db-4edb-a149-e7314600278a</studiengang_id>
+    <studiengang_abk>ILST_MT</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management für Wartungsingenieurinnen und Wartungsingenieure (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>cf5a3082-6008-4bc4-93f9-24000fdd9cd0</studiengang_id>
+    <studiengang_abk>M</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Maschinenbau (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>ecc1a593-a3ca-41e5-b53c-47d9bb0e560e</studiengang_id>
+    <studiengang_abk>AT</studiengang_abk>
+    <studiengang_abschluss>Master</studiengang_abschluss>
+    <studiengang_name>Aerospace Technologies (Master)</studiengang_name>
+    <studiengang_beginn>ss</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>a88b2303-cb59-4320-800c-d518f7824edf</studiengang_id>
+    <studiengang_abk>MM</studiengang_abk>
+    <studiengang_abschluss>Master</studiengang_abschluss>
+    <studiengang_name>Maschinenbau (Master)</studiengang_name>
+    <studiengang_beginn>ss</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>b3dd595e-9ae0-425e-af40-5a4d2b5f2e8a</studiengang_id>
+    <studiengang_abk>ILST_FSI</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management für Flugsicherungsingenieurinnen und Flugsicherungsingenieure (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>111317fd-e919-4d87-9ab4-bd2926139817</studiengang_id>
+    <studiengang_abk>ENTEC</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Energietechnik (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>995743aa-1f07-4990-803e-4144eb214aec</studiengang_id>
+    <studiengang_abk>ILST_AO</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management für Flughafenbetriebsingenieurinnen und Flughafenbetriebsingenieure (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>e14f8597-d5e5-4004-a02d-2a04eb2ce2b5</studiengang_id>
+    <studiengang_abk>ENWI</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Wirtschaftsingeneurwesen mit Schwerpunkt Energie (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+</dataroot>

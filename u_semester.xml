@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-03-31T15:26:56">
+  <u_semester>
+    <semester_id>ae650dee-b17e-4588-a26f-857bf77e564f</semester_id>
+    <semester_zeigen>1. Semester</semester_zeigen>
+    <semester_von>1</semester_von>
+    <semester_bis>1</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>f2e80150-98f9-475a-9bfe-42917d8eb895</semester_id>
+    <semester_zeigen>2. Semester</semester_zeigen>
+    <semester_von>2</semester_von>
+    <semester_bis>2</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>cf3d142e-9702-4865-8871-77c432e47788</semester_id>
+    <semester_zeigen>3. Semester</semester_zeigen>
+    <semester_von>3</semester_von>
+    <semester_bis>3</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>19da836c-007e-42d9-8520-ebc4c5349340</semester_id>
+    <semester_zeigen>4. Semester</semester_zeigen>
+    <semester_von>4</semester_von>
+    <semester_bis>4</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>975ebe5b-ea85-4f72-8aca-85cf4c9ca8a6</semester_id>
+    <semester_zeigen>5. Semester</semester_zeigen>
+    <semester_von>5</semester_von>
+    <semester_bis>5</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>fcf09423-cea7-4837-9067-aa75f34c3751</semester_id>
+    <semester_zeigen>6. Semester</semester_zeigen>
+    <semester_von>6</semester_von>
+    <semester_bis>6</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>6a11808e-0f6e-4b0d-b7f1-32572fee33ed</semester_id>
+    <semester_zeigen>7. Semester</semester_zeigen>
+    <semester_von>7</semester_von>
+    <semester_bis>7</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>d683e639-1c00-42a8-bb83-30ad2038aa1c</semester_id>
+    <semester_zeigen>8. Semester</semester_zeigen>
+    <semester_von>8</semester_von>
+    <semester_bis>8</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>3e38d941-4587-4bbb-916d-dd376d73686b</semester_id>
+    <semester_zeigen>Grundstudium</semester_zeigen>
+    <semester_von>1</semester_von>
+    <semester_bis>3</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>68cb5ea1-9dbb-485d-80b8-28815d1bb625</semester_id>
+    <semester_zeigen>Hauptstudium</semester_zeigen>
+    <semester_von>4</semester_von>
+    <semester_bis>8</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>38d765c3-7851-4d8b-9dc7-5137c39eabe4</semester_id>
+    <semester_zeigen>Alle Semester</semester_zeigen>
+    <semester_von>1</semester_von>
+    <semester_bis>8</semester_bis>
+  </u_semester>
+  <u_semester>
+    <semester_id>50df4a99-c85f-4db9-9f41-fd73d72edba0</semester_id>
+    <semester_zeigen>Wahlpflichtfächer</semester_zeigen>
+    <semester_von>4</semester_von>
+    <semester_bis>7</semester_bis>
+  </u_semester>
+</dataroot>

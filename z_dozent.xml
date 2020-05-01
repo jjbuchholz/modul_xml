@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-04-10T11:25:23">
+  <z_dozent>
+    <dozent_id>f16b288c-a385-4474-b1c0-67e37a7440af</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Jörg J. Buchholz</dozent_name>
+    <dozent_homepage>https://m-server.fk5.hs-bremen.de/jjbuchholz.html</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>fcfe0301-b910-4829-a262-7917cb254f5a</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Hans-Gerhard Brinkmann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>6aa773ac-dcd8-46d0-9af0-6ddfe73de459</dozent_id>
+    <dozent_name>Dr.-Ing. Michaela Sultan</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>07c57bdf-fc3b-45b5-bec9-4544851e188a</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Jens Jensen</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>79b3f147-c596-4a7a-8280-9a7f4407242e</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Joachim Schormann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/schormann/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>8947b287-8365-4252-b122-30c611b70bca</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Bernd Steckemetz</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/steckeme/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>8950413f-d9be-425c-903f-8f52fe222c45</dozent_id>
+    <dozent_name>Prof. Dipl.-Ing. Dr. phil. Horst Crome</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/crome/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>d5d5f7f5-3057-488c-961d-43dd341d520d</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Siegfried K. Pahl</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/pahlsig/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>2eb45ce8-bee5-43c1-ac3f-405e70032779</dozent_id>
+    <dozent_name>Prof. Dipl.-Ing. Bodo Fuchs</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>9b6d3072-71be-4703-b79c-5e5258385787</dozent_id>
+    <dozent_name>Prof. Dr. Horst-Erich Rikeit</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>71d19fb8-9c8b-45f5-92c3-842eb4cf03ff</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. I. Muhlis Kenter</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/kenter/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>c93c2b2f-1f26-4781-9954-91d2d8f181ab</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Jürgen Westhof</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/westhof/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>a099d76e-20bb-41b9-a476-ff38dd2ec97b</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Rüdiger Schubert</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/schubert/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>5656937d-19ed-4283-80db-bf2ccd6d0543</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Slawomir Smolen</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/smolen/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>72acd787-0462-42c0-9fed-e57a20839c8a</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Rolf-Peter Strauß</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/rstrauss/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>a06de875-deb1-43aa-b392-d8ed3dd43efe</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Jürgen Kollien</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>50b57577-985c-4a63-b34f-764f96b9f920</dozent_id>
+    <dozent_name>Dipl. Chem. Thomas Thürmer</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>f3823a86-6738-4cf3-8d7e-fb1b6e0aebca</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Zdravko Valter</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <dozent_name>N.N. / tbd</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>4f32059a-621a-4223-8651-f34020d6acf2</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Uwe Apel</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/uapel/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>5dc3291f-562d-41f1-aab7-d58bd2c5664d</dozent_id>
+    <dozent_name>Prof. Dr. M. Fuchs</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>6f5f42e4-0e13-43ec-b9eb-1733c737d125</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Uwe Reinert</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/reinert/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>fa0df64e-d605-4723-9ac9-9dc3db9f8a37</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Olaf Frommann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/ofrommann/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>e710d3f4-1e3f-44ea-a3b3-1a5a8f088b15</dozent_id>
+    <dozent_name>Flugschule</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/steckeme/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>00d3c0ee-29d0-4c02-8abe-1da62daf5bbc</dozent_id>
+    <dozent_name>Prof. Manfred Ernst</dozent_name>
+    <dozent_homepage>mailto:mannt75@gmx.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>78fce3f7-19d4-47eb-8958-bc8b56c05d18</dozent_id>
+    <dozent_name>Dipl.-Psych. Karsten Severin</dozent_name>
+    <dozent_homepage>mailto:karsten.severin@bfu-web.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>4e80fc87-6171-4e2f-8eef-38b9a88e6b1d</dozent_id>
+    <dozent_name>Klaus Schalipp</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>00df6da2-34ca-4023-b5fd-fc18cad06058</dozent_id>
+    <dozent_name>Axel Flöte</dozent_name>
+    <dozent_homepage>mailto:axel.floete@accavia.com</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>f42958e2-30b7-4529-a74e-9574b3dd88c4</dozent_id>
+    <dozent_name>Reinhard Delker</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>22e4aef3-e020-4f99-8666-2960a5a0c554</dozent_id>
+    <dozent_name>Dr. Iris Steckemetz</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/steckeme/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>fd82d2a3-4c91-44e0-bbd0-83da1ebcb8ee</dozent_id>
+    <dozent_name>Prof. Dipl.- Ing. Karl Potthast</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>e28ef8ef-85b5-4028-b64f-b8f21888e5a6</dozent_id>
+    <dozent_name>Prof. Dr. rer. pol. Helga Meyer</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/helgameyer/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>eb9040e6-4528-4996-abeb-b6f3780fa0e5</dozent_id>
+    <dozent_name>Fremdsprachenzentrum</dozent_name>
+    <dozent_homepage>http://www.fremdsprachenzentrum.uni-bremen.de/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>6cc63f7c-e1fd-46b3-8590-2dfd8c7aae72</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Frank Jablonski</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/fjablonski/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>ba19e889-cd45-4b06-b1db-600f81b041c7</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Indulis Kalnins</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/ikalnins/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>65614e2e-082a-4945-afde-a6118245e8f5</dozent_id>
+    <dozent_name>Monika Sedlatzek</dozent_name>
+    <dozent_homepage>mailto:cielseminare@t-online.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>9ca49fc0-bb44-4aea-a096-57f1abdbac4d</dozent_id>
+    <dozent_name>Dipl.-Psych. Dominic Cardozo</dozent_name>
+    <dozent_homepage>mailto:dominic.cardozo@lft.dlh.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>7b692500-bcdb-45da-ad09-b35fae85824d</dozent_id>
+    <dozent_name>Dipl.-Ing. Jörg Seewald</dozent_name>
+    <dozent_homepage>mailto:j.seewald@gmx.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>312f8e5a-0baa-47a8-b02c-cbaa2a174026</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Dirk Hennigs</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/dhennigs/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>f7ff74c5-b651-47ad-9d8c-be2558a51e62</dozent_id>
+    <dozent_name>Ralf Bohlen</dozent_name>
+    <dozent_homepage>mailto:ralf.bohlen@airbus.com</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>91c6b055-d008-4bf2-9011-292b4223e4ab</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Gerd-J. Menken</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/gmenken/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>d8d2bb9f-c45e-40c9-a2c6-84b26ea38904</dozent_id>
+    <dozent_name>Dipl-Oec. Sabine C. Akkermann</dozent_name>
+    <dozent_homepage>http://www.sca-consulting.de/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>0a881874-3a0d-4152-a9ac-46b31a3da324</dozent_id>
+    <dozent_name>Dr. Joachim Hinrichs</dozent_name>
+    <dozent_homepage>mailto:jhin@tzi.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>5fd8fad2-54e7-4ef6-a01b-38aec8d0d62f</dozent_id>
+    <dozent_name>Ulrich Mathy</dozent_name>
+    <dozent_homepage>mailto:ulrich.mathy@t-online.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>296a41e0-79ef-43dc-9234-c7fd5f6e263f</dozent_id>
+    <dozent_name>Prof. Dr. Heinrich Warmers</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/hwarmers/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>cc045007-dbfa-4d64-aa51-4cf556fefa87</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Tihomil Rausnitz, M.Sc.</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/rausnitz/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>e63e2d15-b91b-4d07-9b3f-1ca6d3f658c4</dozent_id>
+    <dozent_name>Prof. Dr. Karsten Dünte</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/kduente/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>0a9c1ab7-125d-4a3a-9819-212d49fd1da4</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Manfred Mevenkamp</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mmev/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>bcfff02b-07f3-4039-880b-d5c020e1c915</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Michael Hartje</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/hartje/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>084ad62a-30be-4293-8d68-ac853e998d4c</dozent_id>
+    <dozent_name>Minyan Luo</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mluo/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>c44082cc-7ab8-4dca-847f-24b5d1e267d7</dozent_id>
+    <dozent_name>Dozenten der Partneruniversitäten in China</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mluo/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>364ede3b-04b6-44d5-8b46-3c6ce88f73ac</dozent_id>
+    <dozent_name>Dr. Holger Winkler</dozent_name>
+    <dozent_homepage>mailto:hwinkler@iup.physik.uni-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>bc08f7ea-177f-4ad9-87c3-74a8326ed8e9</dozent_id>
+    <dozent_name>Dettmar Dencker</dozent_name>
+    <dozent_homepage>mailto:dettmar.dencker@airport-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>07bba3de-7c7f-443a-a7b4-7db3b7508ebd</dozent_id>
+    <dozent_name>Prof. Dr. H.-M. Niemeier</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/hniemeier/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>18222de0-7614-4d9b-ac75-c92aee880a78</dozent_id>
+    <dozent_name>Dr. Thomas Immelmann</dozent_name>
+    <dozent_homepage>mailto:timmelmann@ham.airport.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>cee11e07-88cd-4cc0-a19c-10a3f0d4c7ba</dozent_id>
+    <dozent_name>Prof. Kapt. Ernst Folz</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>9df67e3b-7ffa-4a1d-91a2-48979f7f9d94</dozent_id>
+    <dozent_name>Cpt. Manfred Müller</dozent_name>
+    <dozent_homepage>mailto:manfred.mueller@dlh.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>11fa5b4c-9ed8-4df4-94cf-f7e5eed76a3d</dozent_id>
+    <dozent_name>Cpt. Jürgen Raps</dozent_name>
+    <dozent_homepage>mailto:juergen.raps@dlh.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>3e160e8b-2e09-4c78-9f83-7e6f429ea158</dozent_id>
+    <dozent_name>Dipl.-Ing. Matthias Vyshnevskyy</dozent_name>
+    <dozent_homepage>vyshnevykeyy@gmx.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>d086f711-cd9a-4174-a2ee-7cc0acbb76cb</dozent_id>
+    <dozent_name>Oliver Weiss</dozent_name>
+    <dozent_homepage>mailto:oliver.weiss@airbus.com</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>42754c09-6d24-416f-a5ea-170e031290a7</dozent_id>
+    <dozent_name>Christian Knuschke B.Eng.</dozent_name>
+    <dozent_homepage>mailto:christian.knuschke@airport-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>0ef5fed7-ba7a-48d6-9a23-ca66dc99dd1a</dozent_id>
+    <dozent_name>Günther Claußen</dozent_name>
+    <dozent_homepage>mailto:the.aviator@web.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>d36f97e3-006f-4c4e-9454-f7c40fbe10a7</dozent_id>
+    <dozent_name>Alle am Studiengang beteiligten Hochschullehrer</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/einrichtungen/fakultaeten/f5/abt1/personal/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>609e0fe2-d31a-4289-b277-c3a575050f62</dozent_id>
+    <dozent_name>Dipl.-Kfm. Ingrid Beusch</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>83ef1e6b-9be4-48f8-9322-f50a0a2bc78d</dozent_id>
+    <dozent_name>Dipl.-Ing. Carsten Holze</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>322eabcd-3a4c-4da2-a309-05c4aece40b2</dozent_id>
+    <dozent_name>Jeremy Hookway</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/jhookway/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>a93b7733-3e19-4a96-8e2a-91d080b2cf2c</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Heiko Grendel</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/hgrendel/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>b57775c5-3f9a-4dde-91b1-e8b918aadb90</dozent_id>
+    <dozent_name>Prof. Dr. phil. Sören Peik</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/speik/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>e1743c2e-d22d-4cf8-a4ab-31ef0fd1ee4e</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Friedrich Fleischmann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/fleischm/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>563572f1-0a49-4320-aa30-355e134448eb</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Herbert Schmatz</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/schmatz/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>3970c909-d474-424b-aff6-cc0bdc7ec0c3</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Stefan Wolter</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/wolter/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>bc4bf8e1-fe70-4280-8057-b1c2d26684d8</dozent_id>
+    <dozent_name>Cpt. Christian Netzeband</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/steckeme/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>91a5b717-6374-4dfc-b0ff-c817fab5f4ab</dozent_id>
+    <dozent_name>Prof. Dr. sc. techn. Christian Brockmann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/brockman/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>96699c76-c976-4ef2-8d14-b53f2e6b524f</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Carsten-W. Müller</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mueller/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>8c1857c6-5ba0-417e-aaf2-80f877fb138c</dozent_id>
+    <dozent_name>MitarbeiterInnen der kooperierenden Ausbildungsbetriebe</dozent_name>
+    <dozent_homepage>https://hs-bremen.de</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>c121f331-4f2e-4880-b9d5-8f4f65900ade</dozent_id>
+    <dozent_name>Prof. Dr. rer. nat. Ingo Haug</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/ihaug/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>76482b8a-47ab-442b-8325-47a1d814579e</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Sven Oppermann</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/oppermann/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>90d8ecbc-a76b-498a-9881-d06f9c0cf07f</dozent_id>
+    <dozent_name>Prof. Dr. Ulrich Krüger</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/ukrueger/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>f542560f-bb52-4afe-95e7-f2e99cd6464e</dozent_id>
+    <dozent_name>Prof. Dr.-Ing. Farian Krohne</dozent_name>
+    <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/krohne/</dozent_homepage>
+  </z_dozent>
+</dataroot>

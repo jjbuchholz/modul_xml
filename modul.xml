@@ -22808,16 +22808,8 @@
     <modul_abk>ACBM</modul_abk>
     <modul_name>Rechnerunterstützte höhere Mathematik</modul_name>
     <modul_name_eng>Advanced Computer Based Mathematics</modul_name_eng>
-    <modul_ziel>Aufbauend auf die im Bachelor-Studiengang gelehrten Grundlagen der Ingenieurmathematik (Gleichungen, Funktionen, Vektoren, Matrizen, Differenzial- und Integralrechnung, Differenzialgleichungen) ergänzt dieses Modul wichtige Themen der angewandten Mathematik und legt so die mathematischen Voraussetzungen für die erfolgreiche Teilnahme an den übrigen Modulen des Master-Studiengangs. Dabei wird ein besonderes Augenmerk darauf gelegt, dass die Studierenden ihr theoretisches Wissen in praktischen rechnerbasierten Übungen mit der Mathematikumgebung Matlab®/Simulink® umsetzen.
-
-&amp;lt;p&amp;gt; 
-
-Die Teilnehmer sind nach erfolgreicher Teilnahme am Modul in der Lage, mathematische Probleme, wie sie in der Ingenieurspraxis auftreten, mit einem Digitalrechner zu lösen und die Lösungen auf ihre Anwendbarkeit hin zu untersuchen. Sie beherrschen, exemplarisch in Matlab, sowohl das analytische Modul des Computer-Algebra-Systems als auch die numerischen Lösungsverfahren für komplexe Systeme. &amp;lt;p&amp;gt; Sie haben somit die Fähigkeit, ihr Wissen in eine neue Problemstellung zu integrieren und mit Komplexität umzugehen. Sie können ihr Wissen sowie ihre Fähigkeiten zur Problemlösung auch in neuen und unvertrauten multidisziplinären Situationen anwenden.</modul_ziel>
-    <modul_ziel_eng>Based on the Bachelors course taught fundamentals of engineering mathematics (equations, functions, vectors, matrices, differential and integral calculus, differential equations) this module adds important topics of applied mathematics and presents the mathematical prerequisites for successful participation in the remaining modules of the Master's Degree. A special focus is placed on ensuring that the students implement their theoretical knowledge in practical calculus based exercises with the mathematical environment Matlab®/Simulink® 
-
-&amp;lt;p&amp;gt; 
-
-After successful completion of the module, the students are capable of solving mathematical problems with a digital solver, as they appear in the engineering practice, and to investigate the applicability of the solutions. They master, exemplified in Matlab, both the analytical module of the Computer-Algebra-Systems, as well as the numerical solution methods for complex systems. &amp;lt;p&amp;gt; In this way, they have the ability to integrate their knowledge into new problems and to deal with complexity. They also can apply their knowledges and problem solving skills in new, unfamiliar multidisciplinary situations. </modul_ziel_eng>
+    <modul_ziel>Aufbauend auf die im Bachelor-Studiengang gelehrten Grundlagen der Ingenieurmathematik (Gleichungen, Funktionen, Vektoren, Matrizen, Differenzial- und Integralrechnung, Differenzialgleichungen) ergänzt dieses Modul wichtige Themen der angewandten Mathematik und legt so die mathematischen Voraussetzungen für die erfolgreiche Teilnahme an den übrigen Modulen des Master-Studiengangs. Dabei wird ein besonderes Augenmerk darauf gelegt, dass die Studierenden ihr theoretisches Wissen in praktischen rechnerbasierten Übungen mit der Mathematikumgebung Matlab®/Simulink® umsetzen. Die Teilnehmer sind nach erfolgreicher Teilnahme am Modul in der Lage, mathematische Probleme, wie sie in der Ingenieurspraxis auftreten, mit einem Digitalrechner zu lösen und die Lösungen auf ihre Anwendbarkeit hin zu untersuchen. Sie beherrschen, exemplarisch in Matlab, sowohl das analytische Modul des Computer-Algebra-Systems als auch die numerischen Lösungsverfahren für komplexe Systeme. &amp;lt;p&amp;gt; Sie haben somit die Fähigkeit, ihr Wissen in eine neue Problemstellung zu integrieren und mit Komplexität umzugehen. Sie können ihr Wissen sowie ihre Fähigkeiten zur Problemlösung auch in neuen und unvertrauten multidisziplinären Situationen anwenden.</modul_ziel>
+    <modul_ziel_eng>Based on the Bachelors course taught fundamentals of engineering mathematics (equations, functions, vectors, matrices, differential and integral calculus, differential equations) this module adds important topics of applied mathematics and presents the mathematical prerequisites for successful participation in the remaining modules of the Master's Degree. A special focus is placed on ensuring that the students implement their theoretical knowledge in practical calculus based exercises with the mathematical environment Matlab®/Simulink®. After successful completion of the module, the students are capable of solving mathematical problems with a digital solver, as they appear in the engineering practice, and to investigate the applicability of the solutions. They master, exemplified in Matlab, both the analytical module of the Computer-Algebra-Systems, as well as the numerical solution methods for complex systems. &amp;lt;p&amp;gt; In this way, they have the ability to integrate their knowledge into new problems and to deal with complexity. They also can apply their knowledges and problem solving skills in new, unfamiliar multidisciplinary situations. </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Rechnerprogramm</modul_pruefungsform>
@@ -22835,102 +22827,102 @@ After successful completion of the module, the students are capable of solving m
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>0d676b41-3c04-49da-8a83-45c9f901f57a</id>
+        <id>652d093d-d97d-42d5-85f7-558d5b4e473f</id>
         <titel>Raumkurven, Vektorielle Parameterdarstellung, Tangentenvektor, Krümmung</titel>
         <titel_eng>Space curves, Parameter representation, Tangent vectors, Curvature</titel_eng>
       </kapitel>
       <kapitel>
-        <id>4ba1323e-726f-437e-82de-c1cc05fd8082</id>
+        <id>c0bb48b2-3f7a-4c42-9a5c-d702c86bd35a</id>
         <titel>Skalar- und Vektorfelder, Gradient, Divergenz, Rotation, Niveaulinien, Richtungsableitung, Quellenfreiheit, Wirbelfreiheit, Laplace-Operator, Laplace-Gleichung, Poisson-Gleichung</titel>
         <titel_eng>Scalar and vector fields, Gradient, Divergence, Curl, Contour lines, Directional derivative, Source free vector fields, Irrotational vector fields, Laplace operator, Laplace equation, Poisson equation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>25e13d54-763c-4346-82e6-be321bdbf7b3</id>
+        <id>806ffaa3-f0b7-48c9-956b-88174ced5055</id>
         <titel>Kurvenintegrale, Potenzialfunktion, konservative Felder</titel>
         <titel_eng>Line integrals, Scalar potential, Conservative fields</titel_eng>
       </kapitel>
       <kapitel>
-        <id>39a6071b-b454-4d68-8181-9e614e598590</id>
+        <id>baa2bee5-71f9-46c5-b09d-78ce1a837e3e</id>
         <titel>Kombinatorik, Wahrscheinlichkeit, Permutation, Kombination, Variation, De Morganschen Regeln, Zufallszahlen, Histogramm, Wahrscheinlichkeitsdiagramm</titel>
         <titel_eng>Combinatorics, Probability, Permutation, Combination, Variation, De Morgan's rules, Random numbers, Histogram, Probability diagram</titel_eng>
       </kapitel>
       <kapitel>
-        <id>17ae02eb-1515-4e27-ba4c-7c7eeacc8531</id>
+        <id>97e47bef-57d8-4000-bd5f-433a9ea2e452</id>
         <titel>Verteilungen, Wahrscheinlichkeitsfunktion, Verteilungsfunktion, Dichtefunktion, Binomialverteilung, Galton-Brett, Hypergeometrische Verteilung, Poisson-Verteilung, Gaußsche Normalverteilung, Standardnormalverteilung, Fehlerfunktion, Quantile, Mehrdimensionale Verteilungen, Randverteilungen, Chi-Quadrat-Verteilung, Gamma-Funktion, Student-t-Verteilung</titel>
         <titel_eng>Distributions, Probability function, Distribution function, Density function, Binomial distribution, Galton board, Hypergeometric distribution, Poisson distribution, Gaussian normal distribution, Standard normal distribution, Error function, Quantile, Multidimensional distributions, Marginal distributions, Chi-square distribution, Gamma function, Student-t distribution</titel_eng>
       </kapitel>
       <kapitel>
-        <id>6a2857dc-924e-438e-9328-384dd1cb7b33</id>
+        <id>3ad25827-28b8-4326-b67e-7b32c7c6bb52</id>
         <titel>Angewandte Statistik, Stichprobe, Mittelwert, Standardabweichung, Varianz, Spannweite, Median, Modalwert, Ausreißer, Vertrauensintervall</titel>
         <titel_eng>Applied statistics, Sample, Mean, Standard deviation, Variance, Range, Median, Mode, Outliers, Confidence interval</titel_eng>
       </kapitel>
       <kapitel>
-        <id>11095885-1733-4381-92b5-384b045b867e</id>
+        <id>b8eadf6f-7fe5-468c-aea1-d224c3eff815</id>
         <titel>Interpolationsverfahren, Kennlinie, Look Up Table, Lineare Interpolation, Kubische Interpolation, Spline-Interpolation</titel>
         <titel_eng>Interpolation, Characteristic curve, Look Up Table, Linear interpolation, Cubic interpolation, Spline interpolation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>95e2a2ac-a272-4fdf-a377-a52d5d7ead65</id>
+        <id>34714958-4237-4d7f-a0e6-f8fe94fdd7c8</id>
         <titel>Mehrdimensionale Interpolation, Nearest-Neighbor-Interpolation</titel>
         <titel_eng>Multidimensional Interpolation, Nearest-Neighbor-Interpolation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>3877f532-da82-426b-84e3-3e2fde2c3d5e</id>
+        <id>d69a2979-290b-42a3-92e0-da179e9c3020</id>
         <titel>Korrelation, Regression, Least Squares, Korrelationskoeffizient, Irrtumswahrscheinlichkeit, Nichtlineare Regression</titel>
         <titel_eng>Correlation, Regression, Least Squares, Correlation coefficient, Error probability, Nonlinear regression</titel_eng>
       </kapitel>
       <kapitel>
-        <id>0a54b894-c2b8-4782-aff9-3d82dfa44bd5</id>
+        <id>2ba0c496-e626-4a8c-bc8c-cb8cbe8e43df</id>
         <titel>Simulation, Dynamische Systeme, Dämpfung, Eigenfrequenz, Übertragungsfunktion, Zustandsraum, Sprungantwort</titel>
         <titel_eng>Simulation, Dynamic systems, Damping, Natural frequency, Transfer function, State space, Step response</titel_eng>
       </kapitel>
       <kapitel>
-        <id>55f06998-06a0-41a5-9fec-1bd885a8087f</id>
+        <id>dc20a6d8-0c3d-4e38-9b58-0617737c724c</id>
         <titel>Optimierung, Identifikation, Kostenfunktion</titel>
         <titel_eng>Optimisation, Identification, Cost function</titel_eng>
       </kapitel>
       <kapitel>
-        <id>5283c5d6-0620-4bf9-9ad3-0589c0990033</id>
+        <id>1d916d54-c367-4b2d-a4b4-c03d9909b5bd</id>
         <titel>Zufallszahlen, Sortieralgorithmen, Periodenlänge, Straight-Insertation, Shell's Method, Quicksort, Heapsort, Indexieren, Ranking</titel>
         <titel_eng>Random numbers, Sorting algorithms, Period length, Straight-Insertation, Shell's Method, Quicksort, Heapsort, Indexing, Ranking</titel_eng>
       </kapitel>
       <kapitel>
-        <id>e31d2e98-d2ae-4700-8f6f-7f662479ffd3</id>
+        <id>8d52fccb-4015-4970-a43d-2f61c502999c</id>
         <titel>Matrizeneigenschaften, Spezielle Funktionen, Quadratische Matrix, Diagonalmatrix, Symmetrische Matrix, Hermitesche Matrix, Reelle Matrix, Singuläre Matrix, Orthogonale Matrix, Unitäre Matrix, Positiv definierte Matrix, Hadamard-Matrix, Hankel-Matrix, Hilbert-Matrix, Pascal-Matrix, Toeplitz-Matrix, Vandermonde-Matrix, Hessenberg-Matrix</titel>
         <titel_eng>Matrix characteristic, Special Functions, Quadratic matrix, Diagonal matrix, Symmetric matrix, Hermitian matrix, Real matrix, Singular matrix, Orthogonal matrix, Unitary matrix, Positive definite matrix, Hadamard matrix, Hankel matrix, Hilbert matrix, Pascal matrix, Toeplitz matrix, Vandermonde matrix, Hessenberg matrix</titel_eng>
       </kapitel>
       <kapitel>
-        <id>8c92c5d0-4511-4c6c-a2ca-1027adf8362e</id>
+        <id>eca1b17e-5987-4d2b-9766-d1672a5a7fe6</id>
         <titel>Matrizeninversion, Gauß-Jordan-Zerlegung, Pivotisierung, LU-Zerlegung, Cholesky-Zerlegung, QR-Zerlegung</titel>
         <titel_eng>Matrix inversion, Gauss-Jordan decomposition, Pivoting, LU decomposition, Cholesky decomposition, QR decomposition</titel_eng>
       </kapitel>
       <kapitel>
-        <id>6c92dd13-dc5c-4e22-8601-0b0075daa0ee</id>
+        <id>0228ce51-730d-427e-8aaf-d0bd45ad9e62</id>
         <titel>Singulärwert-Zerlegung, Singulärwerte, Singulärvektoren, (Pseudo-)Inversion, Nullraum, Wertebereich, lineare Abhängigkeiten</titel>
         <titel_eng>Singular value decomposition, Singular values, Singular vectors, (Pseudo-) inversion, Null space, Range, Linear dependencies</titel_eng>
       </kapitel>
       <kapitel>
-        <id>cb58a897-a71f-4e13-b013-8cf7e6597a9a</id>
+        <id>519a7985-5387-4127-9d14-c1a9e4274a98</id>
         <titel>Schnelle Fourier-Transformation, Polynommultiplikation, Faltung, zero padding, Autokorrelation, Leistungsdichte, Nyquistfrequenz, Bartlett-Fenster, digitale Filter</titel>
         <titel_eng>Fast Fourier transform, Polynomial multiplication, Convolution, Zero padding, Autocorrelation, Power density, Nyquist frequency, Bartlett window, Digital filters</titel_eng>
       </kapitel>
       <kapitel>
-        <id>c00c5a48-fc5a-4339-9f1e-a007011b0fa2</id>
+        <id>397e4009-ed2e-44b2-ab56-5df570966438</id>
         <titel>Partielle Differenzialgleichungen, Wellengleichung, Diffusionsgleichung, Poissongleichung, Anfangsbedingungen, Randbedingungen, Animation</titel>
         <titel_eng>Partial differential equations, Wave equation, Diffusion equation, Poisson equation, Initial conditions, Boundary conditions, Animation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>15103f7e-9f3a-429c-8dcb-4adb42ecdadf</id>
+        <id>b95e3e88-e03e-4d34-86ee-44ab4c91d27d</id>
         <titel>Numerische Lösung partieller Differenzialgleichungen, hyperbolische PDG, parabolische PDG, elliptische PDG</titel>
         <titel_eng>Numerical solution of partial differential equations, Hyperbolic PDE, Parabolic PDE, Elliptic PDE</titel_eng>
       </kapitel>
       <kapitel>
-        <id>731f17ce-03a3-4359-938f-8f276ffb8190</id>
+        <id>43f2db71-a58f-473f-9e85-ae4e7922696c</id>
         <titel>Differenzial-algebraische Gleichungen, Massenmatrix, Zwangsbedingungen, Algebraic Constraint, Minimalrealisierung</titel>
         <titel_eng>Differential-algebraic equations, Mass matrix, Constraints, Algebraic Constraint, Minimal realization</titel_eng>
       </kapitel>
       <kapitel>
-        <id>4f9721b8-6f7e-48bf-b92e-aedcdad256c5</id>
+        <id>1223d42c-2712-4998-8525-cfbf4459c79e</id>
         <titel>Randwertprobleme, Shooting-Methode, Relaxationsmethode</titel>
         <titel_eng>Boundary value problems, Shooting method, Relaxation Method</titel_eng>
       </kapitel>

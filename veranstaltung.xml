@@ -6702,7 +6702,7 @@
   <veranstaltung>
     <id>22344cf2-62c7-476a-ab08-20e993ffe076</id>
     <semester>1</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>1</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>22c30cdd-a5ba-49ab-8709-6d1d5f717525</modul_id>
     <anfang>2004</anfang>
@@ -6713,7 +6713,7 @@
   <veranstaltung>
     <id>1aad2d8f-ad50-4b8d-90c4-89b9cb424189</id>
     <semester>1</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>2</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>64cd788d-0000-4ded-afc3-43e31c6af78f</modul_id>
     <anfang>2004</anfang>
@@ -6724,7 +6724,7 @@
   <veranstaltung>
     <id>7f0e5d64-5aef-46a6-a8d9-c79fc22fad9e</id>
     <semester>1</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>3</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>60407de5-f168-4aa7-9a1b-b88460669273</modul_id>
     <anfang>2004</anfang>
@@ -6739,14 +6739,14 @@
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>30ccd59a-a312-41cd-a26a-8980f1718b58</modul_id>
     <anfang>2004</anfang>
-    <ende>2100</ende>
+    <ende>2018</ende>
     <wahlpflicht>Pflichtmodul</wahlpflicht>
     <bemerkung>Einführung Bachelor</bemerkung>
   </veranstaltung>
   <veranstaltung>
     <id>cfe15cb5-eace-4129-a803-1c199dc80bf7</id>
     <semester>2</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>3</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>8e04fbac-20f2-4cd4-b705-3e5792d82763</modul_id>
     <anfang>2004</anfang>
@@ -6757,7 +6757,7 @@
   <veranstaltung>
     <id>f86b80d0-ec9f-45f3-a17e-b5b94ec64d26</id>
     <semester>3</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>1</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>6d25d935-47f3-4324-9f13-6fc051750dc3</modul_id>
     <anfang>2004</anfang>
@@ -6768,7 +6768,7 @@
   <veranstaltung>
     <id>d5ef61ed-f87b-4889-85e5-26d0967c2385</id>
     <semester>3</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>2</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>fdcf8ef9-dcf6-41f7-a0da-9cf725c1370c</modul_id>
     <anfang>2004</anfang>
@@ -6783,14 +6783,14 @@
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>d7429823-b333-4eeb-8c40-2786ab25744f</modul_id>
     <anfang>2004</anfang>
-    <ende>2100</ende>
+    <ende>2018</ende>
     <wahlpflicht>Pflichtmodul</wahlpflicht>
     <bemerkung>Einführung Bachelor</bemerkung>
   </veranstaltung>
   <veranstaltung>
     <id>7d6c5788-9b64-4a07-bae3-635a8c2c298a</id>
     <semester>4</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>3</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>c3d812f2-c9be-4fa1-a6bb-c417e94ab39b</modul_id>
     <anfang>2004</anfang>
@@ -6801,7 +6801,7 @@
   <veranstaltung>
     <id>c97de00c-47f1-4b2f-8f94-64ed3a1eaad3</id>
     <semester>4</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>2</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>0fbba4da-76ac-4c8d-bd43-4f0431f372d1</modul_id>
     <anfang>2004</anfang>
@@ -6812,7 +6812,7 @@
   <veranstaltung>
     <id>35ab7c76-1d0c-4723-837b-87aad1183d43</id>
     <semester>7</semester>
-    <reihenfolge></reihenfolge>
+    <reihenfolge>3</reihenfolge>
     <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
     <modul_id>16f18c69-15ca-4a04-93fa-6494122af948</modul_id>
     <anfang>2004</anfang>
@@ -13238,5 +13238,313 @@
     <ende>2100</ende>
     <wahlpflicht>Wahlpflichtmodul</wahlpflicht>
     <bemerkung>Reakkreditierung ENTEC</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>cea227c1-debf-4e18-82c7-01b269d883a8</id>
+    <semester>1</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>e1ec9018-3d99-44de-8dff-47777308c5d0</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>778730eb-dfc0-4877-b87d-c50f80ee843c</id>
+    <semester>2</semester>
+    <reihenfolge>2</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>071eb600-4dde-4c5b-af65-96bcbca3e383</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>fc5e177b-74b3-47ef-8cb4-5ee893410ce8</id>
+    <semester>4</semester>
+    <reihenfolge>1</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>30ccd59a-a312-41cd-a26a-8980f1718b58</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>0596994d-e539-4531-9c3c-f3acf253acdc</id>
+    <semester>1</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>a728fd19-67dd-4e0d-9b2c-fbb2d93ef8b3</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>5fb17cb9-9bb2-4543-9730-2b7869ab7ba6</id>
+    <semester>2</semester>
+    <reihenfolge>1</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>1337e28e-b5a8-4d24-ab73-77157825eece</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>fce73b09-18ee-408e-8b5a-68a7a3eabbb5</id>
+    <semester>2</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>de45c725-fc02-4d50-8def-d59ad8c6a79f</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>3db1bfd5-6e7c-49c5-8d4d-7192693d4e1f</id>
+    <semester>2</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>dbb846b5-dfd8-473c-9805-0be02afa11a3</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>d79b2ab2-f05e-486d-ae23-4cee002b2108</id>
+    <semester>3</semester>
+    <reihenfolge>3</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>374ed5a7-d6dd-4d29-b489-e9a797995325</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>1c58bb1a-6677-4e0e-988e-6b79bc0b4393</id>
+    <semester>3</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>d87485df-13f7-44dd-8601-fd5d350389a5</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>732e5544-42ab-48af-9da8-f0279d3fd94a</id>
+    <semester>3</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>267ce2de-70af-48fa-88c4-880a69f3b7ac</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>9adfd200-7a42-4df2-a387-d4046d5a0c03</id>
+    <semester>4</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>12677165-24bd-462a-944f-beca64ab44f6</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>6b130cd3-9ad1-46fc-ba29-ab9dd95992d3</id>
+    <semester>4</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>bc6b0c3f-dbec-4bda-8a5b-4952fb082449</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>13f53c88-6f2c-4909-85cd-c2bf476c3c0d</id>
+    <semester>5</semester>
+    <reihenfolge>1</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>2623f3e9-3121-4d31-a3f1-a407941b7b83</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>5f9c91d8-7c8b-472c-be9b-93651392737b</id>
+    <semester>5</semester>
+    <reihenfolge>2</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>e1fec871-2863-4ea5-bb24-4e8419d46306</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>94f81e32-0ba9-45d2-b47e-9ec38c38d282</id>
+    <semester>5</semester>
+    <reihenfolge>3</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>01e44243-981d-4eec-837e-394299052d6a</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>8f4b050d-3079-4651-9536-27b51a924675</id>
+    <semester>5</semester>
+    <reihenfolge>2</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>8237199d-eea2-42b3-83f5-421898d543e6</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>c367608d-24a0-41c8-bd36-58899449ee0f</id>
+    <semester>5</semester>
+    <reihenfolge>3</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>05de16a8-58f3-4e5f-a0c6-40ae2ceabd17</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>b26aba16-af99-4694-8b71-4ec397a21863</id>
+    <semester>5</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>bedce59b-75f7-459d-ad92-54feb973a287</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>4f5344f9-ccac-4179-8976-a4e9c297aa90</id>
+    <semester>5</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>3b1c8cd2-c764-496e-84bc-c228318927c9</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>9a6cebd0-f64b-4ea7-b16f-857e40f353c1</id>
+    <semester>6</semester>
+    <reihenfolge>1</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>c3b442f1-8b72-4fef-8618-63e4630961cc</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>ed512547-c85d-4260-ab32-a3b377649f7b</id>
+    <semester>6</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>a8ddaee6-b300-4ed0-93ef-0bd5570a87ae</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>3495c09e-6b9c-4247-8208-baec2bed8417</id>
+    <semester>7</semester>
+    <reihenfolge>1</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>a956103c-bfd6-4ce9-83b6-38a6f2ae8d67</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>a71f83f8-fe6b-4559-a13d-180d3dcd5a73</id>
+    <semester>7</semester>
+    <reihenfolge>2</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>2082b829-e423-460c-99a7-0a55efd90365</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>6d9c0b2a-7a5f-421d-9b8e-b62140cdc601</id>
+    <semester>7</semester>
+    <reihenfolge>5</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>946ee9c3-e0e8-4044-bddc-8c3e12314dff</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>340dcb34-7c7e-4507-b374-1d3c5915e686</id>
+    <semester>7</semester>
+    <reihenfolge>4</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>09cc0367-c62b-42a9-9edc-cdfcdb2f7e2f</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Pflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>3e5a606a-366e-40d1-a394-67ddca381ff2</id>
+    <semester>7</semester>
+    <reihenfolge>6</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>0cafb636-0071-4deb-b8cc-9495d6ae9467</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Wahlpflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>8d5117bc-048f-44af-94c9-8daf92d5d8b7</id>
+    <semester>7</semester>
+    <reihenfolge>7</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>b0588f74-3fe9-4350-828c-cd5747b097ec</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Wahlpflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
+  </veranstaltung>
+  <veranstaltung>
+    <id>08d4ab2b-6de1-4edd-8609-cfcc8830d568</id>
+    <semester>7</semester>
+    <reihenfolge>8</reihenfolge>
+    <studiengang_id>1fd92cfc-2a78-4f5a-b001-ffc4aab42232</studiengang_id>
+    <modul_id>4dc0aadc-c424-4a7c-8bf7-a261b6980ee8</modul_id>
+    <anfang>2019</anfang>
+    <ende>2100</ende>
+    <wahlpflicht>Wahlpflichtmodul</wahlpflicht>
+    <bemerkung>Neue PO 2018</bemerkung>
   </veranstaltung>
 </dataroot>

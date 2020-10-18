@@ -1444,7 +1444,7 @@
     <id>cdc9f4d7-dafb-48d0-9aa0-630abf1691b5</id>
     <modul_id>6d25d935-47f3-4324-9f13-6fc051750dc3</modul_id>
     <dozent_id>c93c2b2f-1f26-4781-9954-91d2d8f181ab</dozent_id>
-    <verantwortlich>0</verantwortlich>
+    <verantwortlich>1</verantwortlich>
   </modul_dozent>
   <modul_dozent>
     <id>899cee11-9e94-4186-9fdd-25c6acda8617</id>
@@ -2386,7 +2386,7 @@
     <id>9cfb26a2-e8fc-45e9-beff-e396ee9100d6</id>
     <modul_id>6d25d935-47f3-4324-9f13-6fc051750dc3</modul_id>
     <dozent_id>a93b7733-3e19-4a96-8e2a-91d080b2cf2c</dozent_id>
-    <verantwortlich>1</verantwortlich>
+    <verantwortlich>0</verantwortlich>
   </modul_dozent>
   <modul_dozent>
     <id>66582251-7bff-41bd-a1f6-5fb6c6a2631f</id>
@@ -2698,6 +2698,138 @@
     <id>30d1af7c-0eba-4b21-9151-f68af94f6172</id>
     <modul_id>0fbba4da-76ac-4c8d-bd43-4f0431f372d1</modul_id>
     <dozent_id>f542560f-bb52-4afe-95e7-f2e99cd6464e</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>7e873360-8814-45b7-8e3e-1291d00176b7</id>
+    <modul_id>a728fd19-67dd-4e0d-9b2c-fbb2d93ef8b3</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>c72ee708-cd64-418f-902d-b1316e929896</id>
+    <modul_id>de45c725-fc02-4d50-8def-d59ad8c6a79f</modul_id>
+    <dozent_id>90d8ecbc-a76b-498a-9881-d06f9c0cf07f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>006114fa-acb9-4486-99d0-a3072ced9d9a</id>
+    <modul_id>dbb846b5-dfd8-473c-9805-0be02afa11a3</modul_id>
+    <dozent_id>7bd25e83-8241-404e-ae41-093e984bb6dd</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>dce7b05a-6f29-4a9b-b1a5-4e95bc9b7d7a</id>
+    <modul_id>d87485df-13f7-44dd-8601-fd5d350389a5</modul_id>
+    <dozent_id>b9886953-0f9c-4e81-936c-2ee340f1dbcb</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>864b62f1-508d-4074-a705-6307675441f5</id>
+    <modul_id>d87485df-13f7-44dd-8601-fd5d350389a5</modul_id>
+    <dozent_id>febf5f43-577c-414c-865d-e70490949a69</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>1a2b278e-47d4-4c16-95e9-6cac797c49c6</id>
+    <modul_id>267ce2de-70af-48fa-88c4-880a69f3b7ac</modul_id>
+    <dozent_id>cbaa9f0d-b77d-4201-9a38-59c29d14b98a</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>5c6cb785-6f1a-48ae-9d90-fe995dea448b</id>
+    <modul_id>267ce2de-70af-48fa-88c4-880a69f3b7ac</modul_id>
+    <dozent_id>4d08e834-a324-48ef-a219-0aac414b4f60</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>5bffbc4b-c25e-458a-817b-8a110b2da3b1</id>
+    <modul_id>12677165-24bd-462a-944f-beca64ab44f6</modul_id>
+    <dozent_id>e28ef8ef-85b5-4028-b64f-b8f21888e5a6</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>49a595ec-c09a-47ef-991b-5c136b67496a</id>
+    <modul_id>bc6b0c3f-dbec-4bda-8a5b-4952fb082449</modul_id>
+    <dozent_id>4d08e834-a324-48ef-a219-0aac414b4f60</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>af30bb9c-44aa-4962-80c7-f4a14a52c388</id>
+    <modul_id>2623f3e9-3121-4d31-a3f1-a407941b7b83</modul_id>
+    <dozent_id>d66dd6ba-f381-43dc-bd6e-0203e228ccb8</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>cc3e67b2-f426-4bd3-8bd9-ca3b4684d1e4</id>
+    <modul_id>e1fec871-2863-4ea5-bb24-4e8419d46306</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>aa4943a7-f2b3-4b61-b4b3-f8e4cc3dcbb2</id>
+    <modul_id>01e44243-981d-4eec-837e-394299052d6a</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>936806f5-3efc-4584-b667-63ceeded3eb0</id>
+    <modul_id>8237199d-eea2-42b3-83f5-421898d543e6</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>f539e553-2bf0-476b-a0b4-c9676167a58c</id>
+    <modul_id>05de16a8-58f3-4e5f-a0c6-40ae2ceabd17</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>f3810d78-1069-4bbd-b8cb-431c7a51c0a8</id>
+    <modul_id>c3b442f1-8b72-4fef-8618-63e4630961cc</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>696f5444-8472-4d20-ba03-b0a95b055323</id>
+    <modul_id>a8ddaee6-b300-4ed0-93ef-0bd5570a87ae</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>1d83cc97-a475-45e7-b0cb-12a674949740</id>
+    <modul_id>a956103c-bfd6-4ce9-83b6-38a6f2ae8d67</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>851bc708-6f1f-42fb-b32f-3ab5aaaa1269</id>
+    <modul_id>2082b829-e423-460c-99a7-0a55efd90365</modul_id>
+    <dozent_id>dd52fdc6-250a-4c3c-a029-3ecb3ebd1f73</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>dfbcbb7c-eed5-49aa-8267-97dd741976b0</id>
+    <modul_id>09cc0367-c62b-42a9-9edc-cdfcdb2f7e2f</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>5aeda929-9595-4d02-a441-8c6567601af6</id>
+    <modul_id>0cafb636-0071-4deb-b8cc-9495d6ae9467</modul_id>
+    <dozent_id>4d08e834-a324-48ef-a219-0aac414b4f60</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>c3014e8e-0bc7-4887-98c5-51e512339e2e</id>
+    <modul_id>b0588f74-3fe9-4350-828c-cd5747b097ec</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <verantwortlich>1</verantwortlich>
+  </modul_dozent>
+  <modul_dozent>
+    <id>6d9aa34c-de83-4023-b39a-5df72832a586</id>
+    <modul_id>4dc0aadc-c424-4a7c-8bf7-a261b6980ee8</modul_id>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
     <verantwortlich>1</verantwortlich>
   </modul_dozent>
 </dataroot>

@@ -14649,122 +14649,152 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>e6fdb24d-9a0b-4f2a-808a-6cd7944d3675</id>
+        <id>6d7c339a-02d1-43f6-9d6f-9c4d1e83a0c3</id>
         <titel>Die oben aufgeführten Kompetenzen werden durch einen seminaristischen Unterricht vorbereitet und dann in Form von angeleiteten Übungsaufgaben auch mit Laborbeispielen im betreuten Selbststudium, durch Hausaufgaben und durch eigenständige Literaturstudien ausgebaut. Hierzu werden jeweils Literaturempfehlungen ausgegeben. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifische Kompetenzschwerpunkte gesetzt:</titel>
         <titel_eng>The skills listed above are prepared by means of seminars and then expanded in the form of instructed exercises with laboratory examples in self-study, homework and independent literature studies. Literature recommendations are given for this. In order to achieve the desired learning goals, the following specific areas of competence are set in teaching:</titel_eng>
       </kapitel>
       <kapitel>
-        <id>c5334df9-4f4d-4578-b509-28b7b2286543</id>
+        <id>ca54836d-2f6c-42a1-b352-d40eb670c789</id>
+        <titel>Mengen</titel>
+        <titel_eng>Sets</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>7d24b881-12f5-473c-bf9c-45e1e7bf90c3</id>
+        <titel>Reelle Zahlen</titel>
+        <titel_eng>Real numbers</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>9a85f4b1-9f07-4cd5-866a-890e98814b57</id>
         <titel>Gleichungen und Ungleichungen</titel>
         <titel_eng>Equations and inequalities</titel_eng>
       </kapitel>
       <kapitel>
-        <id>1624d945-d179-4acd-8246-f35031aa9331</id>
-        <titel>Funktionen</titel>
-        <titel_eng>Functions</titel_eng>
+        <id>41959229-7d76-4aae-bc89-60cc8018c1e3</id>
+        <titel>Lineare Gleichungssysteme</titel>
+        <titel_eng>Linear equation systems</titel_eng>
       </kapitel>
       <kapitel>
-        <id>a5835987-b2de-456b-a290-66963fed8f29</id>
-        <titel>Komplexe Zahlen</titel>
-        <titel_eng>Complex numbers</titel_eng>
+        <id>e7be0b16-b4ea-4116-9bb0-a7756856faab</id>
+        <titel>Der Binomische Lehrsatz</titel>
+        <titel_eng>Binomial theorem</titel_eng>
       </kapitel>
       <kapitel>
-        <id>b2f27eb6-236a-40fb-b486-e48af54e4173</id>
-        <titel>Trigonometrie</titel>
-        <titel_eng>Trigonometry</titel_eng>
+        <id>82bf4bc1-94dc-46c7-9092-2a43d6442333</id>
+        <titel>Vektoralgebra</titel>
+        <titel_eng>Vector algebra</titel_eng>
       </kapitel>
       <kapitel>
-        <id>f0abf9d0-f31e-4d88-949a-3610313fb298</id>
-        <titel>Vektoren und Matrizen</titel>
-        <titel_eng>Vectors and matrices</titel_eng>
+        <id>6f594e17-bc57-4b27-b59b-1747f929543f</id>
+        <titel>Vektorgeometrie</titel>
+        <titel_eng>Vector geometry</titel_eng>
       </kapitel>
       <kapitel>
-        <id>80f05bb9-3dfc-4948-a1e9-daad5cb796c0</id>
-        <titel>Analytische Geometrie</titel>
-        <titel_eng>Analytical geometry</titel_eng>
-        <unterkapitel>
-          <id>1c8f5e57-ae02-4317-9a98-a8bf1a7ccea2</id>
-          <titel>Koordinatensysteme</titel>
-          <titel_eng>Coordinate systems</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>e35d0d1e-c4a1-4c0d-b4c2-7178c30d0a4c</id>
-          <titel>Geraden</titel>
-          <titel_eng>Lines</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>243f73ac-c179-4f14-9fdd-cdafc0c37273</id>
-          <titel>Kegelschnitte</titel>
-          <titel_eng>Conic sections</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>fa128643-fb48-4162-abc7-0e7e6776530a</id>
-          <titel>Rollkurven</titel>
-          <titel_eng>Roll curves</titel_eng>
-        </unterkapitel>
+        <id>60b941d5-5749-42ff-848c-f8dca94a4cee</id>
+        <titel>Funktionseigenschaften</titel>
+        <titel_eng>Function properties</titel_eng>
       </kapitel>
       <kapitel>
-        <id>720d42d2-692d-4eac-995c-97384692131e</id>
-        <titel>Differenzialrechnung</titel>
-        <titel_eng>Differential calculus</titel_eng>
-        <unterkapitel>
-          <id>d1dbb3dd-85c7-4e67-9c40-33131ac98555</id>
-          <titel>Produkt-, Quotienten-, Kettenregel</titel>
-          <titel_eng>Product rule, Quotient rule, Chain rule</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>f36aecc0-fe9b-4cfa-93a6-e655b589cccd</id>
-          <titel>Implizite Differenziation</titel>
-          <titel_eng>Implicit differentiation</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>ca8e3ddf-998d-4509-8420-56f9985593cc</id>
-          <titel>Umkehrfunktion</titel>
-          <titel_eng>Inverse function</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>59eeecb4-6c85-4e56-90b5-edfe5881af97</id>
-          <titel>Extremwerte</titel>
-          <titel_eng>Extreme values</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>7e446e29-ed42-4039-946d-fbc40a12520e</id>
-          <titel>Grenzwerte</titel>
-          <titel_eng>Limits</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>1066d3be-8d08-4a16-9295-85cabdd1e454</id>
-          <titel>Kurvendiskussion</titel>
-          <titel_eng>Curve discussion</titel_eng>
-        </unterkapitel>
+        <id>1954bc85-2c1d-44c8-8849-c423996943fe</id>
+        <titel>Koordinatentransformation</titel>
+        <titel_eng>Coordinate transformation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>6c60531a-262f-4021-be71-6ecb4305bb0b</id>
-        <titel>Funktionen mit mehreren unabhängigen Variablen</titel>
-        <titel_eng>Functions with several independent variables</titel_eng>
-        <unterkapitel>
-          <id>adc16130-4083-4220-9aac-9e9396c74466</id>
-          <titel>Partielle Ableitungen</titel>
-          <titel_eng>Partial derivative</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>37d51094-cd9d-4b8d-8809-96d40ecb046f</id>
-          <titel>Totales Differenzial</titel>
-          <titel_eng>Total differential</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>f239a244-487f-4662-a6f2-a5a0d46a0bf9</id>
-          <titel>Extremwerte</titel>
-          <titel_eng>Extreme values</titel_eng>
-        </unterkapitel>
+        <id>003e4e80-436f-4498-897e-8ad50d9ed031</id>
+        <titel>Grenzwerte</titel>
+        <titel_eng>Limits</titel_eng>
       </kapitel>
       <kapitel>
-        <id>8ceea901-a1ef-4b5a-b59f-8dd3979cae9e</id>
-        <titel>Fehlerrechnung, Ausgleichsrechnung</titel>
-        <titel_eng>Calculation of errors, Curve fitting</titel_eng>
+        <id>c95f0b33-79b8-4f85-98ef-bea8241e7e43</id>
+        <titel>Polynomfunktionen</titel>
+        <titel_eng>Polynomial functions</titel_eng>
       </kapitel>
       <kapitel>
-        <id>8027000c-d227-48be-bb24-5947274349c3</id>
+        <id>6c41df9b-24e3-4a7d-8845-2a5a3d0954a6</id>
+        <titel>Gebrochenrationale Funktionen</titel>
+        <titel_eng>Fractional rational functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>804f904b-40ff-49b9-ba0a-489246b738a1</id>
+        <titel>Kegelschnitte</titel>
+        <titel_eng>Conic sedtions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>0addc295-9f0d-4c24-945d-d96d45621afc</id>
+        <titel>Trigonometrische Funktionen</titel>
+        <titel_eng>Trigonometric functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>23c07967-92a3-44b7-8f36-2a067361db54</id>
+        <titel>Arkusfunktionen</titel>
+        <titel_eng>Arc functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>144ef313-87ef-48d5-ad57-30c6351f0e8b</id>
+        <titel>Exponentialfunktionen</titel>
+        <titel_eng>Exponential functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>19599bb7-933b-449f-9f11-4bc7946c0260</id>
+        <titel>Logarithmusfunktionen</titel>
+        <titel_eng>Logarithmic functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>f26ba5b9-169d-4635-929f-7c237dcbf1c1</id>
+        <titel>Hyperbelfunktionen</titel>
+        <titel_eng>Hyperbolic functions</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>b18537e1-e299-4b24-aa39-2a209095bff7</id>
+        <titel>Differenzierbarkeit</titel>
+        <titel_eng>Differentiability</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>89cf3075-68d5-46f9-8bce-f81774928425</id>
+        <titel>Anwendungen der Differenzialrechnung</titel>
+        <titel_eng>Applications of differential calculus</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>e0704678-89bf-47f4-9185-cba98523f2f0</id>
+        <titel>Integration als Umkehrung der Differenziation</titel>
+        <titel_eng>Integration as the reversal of differentiation</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>e9797515-5700-4c39-8a51-f7c9960a4c49</id>
+        <titel>Das bestimmte Integral</titel>
+        <titel_eng>The definite integral</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>760b622a-3ebc-488a-9556-dcec4781d98a</id>
+        <titel>Grundintegrale</titel>
+        <titel_eng>Basic integrals</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>d362a8db-9693-4074-a059-275295101e2e</id>
+        <titel>Integrationsmethoden</titel>
+        <titel_eng>Integration methods</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>790f7ffc-3c87-42f2-a1be-a361367fda68</id>
+        <titel>Uneigentliche Integrale</titel>
+        <titel_eng>Improper integrals</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>c11e0ec0-764f-4fd5-84e6-dcac8de7b26d</id>
+        <titel>Anwendungen der Integralrechnung</titel>
+        <titel_eng>Applications of integral calculus</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>f9e57627-2e54-4472-bf55-802ed507c97f</id>
+        <titel>Unendliche Reihen</titel>
+        <titel_eng>Infinite series</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>e437f4f8-5d3c-4146-8ec3-8ecde17a7e9c</id>
+        <titel>Taylorreihen</titel>
+        <titel_eng>Taylor series</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>bb5dac0d-3920-4b00-a995-824182b2a964</id>
         <titel>Zusätzliche Kapitel der Ingenieurmathematik</titel>
         <titel_eng>Additional chapters of engineering mathematics</titel_eng>
       </kapitel>
@@ -15331,157 +15361,92 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>0549307e-8475-4fc9-b646-f57ee3467120</id>
+        <id>c3941a65-c55d-4566-af54-ecd8ffcc992e</id>
         <titel>Die oben aufgeführten Kompetenzen werden durch einen seminaristischen Unterricht vorbereitet und dann in Form von angeleiteten Übungsaufgaben auch mit Laborbeispielen im betreuten Selbststudium, durch Hausaufgaben und durch eigenständige Literaturstudien ausgebaut. Hierzu werden jeweils Literaturempfehlungen ausgegeben. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifische Kompetenzschwerpunkte gesetzt:</titel>
         <titel_eng>The skills listed above are prepared by means of seminars and then expanded in the form of instructed exercises with laboratory examples in self-study, homework and independent literature studies. Literature recommendations are given for this. In order to achieve the desired learning goals, the following specific areas of competence are set in teaching:</titel_eng>
       </kapitel>
       <kapitel>
-        <id>d423ea39-e109-47f8-bd2e-acc1f1f720e7</id>
-        <titel>Integralrechnung</titel>
-        <titel_eng>Integral calculus</titel_eng>
-        <unterkapitel>
-          <id>b439ffac-4279-4002-8879-224df4f6cb9b</id>
-          <titel>Partielle Integration</titel>
-          <titel_eng>Partial integration</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>c5d8f80d-edc4-4b34-87be-a8de6a310384</id>
-          <titel>Substitution</titel>
-          <titel_eng>Substitution</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>d0ec4ec8-2cfc-40f4-afba-7bd3d7e37821</id>
-          <titel>Partialbruchzerlegung</titel>
-          <titel_eng>Partial fraction decomposition</titel_eng>
-        </unterkapitel>
+        <id>a4c4a6ea-9569-48ef-99c4-0175469f211f</id>
+        <titel>Reelle Matrizen</titel>
+        <titel_eng>Real matrices</titel_eng>
       </kapitel>
       <kapitel>
-        <id>fa6cb3f0-400e-4458-9ea2-29143d4e2f52</id>
-        <titel>Numerische Verfahren</titel>
-        <titel_eng>Numerical methods</titel_eng>
-        <unterkapitel>
-          <id>8657d9f6-3b5c-4f5c-a2fc-f3dff4bcdf78</id>
-          <titel>Trapezregel</titel>
-          <titel_eng>Trapezoidal rule</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>ec90b19d-93eb-40fd-93a0-748b913651ec</id>
-          <titel>Simpsonregel</titel>
-          <titel_eng>Simpson's rule</titel_eng>
-        </unterkapitel>
+        <id>7f4b715a-3407-4940-9613-0cf4b05be1aa</id>
+        <titel>Lineare Gleichungssysteme</titel>
+        <titel_eng>Linear equation systems</titel_eng>
       </kapitel>
       <kapitel>
-        <id>885bbc61-b68a-42d5-9613-6970d6d903db</id>
-        <titel>Anwendungen der Integralrechnung</titel>
-        <titel_eng>Applications of integral calculation</titel_eng>
-        <unterkapitel>
-          <id>4ac3441f-3ec0-49a6-877d-84deed560352</id>
-          <titel>Rotationsvolumen</titel>
-          <titel_eng>Rotary volume</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>e6e51a58-97f3-41cf-9b55-4db287c1999e</id>
-          <titel>Mantelfläche</titel>
-          <titel_eng>Surface</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>a5ffcf30-f0ff-4348-93dc-e898898565a0</id>
-          <titel>Schwerpunkt</titel>
-          <titel_eng>Centroid</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>696c46cd-b797-4e7d-b5e1-1f3f730df2a4</id>
-          <titel>Trägheitsmoment</titel>
-          <titel_eng>Moment of inertia</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>a1735b19-4c0b-4cbf-abcc-99157b2e62a3</id>
-          <titel>Arbeit</titel>
-          <titel_eng>Work</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>9f451095-2e64-4128-806a-a5c2b7a889af</id>
-          <titel>Mittelwert</titel>
-          <titel_eng>Mean</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>7340f0d2-0138-42ba-b76c-ea42f450a158</id>
-          <titel>Mehrfache Integrale</titel>
-          <titel_eng>Multiple integrals</titel_eng>
-        </unterkapitel>
+        <id>50573878-7783-4d6e-8da6-332c1a8500a4</id>
+        <titel>Eigenwerte und Eigenvektoren</titel>
+        <titel_eng>Eigenvalues and Eigenvectors</titel_eng>
       </kapitel>
       <kapitel>
-        <id>9f6bad77-f4cc-45ed-b969-b0ad5c5c2e37</id>
+        <id>1a672c8a-367a-4659-89ab-660fc1faddd7</id>
+        <titel>Fourier-Reihen</titel>
+        <titel_eng>Fourier series</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>2f5a0179-3960-41b1-9529-805eaee6a9e2</id>
+        <titel>Definition und Darstellung einer komplexen Zahl</titel>
+        <titel_eng>Definition and representation of a complex number</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>ef074090-6ef8-43b9-b2b9-666fb4420857</id>
+        <titel>Funktionen von mehreren Variablen</titel>
+        <titel_eng>Functions of several variables</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>7c538980-439e-4571-9751-b516cb427a89</id>
+        <titel>Partielle Differenziation</titel>
+        <titel_eng>Partial differentiation</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>ab81bc5d-371a-49f1-9077-749ea36686df</id>
+        <titel>Mehrfachintegrale</titel>
+        <titel_eng>Multiple integrals</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>b49170bd-14de-4892-8265-79d6e28c8530</id>
+        <titel>Differenzialgleichungen (Grundbegriffe)</titel>
+        <titel_eng>Differential equations (Basics)</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>f35297da-7160-4a6b-b354-8d4004f3d8c1</id>
         <titel>Differenzialgleichungen 1. Ordnung</titel>
         <titel_eng>First order differential equations</titel_eng>
-        <unterkapitel>
-          <id>0b3c74f4-03df-4f45-9af0-634f93ca7fc3</id>
-          <titel>Trennung der Variablen</titel>
-          <titel_eng>Separation of variables</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>19c28f94-43a2-4907-baf0-b1238f4bc5a6</id>
-          <titel>Substitution</titel>
-          <titel_eng>Substitution</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>8de72cd3-3166-4819-81a2-4035cd948638</id>
-          <titel>Variation der Konstanten</titel>
-          <titel_eng>Variation of constants</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>f3d5e87a-971b-4485-837f-2d5766197e87</id>
-          <titel>Beispiele aus Naturwissenschaft und Technik</titel>
-          <titel_eng>Examples from science and technology</titel_eng>
-        </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>f20c7b58-1d8e-4f4d-b841-f1c4c53cbee4</id>
-        <titel>Differenzialgleichungen 2. Ordnung</titel>
-        <titel_eng>Second order differential equations</titel_eng>
-        <unterkapitel>
-          <id>1c470977-61bd-4924-8bc2-30f7ce281725</id>
-          <titel>Linear mit konstanten Koeffizienten</titel>
-          <titel_eng>Linear with constant coefficients</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>ab382662-b5b1-4577-a24b-013c57324037</id>
-          <titel>Inhomogene gedämpfte Schwingungsgleichung</titel>
-          <titel_eng>Inhomogeneous damped oscillation equation</titel_eng>
-        </unterkapitel>
+        <id>3ca7caef-5842-41f1-8682-b0f6d7ba0a8f</id>
+        <titel>Lineare Differenzialgleichungen 2. Ordnung mit konstanten Koeffizienten</titel>
+        <titel_eng>Second order differential equations with constant coefficients</titel_eng>
       </kapitel>
       <kapitel>
-        <id>e5c9f0d3-c488-422d-a43c-a79cfa3cb2ab</id>
+        <id>21d8d649-a02a-4211-89d8-ce41f7bc42d7</id>
+        <titel>Anwendungen von Differenzialgleichungen</titel>
+        <titel_eng>Applications of differential equations</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>ed04e05a-1aab-4a4d-aa25-bd25ffe586f7</id>
+        <titel>Lineare Differenzialgleichungen n-ter Ordnung</titel>
+        <titel_eng>Linear differential equations of nth order</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>9b21b524-ade4-4adb-9f4b-85ac2a504503</id>
+        <titel>Numerische Integration einer Differenzialgleichung</titel>
+        <titel_eng>Numerical integration of a differential equation</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>88d04293-de4c-460c-9050-94bccbdbfbff</id>
+        <titel>Systeme linearer Differenzialgleichungen</titel>
+        <titel_eng>Systems of linear differential equations</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>820862d5-82d2-45aa-91df-a267fc6d675c</id>
         <titel>Laplace-Transformation</titel>
         <titel_eng>Laplace transformation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>f52a0d3b-8b1a-4182-b9f3-0f8c8a609d6a</id>
-        <titel>Folgen und Reihen</titel>
-        <titel_eng>Sequences and series</titel_eng>
-      </kapitel>
-      <kapitel>
-        <id>5792435b-082f-407c-b90a-54e3bffb3c93</id>
-        <titel>Potenzreihen</titel>
-        <titel_eng>Power series</titel_eng>
-        <unterkapitel>
-          <id>14a75347-6b0a-437f-8455-d9bd11f5adf1</id>
-          <titel>Konvergenzradius</titel>
-          <titel_eng>Radius of convergence</titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>68bfb32b-b60f-4f37-9c3f-766a827efb6d</id>
-          <titel>Restfehler</titel>
-          <titel_eng>Residual error</titel_eng>
-        </unterkapitel>
-      </kapitel>
-      <kapitel>
-        <id>79bf6721-6ac7-456e-b468-98b979b6b3e5</id>
-        <titel>Fourierreihen</titel>
-        <titel_eng>Fourier series</titel_eng>
-      </kapitel>
-      <kapitel>
-        <id>6fc6a069-a3ce-4c06-976f-4e5975475405</id>
+        <id>bf60fed8-6e58-4816-a6df-93389959a8db</id>
         <titel>Zusätzliche Kapitel der Ingenieurmathematik</titel>
         <titel_eng>Additional chapters of engineering mathematics</titel_eng>
       </kapitel>
@@ -31451,7 +31416,7 @@
   <modul>
     <modul_id>69c1d21c-1678-4bae-9e57-680fdcbfb010</modul_id>
     <modul_abk>IPPP</modul_abk>
-    <modul_name>Integrierte Planung und Prozessgestaltung in der Produktion</modul_name>
+    <modul_name>Integrierte Planung und Prozessgestaltung in der Präzisionsfertigung</modul_name>
     <modul_ziel>Die Studierenden sollen am Ende des Semesters einen kompletten Produktionsprozess planen, gestalten und bewerten können. Dazu gehören z.B.: Planen des Produktionsprozesses, Bewertung der Fertigungsfolgen, Prozesszeit- und –kostenermittlung, Material- und Layoutplanung einer Produktion. Die Studierenden sollen die Fähigkeit erwerben, ähnliche Aufgaben auch in neuen und unvertrauten Planungsaufgaben anzuwenden, ihr Wissen in die Fragestellung zu integrieren und die Komplexität der Planungsprozesse zu bewältigen, weitgehend autonom eigenständige forschungs- oder anwendungsorientierte Projekte durchzuführen.</modul_ziel>
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
@@ -31470,64 +31435,79 @@
     <modul_bemerkung>Die aktuellen Literaturlisten werden zu Beginn des Semesters verteilt.</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>73b4e75e-1770-4efe-a39f-04dc9f004795</id>
+        <id>fa104277-8bd1-4f9d-958d-768af4cd6ef6</id>
         <titel>Das Modul teilt sich in zwei Schwerpunkte auf:</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>a1f681eb-c152-4bf7-bded-ee9422eb9c4a</id>
+          <id>c87f8db8-7182-47fa-b278-3b963af0c042</id>
           <titel>Systemtheorie</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>4e1ad158-b39d-405f-b9b4-8606c1015203</id>
+          <id>643b211e-7695-48df-a237-493dd89ea8e8</id>
           <titel>Integrierte Prozessgestaltung in der Produktion</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>ecbcbc52-46f4-4516-950d-3ab6d995f97c</id>
+        <id>bf3638a4-5fae-4d7e-bcff-2fe09c8c7c52</id>
         <titel>Mit Hilfe der Systemtheorie soll den Studierenden die Erscheinungen und Gesetzmäßigkeiten unterschiedlichster komplexer Systeme verstehbar und bearbeitbar gemacht werden.</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>4c9c468d-f643-45bf-8cdc-fd8949441bf7</id>
+          <id>e2f4defb-3c6b-4ea8-8b2d-6c72374aef81</id>
           <titel>Grundlagen der Systemtheorie</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>ba91eb93-c70c-4ade-9636-114de9e33203</id>
+          <id>149b312d-f396-4600-b908-6cca8cf63f38</id>
           <titel>Begriffe: System, Vernetztheit, Komplexität, Ordnung, Lenkung</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e433fa6d-6497-4bb4-8593-a26a5236d51c</id>
+          <id>c5b0d87e-1663-4e48-8a0e-14d72d6ad3f1</id>
           <titel>Unterscheidung einfacher und komplexer Systeme</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>93e950b1-0096-4228-bf92-be44fed0fd2e</id>
+          <id>cf79eabd-8a8e-480f-9de5-d11346609b21</id>
           <titel>Technik des vernetzten Denkens</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8d8cc4dd-51bc-45a0-ae86-bb1534f11f9f</id>
+          <id>e214690a-3175-4a82-8805-209cc39a06e8</id>
           <titel>Methodenunterstützte Problemlösung im Fabrikbetrieb</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>dfc39071-dbcc-4989-a48c-3e7fbadb75d6</id>
+        <id>a685b7ca-6010-43a2-bba7-90662d036808</id>
         <titel>Der Produktionsprozess kann als ein Prozess der Informationsverarbeitung betrachtet werden. Im Rahmen des zweiten Teiles dieses Moduls werden Methoden zur Steigerung von Effizienz in der integrierten Prozessgestaltung dargestellt und vermittelt.</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>ce78dbda-28e1-4b89-920c-5cc61ab376d2</id>
+          <id>3ec890cf-33bf-4bf1-b278-febf0184c450</id>
           <titel>Prozessmanagement – Grundlagen und Zielsetzung</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6ac96443-7e3e-49b2-91c1-2b5344a62336</id>
+          <id>9785a778-e341-4083-a344-b8c6befddb35</id>
           <titel>Integrierte Technologieplanung</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d4604bc8-48e8-4689-8fe1-e96d1a9bdf12</id>
+          <id>2b8c2b4a-2e5b-4e8a-860f-e2517d16fc12</id>
           <titel>Integrierte Produktionsprozessgestaltung</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>92eaa436-fc1b-45f9-ac36-a10178c2637d</id>
+          <id>0ca61a5c-b2d1-400f-a137-74ce00e24275</id>
           <titel>Prozesssimulation (Beispiele)</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>495605b4-9a3c-425e-b47f-263b06f4ee6e</id>
+        <id>88ed1b68-f542-4f31-a34d-3db110ae400d</id>
         <titel>Beide Teile des Moduls werden durch Planungs- und Berechnungsaufgaben ergänzt und mit Beispielen, z.T. mit eigenen Forschungsergebnissen, veranschaulicht.</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>

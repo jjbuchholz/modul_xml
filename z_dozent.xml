@@ -395,4 +395,39 @@
     <dozent_name>Prof. Dr.-Ing. Farian Krohne</dozent_name>
     <dozent_homepage>https://hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/krohne/</dozent_homepage>
   </z_dozent>
+  <z_dozent>
+    <dozent_id>05e4300b-028f-4235-9c3d-23ad8be8922f</dozent_id>
+    <dozent_name>Prof. Dr. Martin Schwardt</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mschwardt/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>7bd25e83-8241-404e-ae41-093e984bb6dd</dozent_id>
+    <dozent_name>Prof. Dr. Martina Röhrich</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/mroehr/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>b9886953-0f9c-4e81-936c-2ee340f1dbcb</dozent_id>
+    <dozent_name>Prof. Dr. Ralf Schlemminger</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/rschlemminger/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>febf5f43-577c-414c-865d-e70490949a69</dozent_id>
+    <dozent_name>Prof. Dr. Thomas Möhlmann-Mahlau</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/tmoehlmann-mahlau/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>4d08e834-a324-48ef-a219-0aac414b4f60</dozent_id>
+    <dozent_name>Prof. Dr. Christian Schuchardt</dozent_name>
+    <dozent_homepage>https://www.zim-bremen.com/training/trainer-innen/prof-dr-christian-schuchardt.html</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>cbaa9f0d-b77d-4201-9a38-59c29d14b98a</dozent_id>
+    <dozent_name>Prof. Leena Pundt</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/lpundt/</dozent_homepage>
+  </z_dozent>
+  <z_dozent>
+    <dozent_id>d66dd6ba-f381-43dc-bd6e-0203e228ccb8</dozent_id>
+    <dozent_name>Jutta Berninghausen</dozent_name>
+    <dozent_homepage></dozent_homepage>
+  </z_dozent>
 </dataroot>

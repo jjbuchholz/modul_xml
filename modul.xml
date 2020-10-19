@@ -23873,7 +23873,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -23887,7 +23887,7 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>37cbb223-cd61-450e-8eec-01b862c3da35</id>
+        <id>7f6bf06f-f62c-4bb8-a27e-c5f1a27269a6</id>
         <titel>Abhängig vom gewählten Modul</titel>
         <titel_eng>Depending on the selected module</titel_eng>
       </kapitel>
@@ -24404,7 +24404,8 @@
     <modul_abk>MAI</modul_abk>
     <modul_name>Mathematik (ISWI)</modul_name>
     <modul_name_eng>Mathematics (ISWI)</modul_name_eng>
-    <modul_ziel>Es werden die grundlegenden mathematische Fähigkeiten für quantitative Problemlösungen vermittelt, wobei es als Ziel um die Erfassung praktischer Beispiele und deren Übertragung in einen mathematischen Kontext geht. Die Ingenieurmathematik soll als Methodenlehre verstanden werden. Dabei stehen anwendungsorientierte Methoden und praktische Lösungsverfahren im Vordergrund.</modul_ziel>
+    <modul_ziel>Es werden die grundlegenden mathematische Fähigkeiten für quantitative Problemlösungen vermittelt, wobei es als Ziel um die Erfassung praktischer Beispiele und deren Übertragung in einen mathematischen Kontext geht. Die Ingenieurmathematik soll als Methodenlehre verstanden werden. Dabei stehen anwendungsorientierte Methoden und praktische Lösungsverfahren im Vordergrund.
+Kenntnisse: 1, 4  Fähigkeiten: 5, 6, 7  Kompetenzen: 12</modul_ziel>
     <modul_ziel_eng>It covers the basic mathematical skills for quantitative problem solving, which is a target for the collection of practical examples and their transfer into a mathematical context. Engineering mathematics should be understood as teaching methods. Application-oriented methods and practical procedures are in the foreground.</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
@@ -24423,44 +24424,49 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>e89354a2-6cc0-4734-a66e-b00e14f2e8f9</id>
+        <id>10bc9d27-40ad-4171-8e8a-18d3fac7958d</id>
         <titel>Mengen, Zahlbereiche</titel>
         <titel_eng>Quantities, domains</titel_eng>
       </kapitel>
       <kapitel>
-        <id>7c661c22-c6e8-436e-9e30-25746646681a</id>
+        <id>81ef554b-ce60-482d-8515-e6ddfc4e731d</id>
         <titel>Vektoren und analytische Geometrie, Gleichungen und Ungleichungen</titel>
         <titel_eng>Vectors and analytic geometry, equations and inequalities</titel_eng>
       </kapitel>
       <kapitel>
-        <id>29d751eb-e1d2-456f-8c87-dd93ecad5f31</id>
+        <id>f0da0940-b28b-4315-a4b8-77b52a23a43f</id>
         <titel>Trigonometrie</titel>
         <titel_eng>Trigonometry</titel_eng>
       </kapitel>
       <kapitel>
-        <id>109190ca-f7b6-44dc-bb6e-f4ddf6b3f090</id>
+        <id>3ee0d5f3-84ba-4b04-b85d-5b44c7d87113</id>
         <titel>Grenzwerte und Funktionen</titel>
         <titel_eng>Limits and functions</titel_eng>
       </kapitel>
       <kapitel>
-        <id>4b994b94-d82e-44c8-a0cc-e2458deccb87</id>
+        <id>d267c778-96b7-4466-b9c5-3bb8bc272631</id>
         <titel>Anwendungen der Differentialrechnung</titel>
         <titel_eng>Applications of differential calculus</titel_eng>
       </kapitel>
       <kapitel>
-        <id>64cfe636-a66f-4f86-9c0f-5bb4cbc5fcf7</id>
+        <id>14d8b605-c4c7-45c2-963c-2a30aa35dc35</id>
         <titel>Grundlagen der Integralrechnung</titel>
         <titel_eng>Fundamentals of integral calculus</titel_eng>
       </kapitel>
       <kapitel>
-        <id>52583e7b-6534-428a-acbc-63e2ae020307</id>
+        <id>7ffed4af-3e4a-49e7-8a11-ebeaab6a54f4</id>
         <titel>Vertiefung der Differential- und Integralrechnung</titel>
         <titel_eng>Deepening of differential and integral calculus</titel_eng>
       </kapitel>
       <kapitel>
-        <id>27e78ec7-8f98-4aca-b2aa-d4cd51a7a2d0</id>
-        <titel>Gewöhnliche Differentialgleichungen &lt;p&gt; Dabei sind die Inhalte mit dem Modul ISWI 2.3 Finanzmanagement abzustimmen, um Redundanzen im Bereich der Wirtschaftsmathematik zu vermeiden.</titel>
-        <titel_eng>Ordinary Differential Equations &lt;p&gt; The content shall be regulated with the ISWI 2.3 Financial Management module, in order to avoid redundancies in the field of economic mathematics.</titel_eng>
+        <id>47ec8d96-84e6-4d7d-941b-1e363dc250b3</id>
+        <titel>Gewöhnliche Differentialgleichungen</titel>
+        <titel_eng>Ordinary Differential Equations</titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>25ac2623-16d8-4066-bb36-93902144b0d4</id>
+        <titel>Dabei sind die Inhalte mit dem Modul ISWI 2.3 Finanzmanagement abzustimmen, um Redundanzen im Bereich der Wirtschaftsmathematik zu vermeiden.</titel>
+        <titel_eng>The content shall be regulated with the ISWI 2.3 Financial Management module, in order to avoid redundancies in the field of economic mathematics.</titel_eng>
       </kapitel>
     </inhalt>
   </modul>
@@ -24469,12 +24475,15 @@
     <modul_abk>PHYI</modul_abk>
     <modul_name>Physik</modul_name>
     <modul_name_eng>Physics</modul_name_eng>
-    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer &lt;br&gt; - fachliche Kenntnisse bezüglich ingenieurwissenschaftlich relevanter physikalisch- technischer Grundlagen, Zusammenhänge und Verfahren, &lt;br&gt; - mannigfaltige Einblicke in den auf technische Zusammenhänge angewandten Energieerhaltungssatz gewinnen können, &lt;br&gt; - die Fähigkeit physikalisch-technische Sachverhalte zu analysieren und zu strukturieren, &lt;br&gt; - die Fähigkeit, Lösungen aufgabenadäquat zu erarbeiten.</modul_ziel>
-    <modul_ziel_eng>Upon completion of the module, participants will have &lt;br&gt; - knowledge on engineering relevant physic&lt;br&gt; - technical elements, connections and procedures, &lt;br&gt; - overviews on technical relations of applied Energy Conservation Laws, &lt;br&gt; - the ability to analyze and to structure physical-technical facts. &lt;br&gt; - the ability to develop problem relevant solutions.&lt;br&gt; </modul_ziel_eng>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmerfachliche Kenntnisse bezüglich ingenieurwissenschaftlich relevanter physikalischechnischer Grundlagen, Zusammenhänge und Verfahren, mannigfaltige Einblicke in den auf technische Zusammenhänge angewandten Energieerhaltungssatz gewinnen können, die Fähigkeit physikalisch-technische Sachverhalte zu analysieren und zu strukturieren, die Fähigkeit, Lösungen aufgabenadäquat zu erarbeiten.
+Folgende Bildungsziele des Studiengangs werden vermittelt: 
+Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
+</modul_ziel>
+    <modul_ziel_eng>Upon completion of the module, participants will have &amp;lt;br&amp;gt; - knowledge on engineering relevant physic&amp;lt;br&amp;gt; - technical elements, connections and procedures, &amp;lt;br&amp;gt; - overviews on technical relations of applied Energy Conservation Laws, &amp;lt;br&amp;gt; - the ability to analyze and to structure physical-technical facts. &amp;lt;br&amp;gt; - the ability to develop problem relevant solutions.&amp;lt;br&amp;gt; </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Alle Prüfungsformen</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Grundlage für etliche Folgemodule</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -24488,14 +24497,49 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>098538b8-713a-4439-a86c-694cb5e14c52</id>
-        <titel>Physik: &lt;br&gt; Es werden in den Bereichen Mechanik, Thermodynamik, Akustik, Optik und Atomphysik Grundlagen ingenieurbezogener Physik vermittelt.</titel>
-        <titel_eng>Physics: &lt;br&gt; Fundamentals of engineering related physics are taught in the fields of mechanics, thermodynamics, acoustics, optics and atomic physics.</titel_eng>
+        <id>c9f1e79a-ee48-4f56-be73-57cc437a43ff</id>
+        <titel>Physik</titel>
+        <titel_eng>Physik</titel_eng>
+        <unterkapitel>
+          <id>bd5172dc-6f57-4c02-a66e-066b2a1d1070</id>
+          <titel>Mechanik</titel>
+          <titel_eng>Mechanik</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>56e592e2-ced1-4b04-89af-21ff574b96ac</id>
+          <titel>Thermodynamik</titel>
+          <titel_eng>Thermodynamik</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>e58e98be-a560-4ee6-86d4-aaaba6f4d7e5</id>
+          <titel>Akustikd. Optik</titel>
+          <titel_eng>Akustikd. Optik</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>641f62e5-b069-4a12-be94-a29768ab6207</id>
+          <titel>Atomphysik,Grundlagen ingenieurbezogener Physik</titel>
+          <titel_eng>Atomphysik,Grundlagen ingenieurbezogener Physik</titel_eng>
+        </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>30a18bb4-3ed0-4b3c-9ce5-9efce0396d9d</id>
-        <titel>Elektrotechnik: &lt;br&gt; Es werden Grundlagen aus dem Bereich Elektrotechnik vermittelt (Elektrostatik, Elektrodynamik und elektromagnetische Wellen)</titel>
-        <titel_eng>Electrical engineering: &lt;br&gt; Fundamentals in the field of electrical engineering (electrostatics, electrodynamics, electromagnetic waves)</titel_eng>
+        <id>84e3647d-c889-44e6-8e16-68bd222af1ca</id>
+        <titel>Elektrotechnik</titel>
+        <titel_eng>Elektrotechnik</titel_eng>
+        <unterkapitel>
+          <id>fde2af06-aae0-4066-834d-8f11d5b0ac4b</id>
+          <titel>Elektrostatik</titel>
+          <titel_eng>Elektrostatik</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>cdb8249e-1a18-4eec-ae3c-4e3263a0afe1</id>
+          <titel>Elektrodynamik</titel>
+          <titel_eng>Elektrodynamik</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>cbdab187-fc70-4ea5-a14e-ff7c884bcb8c</id>
+          <titel>Elektromagnetische Wellen</titel>
+          <titel_eng>Elektromagnetische Wellen</titel_eng>
+        </unterkapitel>
       </kapitel>
     </inhalt>
   </modul>
@@ -24508,8 +24552,8 @@
     <modul_ziel_eng>Fundamental on the structure, properties and property targeted modification of metallic materials and their testing</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Alle Prüfungsformen</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Grundlage für etliche Folgemodule</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -24523,91 +24567,91 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>c87e3164-2b88-4cd5-bfa7-f475a1ed880f</id>
+        <id>698ac131-c902-4bb9-aecb-d31f9920f013</id>
         <titel>Werkstoffwissenschaften</titel>
         <titel_eng>Material sciences</titel_eng>
         <unterkapitel>
-          <id>3c6c5e91-ad15-4ed3-b110-fa6a3d469055</id>
+          <id>b65dd513-7ace-4868-9702-c2ac4ffd0f65</id>
           <titel>Grundlagen: Inhalt der Vorlesung; Einteilung der Werkstoffe, Übersicht über die Werkstoffgruppen</titel>
           <titel_eng>Basics: contents of the lecture; classification of materials, overview of the material groups</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>aaee02d2-efb2-420e-8f04-8f6e1b47df6f</id>
+          <id>ad3d9260-3271-4529-ae39-cb16ce21fb80</id>
           <titel>Atomare Struktur: Atommodell nach Bohr; Periodensystem der Elemente; Interatomare Bindungen</titel>
           <titel_eng>Atomic structure: Bohr atom model, the periodic table of elements; Interatomic bonds</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>1f00b08b-8ef7-447a-be84-c254a00dadd2</id>
+          <id>a66f8de5-d459-419b-ac69-2c0a4ebe63a2</id>
           <titel>Struktur eines Festkörpers: Kristalline und amorphe Strukturen; Idealer Kristall; Realer Kristall; Realstruktur und Eigenschaften; Aufbau von Legierungen</titel>
           <titel_eng>Structure of a solid: Crystalline and amorphous structures; ideal crystal; Real crystal; real structure and properties, structure of alloys</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>4e137c14-9e37-4927-9027-23bc6a423223</id>
+          <id>2f6b68ad-25bd-4e9e-a1f9-2c8bd1d2de3d</id>
           <titel>Werkstoffeigenschaften: Mechanische Eigenschaften; Verfestigung</titel>
           <titel_eng>Material properties: mechanical properties; solidification</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>079d1805-b87c-4ca5-b91d-c840fb18bcaf</id>
+          <id>f050804c-6251-4ffa-a1f7-451e81afd49e</id>
           <titel>Thermisch aktivierte Prozesse: Diffusion; Erholung und Rekristallisation</titel>
           <titel_eng>Thermally activated processes: Diffusion; recovery and recrystallization</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d58937f3-5409-4720-a891-2b4ef848e20f</id>
+          <id>41a8864f-ff7f-4b4b-b70b-a491a29f9d1a</id>
           <titel>Strukturgleichgewichte: Phasenumwandlungen; Grundtypen binärer Zustandsdiagramme; Eisen-Kohlenstoff-Diagramm; Wichtige Eisen-Kohlenstoffgefüge; Einfluss von Legierungselementen</titel>
           <titel_eng>Structure Equilibrium: Phase transformations; basic types of binary state diagrams; iron-carbon diagram; Important iron-carbon structure, the influence of alloying elements</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>751e2517-64be-47c4-b86e-97b536a093e4</id>
+          <id>8c874f49-0632-49c8-b3d8-6fb2683e0528</id>
           <titel>Wärmebehandlung: ZTU-Diagramme; Arten der Wärmebehandlung</titel>
           <titel_eng>Heat treatment: ZTU diagrams; types of heat treatment</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>830c1161-1d6a-492e-b7ca-0df9ba9568ee</id>
+          <id>e21d1b67-49bd-4875-a2cd-cd87b37aae78</id>
           <titel>Bezeichnung der Stähle: Kurznamen; Werkstoffnummern</titel>
           <titel_eng>Designation of steels: designations; material numbers</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>1ebcf38e-3ecf-4e78-b4a2-5b282b732ade</id>
+          <id>39e715ff-b0a9-48d2-a64d-e615179b7455</id>
           <titel>Werkstoffprüfung: Zugversuch; Härteprüfung; Kerbschlagbiegeprüfung</titel>
           <titel_eng>Material testing: Tensile test, hardness test; Charpy test</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>381699e9-b698-4050-b47d-1336d25bc22d</id>
+        <id>43eaa8ec-7796-470a-8570-da55bf779ec4</id>
         <titel>Mechanik</titel>
         <titel_eng>Mechanical parts</titel_eng>
         <unterkapitel>
-          <id>cf1b33cb-a0e2-45d4-a851-62f0e9b32758</id>
+          <id>587727aa-6d55-401e-921f-d5012e5066fd</id>
           <titel>Aufgabe und Einteilung der Mechanik</titel>
           <titel_eng>Classification task and the mechanics</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6de86ec0-b976-43ef-8c22-bd031e01b263</id>
+          <id>3979f333-ec9b-490c-a706-40d002675447</id>
           <titel>Kräfte als Vektoren, Koordinatendarstellung</titel>
           <titel_eng>Forces as vectors, coordinates representation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e515d52b-5b2f-4505-84cb-577247b26c5e</id>
+          <id>3ddc1569-8a4a-47be-bfb8-d17b5662e7c0</id>
           <titel>Ebenes Kräftesystem mit gemeinsamem Angriffspunkt</titel>
           <titel_eng>System of forces in a plane with a common application point</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c2d55f3b-f999-4092-94a6-f58bd5b7d094</id>
+          <id>f04e3f31-fccf-44ce-a751-61aa020ae5ba</id>
           <titel>Schwerpunkt, Symmetrieachsen</titel>
           <titel_eng>Focus, symmetry axes</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>53eb4d17-df1f-4da7-a062-ca93cae446da</id>
+          <id>e9d2c289-7fdc-47b0-829a-f05e213eebab</id>
           <titel>Schnittgrößen am Balken</titel>
           <titel_eng>Cutting measures in beams</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>7fc5a905-fb2c-433d-9e9d-611035354896</id>
+          <id>7b7500dd-c2c8-42fd-a149-a918920fc2ef</id>
           <titel>Ebene Fachwerke, Stabkräfte</titel>
           <titel_eng>Plane trusses, directional forces</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>5184b146-3aca-4d2f-9181-df0450060020</id>
+          <id>c8cafd3d-7712-47d6-ad8d-9556ddad4cfa</id>
           <titel>Reibung, Haftung, Gleitung</titel>
           <titel_eng>Friction, adhesion, slip</titel_eng>
         </unterkapitel>
@@ -24619,12 +24663,12 @@
     <modul_abk>TK</modul_abk>
     <modul_name>Technische Konstruktion</modul_name>
     <modul_name_eng>Technical Design</modul_name_eng>
-    <modul_ziel>Die Teilnehmer: &lt;br&gt; - erwerben fachliche Kenntnisse über die Normung im Maschinenbau und deren Sinn. &lt;br&gt; - kennen wesentliche Maschinenelemente. &lt;br&gt; - können sich in Kataloge, Tabellen- und Normenwerke selbstständig einarbeiten. &lt;br&gt; - sind befähigt, Skizzen von Maschinenbauteilen anzufertigen. &lt;br&gt; - können sich weiter in die Regeln der technischen Kommunikation einarbeiten. &lt;br&gt; - haben Einblicke in das weitverbreitetste 2D- und 3D-CAD-Programm gewonnen und können einfache CAD-Konstruktionen anfertigen (vgl. Inhaltsbeschreibung).</modul_ziel>
-    <modul_ziel_eng>Participants: &lt;br&gt; - acquire technical knowledge on the standardization and engineering and their meaning. &lt;br&gt; - know essential machine elements. &lt;br&gt; - can use catalogs, tables and Standards independently. &lt;br&gt; - are qualified to elaborate sketches of machine elements. &lt;br&gt; - can continue to work with the rules of technical communication. &lt;br&gt; - have insights into the widespread 2D and 3D CAD programs and can prepare simple CAD designs (see content description).&lt;br&gt; </modul_ziel_eng>
+    <modul_ziel>Die Teilnehmer: &amp;lt;br&amp;gt; - erwerben fachliche Kenntnisse über die Normung im Maschinenbau und deren Sinn. &amp;lt;br&amp;gt; - kennen wesentliche Maschinenelemente. &amp;lt;br&amp;gt; - können sich in Kataloge, Tabellen- und Normenwerke selbstständig einarbeiten. &amp;lt;br&amp;gt; - sind befähigt, Skizzen von Maschinenbauteilen anzufertigen. &amp;lt;br&amp;gt; - können sich weiter in die Regeln der technischen Kommunikation einarbeiten. &amp;lt;br&amp;gt; - haben Einblicke in das weitverbreitetste 2D- und 3D-CAD-Programm gewonnen und können einfache CAD-Konstruktionen anfertigen (vgl. Inhaltsbeschreibung).</modul_ziel>
+    <modul_ziel_eng>Participants: &amp;lt;br&amp;gt; - acquire technical knowledge on the standardization and engineering and their meaning. &amp;lt;br&amp;gt; - know essential machine elements. &amp;lt;br&amp;gt; - can use catalogs, tables and Standards independently. &amp;lt;br&amp;gt; - are qualified to elaborate sketches of machine elements. &amp;lt;br&amp;gt; - can continue to work with the rules of technical communication. &amp;lt;br&amp;gt; - have insights into the widespread 2D and 3D CAD programs and can prepare simple CAD designs (see content description).&amp;lt;br&amp;gt; </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Alle Prüfungsformen</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Klausur oder Portfolio</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Grundlage für etliche Folgemodule</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -24638,21 +24682,21 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>385578cc-5ab8-4eb8-8a77-9860d1e4eb3f</id>
+        <id>6e97c40f-f614-424b-b534-306e7020a660</id>
         <titel>Maschinenelemente</titel>
         <titel_eng>Machine components</titel_eng>
         <unterkapitel>
-          <id>2120183a-0261-4c2c-8909-a572894371d1</id>
+          <id>a80f4c55-dc74-4ad0-bc5c-ca03406ab355</id>
           <titel>Es wird ein Einblick in Bereiche ausgewählter Normteile vermittelt: Verschraubungen, Schraubensicherungen, Gewinde, Stifte, Bolzen Niete, Wellen, Keilwellen, Federn, Wälz- und Gleitlager, Sicherungs- und Dichtringe, Riementriebe, Kupplungen. Im Vordergrund steht die Vermittlung systematischer Kenntnisse und Anwendungsbeispiele.</titel>
           <titel_eng>An overview into fields of selected standard elements: Fittings, screw fuses, thread, pins, bolts, rivets, shafts, splined shafts, springs, rolling and plain bearings, backup and seal rings, belt drives, couplings. The focus is the teaching of systematic knowledge and application examples.</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>1b53a777-a7be-4aa7-a44f-59dce0e9b28b</id>
+        <id>4b16840a-1e4f-4969-b48b-0a07c8707c90</id>
         <titel>Konstruktion / CAD</titel>
         <titel_eng>Design / CAD</titel_eng>
         <unterkapitel>
-          <id>2f2593de-9a99-4a72-98d7-d828cc998f9f</id>
+          <id>6ef26f53-559d-4b03-8abf-d612e5f9c60b</id>
           <titel>Es werden zunächst elementare Kenntnisse und Übungen aus dem Bereich der technischen Kommunikation vermittelt wie z.B. Zeichnungsnormen (Normzahlen, Maßstäbe, Blattgrößen, Schriften), Anfertigen von Handskizzen, Zeichnen zweidimensionaler technischen Zeichnungen (Linienarten, Anordnung der Ansichten, Maßeintragungen, Schnitte) und Perspektivzeichnen von Hand Danach folgen die Themen Toleranzen, Passungen, Form- und Lagetoleranzen, technische Oberflächen, Die Behandlung anwendungs- und fertigungsbezogener Baugruppen vermittelt die ingenieurwissenschaftlichen Bezüge. Parallel dazu werden in Gruppen einfache CAD-2D und 3D-Übungen in den CAD-Rechnerräumen durchgeführt: CAD-2D-Technik: Anwendungsmöglichkeiten, Geometrische Grundelemente des CAD-Systems, Grundbefehle, Elementeigenschaften, Elementänderungen, Löschen, Zusammenbau von Objekten, Bemaßung, Toleranz- und Oberflächenangaben, Darstellung auf dem Bildschirm, Manipulation von Objekten, Speichern von Objekten, Erzeugen von Schnitten und Ansichten, Überarbeiten, Datentransfer und Ausgeben und Zeichnungsverwaltung. CAD-3D–Technik: Anwendungen und Darstellungsmöglichkeiten, Geometrische Grundbefehle eines 3-CAD-Systems, Elementeigenschaften, Elementänderungen, Erzeugen von Grundkörpern, Extrusion und Rotation, Zusammenbau von Objekten, Erzeugen von Schnitten und Ansichten, Übergabe von 3D-CAD nach 2D, Manipulation von Objekten, Speichern von Objekten und Voreinstellungen.</titel>
           <titel_eng>There are initially elementary exercises from the field of technical communication, such as Drawing standards (standard numbers, scales, leaf sizes, fonts), sketches, drawing two-dimensional technical drawings (line types, arrangement of views, dimensions, cuts), and Perspective hand drawings Following themes are tolerances, fits, geometrical and position tolerances, technical surfaces, treatment application and production-related components, the engineering references. The featuring of application and production related assembly groups enhance engineering connections. In parallel, simple CAD, 2D and CAD 3D exercises will be executed in groups, in the computer rooms: CAD-2D-technology: applications, basic geometric elements of the CAD system, Basic commands, element properties, element editing, delete, assembly of objects, Dimension, tolerance and surface information, display on the screen, manipulation of objects, storage objects, creating sections and views, revise, data transfer and output and drawing management. 3D CAD Technology: Applications and display options, basic Geometric commands of a 3-CAD system, element properties, element editing, creation of basic bodies, extrusion and rotation, the assembly of objects, creating sections and views, CAD 3D to CAD 2D transfers, manipulation of objects, saving objects and preferences.</titel_eng>
         </unterkapitel>
@@ -25153,8 +25197,8 @@
     <modul_ziel_eng>Ability to provide technical product support, in particular the planning and design of innovative products, including the planning of production.</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Alle Prüfungsformen</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Klausur oder Hausarbeit oder Referat</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -25168,21 +25212,21 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>72258feb-27ff-4b96-b293-6e682472e0df</id>
+        <id>2a90f7d7-e0ce-4a86-b641-2e55670bc545</id>
         <titel>Techn. Innovationsmanagement</titel>
         <titel_eng>Technical innovation management</titel_eng>
         <unterkapitel>
-          <id>517ec4a6-d583-42a7-93dc-f39b97ccbda7</id>
+          <id>9582a246-42da-4807-b327-093cfae2baac</id>
           <titel>Für ein ausgewähltes Produkt sind alle produktrelevanten Maßnahmen und Aktivitäten, ausgehend von der Produktidee bis hin zur Fertigung zu charakterisieren.Hierzu wird ein bekanntes Produkt ausgewählt, welches hinsichtlich seiner Eigenschaften bekannt und eindeutig ist. Vorstellbar ist auch, dass ein reales nicht mehr genutztes Bauteil untersucht wird (Rasierer, Handy, Bügeleisen, Rasenmäher, ...). Dieses Produkt wird soweit wie möglich in seine Komponenten zerlegt, dies beinhaltet eine Aufgliederung in Teilkomponenten oder Systeme, wie Gehäuse, Elektronik, Mechanik. Das Produkt wird mittels technischer Zeichnung erfasst, die Kundenwünsche werden dokumentiert. Die Auf- und Ablauforganisation der Fertigung wird beschrieben und im Rahmen eines QS- Handbuches dokumentiert.</titel>
           <titel_eng>For a selected product, all product-related measures and activities, starting from the product idea to manufacturing shall be characterized. A distinguished product is selected, which is known for its characteristics and is uniqueness. It is also thinkable that a no longer used real component can be analyzed (razors, mobile phones, irons, mower,). This product is, as far as possible, divided into its components, including a sub-division into sub-components or systems, such as housing, electronics, and mechanics. The product is executed by means of a technical drawing, customer requirements are documented. The establishment and organization of production is described and documented in the context of a QA manual.</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>c2d62382-2cb5-4320-9a3f-37aad2e19b92</id>
+        <id>e27840b1-10c5-4ee2-a337-ababf639dff7</id>
         <titel>PDM EDM Produktdatenmanagement</titel>
         <titel_eng>EDM PDM Product data management</titel_eng>
         <unterkapitel>
-          <id>dd783b6a-83ad-4745-ac3a-68cf9c73af31</id>
+          <id>003ab17e-b735-4f5f-ad65-a44f2559a951</id>
           <titel>Vorstellung der CA-Techniken in verschiedeneren Unternehmensbereichen, Bedeutung , Methoden und Funktionen des Produktdatenmanagements, Datenbanktechnologien als Basis für die Realisierung eines Produktdatenmanagementsystems, Komponenten von EDM/PDM-Systemen</titel>
           <titel_eng>Presentation of CA technologies in various business areas, importance, methods and functions of the product data management, database technologies as the basis of a product data management system, components of EDM / PDM systems</titel_eng>
         </unterkapitel>
@@ -26532,7 +26576,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -26546,7 +26590,7 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>9f691394-db89-49ac-ae58-7776c57949d2</id>
+        <id>91b4049e-7305-47dd-9c07-4baf751fff56</id>
         <titel>Abhängig vom gewählten Modul</titel>
         <titel_eng>Depending on the selected module</titel_eng>
       </kapitel>
@@ -26562,7 +26606,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -26576,7 +26620,7 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>55befc10-e525-4a90-8f50-c49d58d563c1</id>
+        <id>29657cdd-e62f-4ce5-9c77-91b933926875</id>
         <titel>Abhängig vom gewählten Modul</titel>
         <titel_eng>Depending on the selected module</titel_eng>
       </kapitel>
@@ -28103,7 +28147,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -28127,7 +28171,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -28151,7 +28195,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -28175,7 +28219,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -28199,7 +28243,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -28223,7 +28267,7 @@
     <modul_lehrform>Abhängig vom gewählten Modul</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
-    <modul_pruefungsdauer>Abhängig vom gewählten Modul</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Abhängig vom gewählten Modul</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -34124,6 +34168,751 @@
           <titel>Umlaufbahn um den Zielplaneten</titel>
           <titel_eng>Establishing a Planetary Orbit</titel_eng>
         </unterkapitel>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>a728fd19-67dd-4e0d-9b2c-fbb2d93ef8b3</modul_id>
+    <modul_abk>WIWII</modul_abk>
+    <modul_name>Wirtschaftswissenschaften</modul_name>
+    <modul_ziel>Teilmodul VWL:
+Nach Abschluss des Moduls kennen die Teilnehmer die wichtigsten volkswirtschaftlichen Begriffe und können sie im fachlichen Kontext nutzen. Sie haben einen Überblick zu alternativen  Erklärungsmodellen  aus  einzel- und  gesamtwirtschaftlicher Perspektive gewonnen und können diese auf konkrete Problemstellungen anwenden sowie hinsichtlich ihrer Aussagekraft diskutieren. Sie haben Grundkenntnisse wichtiger Problemfelder der nationalen und europäischen Wirtschaftspolitik gewonnen und können Handlungsmöglichkeiten unterschiedlicher Akteure einordnen.
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2 Fähigkeiten: 5, 6, Kompetenzen: 10
+
+Teilmodul BWL:
+Nach Abschluss des Moduls haben die Teilnehmer fachliche Basiskenntnisse und einen Überblick über das Thema Betriebswirtschaftslehre, die Fähigkeit betriebliche Aufgabenfelder zuzuordnen und einige Methoden zur betrieblichen Entscheidungsfindung anzuwenden sowie fachliche und konative Basiskenntnisse zu persönlicher Kommunikation und Teamarbeit sowie die Fähigkeit deren Anwendung in typischen Arbeitssituationen.
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2, 4 Fähigkeiten: 6, Kompetenzen: 10, 12, 15
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur oder Portfolio</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>d0731141-6716-4351-88e1-10f23514837d</id>
+        <titel>Volkswirtschaftslehre</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>f105c3d2-59f5-4432-a823-f35bae78a2f1</id>
+        <titel>Betriebswirtschaftslehre</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>de45c725-fc02-4d50-8def-d59ad8c6a79f</modul_id>
+    <modul_abk>NR</modul_abk>
+    <modul_name>Nationales Recht</modul_name>
+    <modul_ziel>Die Studenten sollen nach Abschluss der Lehrveranstaltung über folgende Kompetenzen verfügen:
+- Grundlegende Fachkompetenz bezüglich des Wirtschaftsrechts für die Vertragspraxis und die Konfliktlösung.
+- Methodenkompetenz: Kompetenz, entsprechende juristische Probleme der ökonomischen Praxis frühzeitig zu erkennen und in die Planung der betriebswirtschaftlichen Handlungsoptionen mit aufzunehmen.
+- Entscheidungskompetenz zur Beantwortung der Frage, ob einfache juristische Probleme ohne die Einschaltung professioneller juristischer Hilfe gelöst werden können oder ob es dieser Hilfe bedarf.
+- Kommunikationsfähigkeit mitAnwälten oder Rechtsabteilungen und dadurch Sozialkompetenz, in interdisziplinären Gruppen und Zusammenhängen argumentieren zu können.
+- Durch Erlernen der Techniken zur Fallbearbeitung werden für den Einzelnen selbst Kompetenzen erworben, die eigenen Arbeitsprozesse definiert und reflektiert zu gestalten.
+
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2 Fähigkeiten: 5, 6, Kompetenzen: 10, 15
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>e563779b-8ad4-4755-89a8-aa04848920d4</id>
+        <titel>Einführung in das Zivilrecht und die juristische Methode</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>5694f036-662d-4bbf-89cc-139633c62950</id>
+        <titel>Allgemeine Rechtsgeschäftslehre einschließlich AGB</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>d91cd3d4-a7ce-4712-a958-19121318e6d4</id>
+        <titel>Vertrag und Eigentum</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>ee6a4cff-42dc-420d-83bd-f406aaecece5</id>
+        <titel>Schuldrechtliche Leistungsstörungen</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>1627b976-0997-4087-95f8-fad90a6d74bb</id>
+        <titel>Einige Grundzüge des Handels- und Gesellschaftsrechts</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>dbb846b5-dfd8-473c-9805-0be02afa11a3</modul_id>
+    <modul_abk>FIMAI</modul_abk>
+    <modul_name>BWL: Finanzmanagement</modul_name>
+    <modul_ziel>1. Wirtschaftsmathematik und Statistik
+Nach Abschluss des Moduls können die Teilnehmer wirtschafts- und ingenieurwissenschaftliche Fragestellungen als mathematische Probleme formulieren und lösen, die berechneten Ergebnisse ebenso aus wirtschaftlicher Perspektive wie auch mit dem Blick auf eher technische Fragestellungen interpretieren, empirische Daten gewinnen und aufbereiten, fremd erstellte Statistiken lesen und auswerten, für wirtschafts- und ingenieurwissenschaftliche Sachverhalte geeignete Verfahren der deskriptiven Statistik auswählen sowie Eintrittswahrscheinlichkeiten für Ereignisse errechnen.
+
+2. Investition und Finanzierung
+Nach Abschluss des Moduls können die Teilnehmer die grundlegenden Methoden der statischen und der dynamischen Investitionsrechnung benennen, diese auf Investitionsentscheidungen anwenden und in Standardsituationen beurteilen. Sie können Unsicherheit und Steuern in die Beurteilung von Investitionsvorhaben einbeziehen und eine ausgewogene Bewertung des Investitionsvorhabens vornehmen und eine Kapitalbedarfsplanung erstellen und auswerten. Dabei können die Teilnehmer sowohl die Kapitalstruktur als auch die Kapitalkosten optimieren als auch aus der Vielfalt der auf dem Kapitalmarkt existierenden Finanzierungsinstrumente geeignete Finanzierungsquellen situationsgerecht beurteilen und auswählen.
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 1, 2 Fähigkeiten: 5, 6, 7, 9, Kompetenzen: 10, 15
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>216b62b9-0748-44c6-97a1-571c73b8e124</id>
+        <titel>Wirtschaftsmathematik und Statistik</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>a8118e9f-d376-4134-87ff-23a71447632b</id>
+        <titel>Investition und Finanzierung</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>d87485df-13f7-44dd-8601-fd5d350389a5</modul_id>
+    <modul_abk>RECHI</modul_abk>
+    <modul_name>BWL: Rechnungswesen</modul_name>
+    <modul_ziel>Nach Abschluss desModuls können die Studierenden:
+- die grundlegenden Aufgaben und Methoden der Kosten- und Leistungsrechnung darstellen und in ihrem Zusammenhang zu realen Sachverhalten verstehen;
+- die Methoden auf einfache Analyse-und Entscheidungssituationen praxisorientiert anwenden;
+- die Anforderungen an das Controlling als Teil der Unter-nehmensführung benennen, Methoden des strategischen und des operativen Controllings unterscheiden und zur Führung einesUnternehmens oder einer Verwaltung nutzen;
+- Kennzahlen und Kennzahlensysteme generieren und unternehmenszielorientierte Entscheidungen aus diesen Kennzahlen herleiten;
+- das Berichtswesen zielgruppenorientiert gestalten;
+- gängige Arbeits- und Lerntechniken auf abstrakte Inhalte anwenden und sich weiterführendes Wissen selbständig aus einschlägigen wissenschaftlichen Quellen erarbeiten
+- Fachkenntnisse der Kostenrechnung durch exemplarische Beispiele anwenden, 
+- selbständig Beispiele und kleine Fallstudien der Kosten-rechnung lösen.
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 2 Fähigkeiten: 5, 6, 7 Kompetenzen: 9, 10, 15</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>1f6f386d-900d-4bff-8b2f-7f20b467dd20</id>
+        <titel>Teilmodul Externes Rechnungswesen: Die Veranstaltung befähigt die Teilnehmer zur Verbuchung von Geschäftsvorfällen und zur Erstellung von Einzelabschlüssen unterschiedlicher Unternehmensformen nach HGB. Ein knapper Ausblick auf internationale Rechnungslegung und Konzernrechnungslegung rundet das Modul ab. In einer modulbezogenen Übung werden die Inhalte der Lehrveranstaltung als angeleitetes Selbststudium weiter verdeutlicht.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>b305568d-e124-4e3b-8144-2ce1d5c4056e</id>
+        <titel>Teilmodul Internes Rechnungswesen: Die Veranstaltung dient der Vermittlung vo systematischen Kenntnissen im Fach Kostenrechnung. Dabei liegt der Schwerpunkt der Veranstaltung auf der Vermittlung von Grundlagenkenntnissen über Kostenarten und Methoden der Kostenstellen- und Kostenträgerrechnung. Des Weiteren werden die Unterschiede sowie Vor- und Nachteile der Voll- und Teilkostenrechnung diskutiert und modernere Systeme der Kostenrechnung vorgestellt (Deckungsbeitragsrechnung, Plankostenrechnung, Prozesskostenrechnung, Life-Cycle-Costing, Target-Costing). In einer modulbezogenen Übung werden die Inhalte der Lehrveranstaltung als angeleitetes Selbststudium weiter verdeutlicht.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>267ce2de-70af-48fa-88c4-880a69f3b7ac</modul_id>
+    <modul_abk>MARKI</modul_abk>
+    <modul_name>BWL: Personal und Organisation, Marketing</modul_name>
+    <modul_ziel>1.Personal und Organisation
+Studierende können:
+- Die Grundlagen organisatorischen Handelns und die rele-vanten Gestaltungsvariablen erläutern.
+- Gestaltungsmuster beschreiben und für exemplarische Unternehmenssituationen entwerfen und beurteilen.
+- Handlungsfelder des Personalmanagements beschreiben.
+- Faktoren identifizieren, die für eine gesunde Arbeitsgestaltung von Bedeutung sind.
+- Das Zusammenwirken von Führung und Organisation im Unternehmen anhand von Fallbeispielen interpretieren.
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 2 Fähigkeiten: 6,Kompetenzen: 13, 14, 182.
+
+2. Marketing
+Nach Abschluss des Moduls haben die Teilnehmer:
+- fachliche Basiskenntnisse und einen Überblick über das strategische und operative Marketing sowie die marktorientierte Unternehmensführung
+- die Fähigkeit marketingspezifische Aufgabenfelder zuzu-ordnen und adäquate Methoden zur strategischen und operativen Entscheidungsfindung im Marketing anzuwenden
+- die Fähigkeit zur kritischen Analyse von Marketinglösungen und Marketingplänen
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 2 Fähigkeiten: 6, 7, Kompetenzen: 10, 14, 15, 16, 17, 18</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>3c4b9e87-c91a-4b03-bcc2-91793a963130</id>
+        <titel>Personal und Organisation</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>0ba33ef6-08d2-4e89-9e22-59893f245c41</id>
+        <titel>Marketing</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>12677165-24bd-462a-944f-beca64ab44f6</modul_id>
+    <modul_abk>IPRMA</modul_abk>
+    <modul_name>Projektmanagement (ISWI)</modul_name>
+    <modul_ziel>Studierende können:
+- Die Bedeutung des Projektmanagements für das Handeln in Industrieunternehmen begründen.
+- Einen Projektplan für ein kleines Projekt in Teamarbeit entwerfen.
+- Fortschrittskennzahlen und Trendaussagen für ein Projekt auf der Basis von Ist-und Plandaten errechnen und interpretieren.
+- Faktoren für den Projekterfolg in Industrieunternehmen for-mulieren und erkennen.
+
+Folgende Bildungsziele des Studiengangs werden vermittelt: 
+Kenntnisse: 2, 3 Fähigkeiten: 5, 6, 9 Kompetenzen: 12, 14, 15, 16, 18</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>f0119a41-69ae-4018-b723-1c77220194a0</id>
+        <titel>Einführung in das Projektmanagement: Bedeutung von Projek-ten und Projektmanagement, Überblick über internationale Organisationen und Standards im Projektmanagement (IPMA, PMI), Projektlebenszyklus und Projektphasenmodelle, Projekt-organisation</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>1a478c60-39de-4b0e-a66b-d006eac206a0</id>
+        <titel>Projektinitiierung: Projekt Business Case, Umfeld-und Stakeholderanalyse, Projektanforderungsanalyse und zielbeschreibung, Messung des Projekterfolgs</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>3efe32e1-6bea-4c67-8b7c-cc5f0b7e205d</id>
+        <titel>Projektplanung: Projektstrukturplanung, Risikomanagement, Terminplanung, Netzplantechnik, Kosten-und Kapazitätsplanung, Einsatz von Projektplanungssoftware</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>3cdd5bb1-1c9a-4c58-9420-33a25dfed629</id>
+        <titel>Projektsteuerung: Methoden der Fortschrittsmessung, Fertigstellungswertanalyse, Berichtsformen, Steuerungsmaßnahmen</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>bd80b52d-fa28-4416-8e43-0cfb829b68b9</id>
+        <titel>Projektabschluss: Methoden der Projektevaluation</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>f067535d-4d85-4bfb-87a0-7bccdb60cda6</id>
+        <titel>Agile Methoden im Projektmanagement</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>bc6b0c3f-dbec-4bda-8a5b-4952fb082449</modul_id>
+    <modul_abk>IMI</modul_abk>
+    <modul_name>BWL: Internationales Management</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls besitzen die Studierenden den fachlichen Überblick über die wesentlichen Besonderheiten der internationalen Unternehmensführung in unterschiedlichen Funktionsbereichen und die Fähigkeitenzur Anwendung ausgewählter Managementmethoden und Managementsysteme im internationalen Kontext. Im Hinblick auf internationale Managementaufgaben haben Sie anhand von Fällen beispielhafte Problemlösungs- und Handlungskompetenz geübt, sowie in Gruppenarbeit in interkulturellen Teams Teamkompetenz, interkulturelle und soziale Kompetenz erworben.
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2, 4 Fähigkeiten: 5, 6 Kompetenzen: 12, 14, 16, 17, 18</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>4291bd1f-1c0d-4e8e-8cd6-244a1b67a5bd</id>
+        <titel>Im Kurs werden die wesentlichen Besonderheiten der internationalen Unternehmensführung erörtert. Hierzu zählen die Stufen und Strategien der Internationalisierung, internationale Umweltanalyse, internationale Marktsegmentierung, Länderrisikoanalyse und Länderportfolio, Markteintrittsstrategien sowie die Besonderheiten ausgewählter Managementfunktionen im internationalen Kontext, wie Marketing, Führung, Kommunikation, Organisation. Einen besonderen Schwerpunkt bilden die Bilanzen internationaler Unternehmen (International External Auditing)</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>2623f3e9-3121-4d31-a3f1-a407941b7b83</modul_id>
+    <modul_abk>VASS</modul_abk>
+    <modul_name>Vorbereitung Ausland und Social Skills</modul_name>
+    <modul_ziel>Teilmodul Interkulturelle Kommunikation:
+- Kenntnis über typische Herausforderungen im interkulturellen Handlungsumfeld sowie über typische Theorieansätze und Methoden
+- Kenntnis über das Phänomen Kulturschock
+- Kenntnis über unterschiedliche Rollenerwartungen in den einzelnen Ländern sowie den Umgang mit geschlechtsspezifischen Konflikten
+- Die Fähigkeit, Konflikte einordnen und analysieren können sowie verschiedene Konfliktlösungsstrategien adäquat anwenden zu können
+- Kommunikationstechniken kennen zu lernen, die eine interkulturelle Verständigung erleichtern sowie Anwendungsfähigkeit von Techniken der Mediation an Fallbeispielen
+- Handlungskompetenz im Umgang mit einem persönlichen Kulturschock
+
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 3, 4 Fähigkeiten: 5, 6 Kompetenzen: 12, 13, 14, 15, 17, 182.
+
+Teilmodul Social Skills:
+Nach Abschluss des Moduls haben die Teilnehmer fachliche und konative Basiskenntnisse zu persönlicher Kommunikation und Teamarbeit sowie die Fähigkeit deren Anwendung in typischen Arbeitssituationen.
+
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 3, 5 Fähigkeiten: 6, Kompetenzen: 13, 14, 18</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>8ec118e7-0242-4e6d-ae67-ecd82ab6a71b</id>
+        <titel>Teilmodul Interkulturelle Kommunikation: Der Kurs erörtert die wesentlichen Besonderheiten der interkulturellen Kommunikation und Interaktion und dient als Vorbereitung für die beiden Auslandssemester. Neben der Vorstellung theoretischer Konzepte zur Analyse und Erklärung interkultureller Unterschiede und deren Konsequenzen für die persönliche Interaktion und Kommunikation soll durch interkulturelles Handlungstraining der Umgang mit fremden Kulturen in Rollenspielen und Fallstudien geübt und persönlich erfahren werden. Weitere Themen sind der praktische Umgang mit interkulturellen Störungen, mit Kulturschock, Konfliktlösungsstrategien, Metakommunikation und aktives Zuhören, Feedbackregeln, Umgang mit möglichen Gender-Konflikten im Ausland, Techniken der Mediation und Verhaltungsführung. Integriert wird dabei die Klärung von Fragen bezüglich des kommenden Auslandsjahres. Die Studierenden sind im Auslandsjahr mehr oder weniger auf sich alleine gestellt. Mögliche Fragen bezüglich der zu wählenden Studienfächer, der Praktikumssuche und der Unterkunft, sowie andere alltagsrelevante Fragen. Einen wesentlichen Anteil spielt hierbei das Erfahrungswissen der zurückgekehrten Studierenden aus dem Ausland. Die Studierenden werden auch die Gelegenheit erhalten, sich in Diskussionsforen mit den zurückgekehrten Kommilitonen auszutauschen. Mögliche Themen: Wahl der Universität, Wahl der Studienfächer, Praktikumssuche, Unterkunft, Einreisebestimmungen.In der modulbezogenen Übung werden die gewonnenen Erkenntnisse in praktischen Fragestellungen und mit geeigneten didaktischen Mitteln angewendet.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>097808ad-0641-4807-88e1-33d4d87b3fcb</id>
+        <titel>Teilmodul Social Skills: Es werden die grundlegenden Fähigkeiten für die persönliche Orientierung in einem betriebswirtschaftlichen, managementbezogenen Umfeld vermittelt. Hierzu zählen Aspekte der persönlichen Ziel- und Karriereplanung ebenso wie der Erwerb von Basisfähigkeiten vonKommunikation und Teamarbeit im Rahmen von Workshops und Rollenspielen. Vor allem für die interdisziplinäre Ausbildung von Wirtschaftsingenieuren sind diese von großer Bedeutung.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>e1fec871-2863-4ea5-bb24-4e8419d46306</modul_id>
+    <modul_abk>WSP1</modul_abk>
+    <modul_name>Ausland: Wahlpflichtmodul Wirtschaftsschwerpunkt</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer je nach Wahl des Themengebietes:
+
+Personal/Organisation:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Personalmanagements oder der Personalführung
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Personalbereich, bevorzugt im internationalen Kontext und /oder
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten der Organisation (strukturell, verhaltensbezogen, politisch oder kulturell)
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Organisationsbereich, bevorzugt im internationalen KontextMarketing/International Marketing:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Marketings sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Marketingbereich, bevorzugt im internationalen Kontext.Controlling/International Controlling:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Controlling sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Controllingbereich, bevorzugt im internationalen KontextOperations Management/Logistik:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Operations Management bzw. der Logistik sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Operations Management- bzw. Logistikbereich, bevorzugt im internationalen KontextDie Vermittlung folgender Bildungsziele des Studiengangs werden mindestens erwartet: Kenntnisse: 2, Kompetenz: 17
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>0b8d6c15-0313-4a38-9474-269af66d7c83</id>
+        <titel>Es ist ein Wahlpflichtmodulaus den Themenbereichen Organisation/Personalmanagement, Marketing/Internationales Marketing, Controlling/ Internationales Controlling oder Operations Management/Logistik zu wählen. Die Veranstaltung ist durch den Auslandsbeauftragten des Studiengangs vor Antritt des Auslandsaufenthalts genehmigen zu lassen.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>01e44243-981d-4eec-837e-394299052d6a</modul_id>
+    <modul_abk>WSP2</modul_abk>
+    <modul_name>Ausland: Wahlpflichtmodul Wirtschaftsschwerpunkt</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer je nach Wahl des Themengebietes:
+Personal/Organisation:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Personalmanagements oder der Personalführung
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Personalbereich, bevorzugt im internationalen Kontext und /oder
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten der Organisation (strukturell, verhaltensbezogen, politisch oder kulturell)
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Organisationsbereich, bevorzugt im internationalen KontextMarketing/International Marketing:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Marketings sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Marketingbereich, bevorzugt im internationalen Kontext.
+
+Controlling/International Controlling:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Controlling sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Controllingbereich, bevorzugt im internationalen KontextOperations Management/Logistik:
+- vertiefte fachliche Kenntnisse in ausgewählten Themengebieten des Operations Management bzw. der Logistik sowie 
+- die Fähigkeiten zur Anwendung ausgewählter Management- und Führungsmethoden im Operations Management- bzw. Logistikbereich, bevorzugt im internationalen KontextDie Vermittlung folgender Bildungsziele des Studiengangs werden mindestens erwartet: Kenntnisse: 2, Kompetenz: 17
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>2638a335-5c40-4298-988a-d5a18aed680b</id>
+        <titel>Es ist ein Wahlpflichtmodul aus den Themenbereichen Organisation/Personalmanagement, Marketing/Internationales Marketing, Controlling/ Internationales Controlling oder Operations Management/Logistik zu wählen. Der Themenbereich darf nicht mit dem Themenbereich des Wahlpflichtmoduls SP1 übereinstimmen. Die Veranstaltung ist durch den Auslandsbeauftragten des Studiengangs vor Antritt des Auslandsaufenthalts genehmigen zu lassen.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>8237199d-eea2-42b3-83f5-421898d543e6</modul_id>
+    <modul_abk>TSP1</modul_abk>
+    <modul_name>Ausland: Wahlpflichtmodul Technikschwerpunkt</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer:
+
+- vertiefte fachliche Kenntnisse im ausgewählten technischen Themengebiet 
+- die Fähigkeiten zur Anwendung ausgewählter Methoden im technischen Bereich
+
+Die Vermittlung folgender Bildungsziele des Studiengangs werden mindestens erwartet: Kenntnisse: 2, Kompetenz: 17
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>b90e3e25-434d-471d-818d-b5d10efaca0b</id>
+        <titel>Es ist ein Wahlpflichtmodul aus einem technischen Bereich zu wählen. Die Veranstaltung ist durch den Auslandsbeauftragten des Studiengangs vor Antritt des Auslandsaufenthalts genehmigen zu lassen.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>05de16a8-58f3-4e5f-a0c6-40ae2ceabd17</modul_id>
+    <modul_abk>TSP2</modul_abk>
+    <modul_name>Ausland: Wahlpflichtmodul Technikschwerpunkt</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer:
+- vertiefte fachliche Kenntnisse im ausgewählten technischen Themengebiet 
+- die Fähigkeiten zur Anwendung ausgewählter Methoden im technischen Bereich
+
+Die Vermittlung folgender Bildungsziele des Studiengangs werden mindestens erwartet: Kenntnisse: 2, Kompetenz: 17
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Abhängig vom gewählten Modul</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>f413e114-6835-447d-95b8-6c0c8e4cf29f</id>
+        <titel>Es ist ein Wahlpflichtmodul aus einem technischen Bereich zu wählen. Die Veranstaltung ist durch den Auslandsbeauftragten des Studiengangs vor Antritt des Auslandsaufenthalts genehmigen zu lassen.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>c3b442f1-8b72-4fef-8618-63e4630961cc</modul_id>
+    <modul_abk>APRA</modul_abk>
+    <modul_name>Auslandspraktikum</modul_name>
+    <modul_ziel>Die Studierendenerwerben und fördern ihre „beruflichen Handlungskompetenz“. Hierbei werden besonders die drei Facetten die so genannten Schlüsselkompetenzen wie Methodenkompetenz, Sozialkompetenz und Selbstkompetenz gefördert. Zugleichwird die Fachkompetenz durch Vertiefen von fachlichen Inhalten im Praxisbezug vertieft und ausgebaut. 
+Die Vermittlung folgender Bildungsziele des Studiengangs werden mindestens erwartet: Kompetenzen: 13, 14, 15, 16, 18, Kenntnisse: 1, 2, 3 
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform></modul_lehrform>
+    <modul_lernform></modul_lernform>
+    <modul_pruefungsform>Praktikumsnachweis/-bericht</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>0</modul_umfang>
+    <modul_praesenz>0</modul_praesenz>
+    <modul_selbststudium>0</modul_selbststudium>
+    <modul_credits>24</modul_credits>
+    <modul_haeufigkeit>20 Wochen / einmal jährlich</modul_haeufigkeit>
+    <modul_sprache></modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>cae5b7e3-5d2c-42d2-9564-89736f57d0d9</id>
+        <titel>Im Rahmen dieses Moduls absolvieren die Studierenden ein Praktikum in einem Unternehmen.Die Inhalte der Praxisphase sollen auf den theoretischen Wissensstand der Studierenden aufbauen und diese praxisgerecht ergänzen. Sie machen vertraut mit den Elementen der Arbeitsmethodik, den betrieblichen Organisationsstrukturen und Informationsflüssen, den Bedeutungen von Unternehmenskultur für den Erfolg eines Unternehmens und geben einen vertieften Einblick in die wirtschaftlichen Zusammenhänge.Die Praxisphasewird vorbereitet durch Beratungsgespräche im Zentrum für Praxiskontakte des Fakultät Wirtschaft. Hier werden auch Tipps und Hinweise für die Bewerbung gegeben. Die Studierenden wählen für das Praktikum ein/e Mentor/in, die/der während des Praktikums beratend zur Seite steht und bei Fragen und Problemen - zusammen mit dem Zentrum für Praxiskontakte - helfen kann.Das Praktikum sollte möglichst in einem anderen Land als das Auslandsstudium durchgeführt werden.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>a8ddaee6-b300-4ed0-93ef-0bd5570a87ae</modul_id>
+    <modul_abk>NBA</modul_abk>
+    <modul_name>Nachbereitung Ausland</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer:
+- einen fachlichen Überblick über die wesentlichen Besonderheiten der Expatriate-Erfahrung, der Vor- und Nachbereitung sowie Begleitung von Auslandseinsätzen
+- die Fähigkeiten zur Anwendung ausgewählter Methoden für die Expatriate-Auswahl, Vorbereitung, Begleitung und Reintegration
+- eine weitere Sensibilisierung für die Besonderheiten von Auslandseinsätzen
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 3 Fähigkeiten: 5 Kompetenzen: 12, 14, 16, 17, 18
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Präsentation und Bericht</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>0c5b388f-903c-41c0-a036-deddf169a43b</id>
+        <titel>Expatriate-Erfahrung / Cases (Interkulturelle Fallstudien) / PräsentationenDer Kurs erörtert die wesentlichen Besonderheiten der interkulturellen Auslandserfahrung von Managern während und nach einem Auslandseinsatz und nutzt dabei die persönlichen Erfahrungen der Studenten nach ihrem theoretischen und praktischen Auslandssemester. Dabei sollen anhand von Fallstudien und Erfahrungsberichten systematisch die wesentlichen Felder der Vorbereitung, Begleitung und Nachbereitung von Auslandseinsätzen aus Sicht des Personalmanagements herausgearbeitet werden, ebenso wie der Umgang mit typischen persönlichen Erfahrungen wie „Kulturschock“ und „reentry-shock“. Neben der Vorstellung theoretischer Konzepte zur Analyse interkultureller Erfahrungen und deren Konsequenzen für die persönliche Interaktion und Kommunikation soll der Kurs auch eine Weitergabe dieser Erfahrungen an die nachfolgenden Semester für deren Auslandsvorbereitung ermöglichen, indem diesen Auslandserfahrungen im Rahmen einer Präsentation vorgetragen sowie über einen standardisierten Auslandsbericht zur Verfügung gestellt werden.Die modulbezogene Übung dient der Vermittlung von Wissen im Anwendungsbezug. Übungen und Fallbeispiele sind entsprechend dem Lernfortschritt der Studierenden in die Veranstaltung integriert. Zur Sicherstellung des Kompetenzerwerbs werden die beschriebenen Inhalte desModuls geübt und trainiert. Dies erfolgt über in die hochschuleigene Lernplattform Ilias eingestellte Lerneinheiten sowie die Einrichtung und Betreuung eines Diskussionsforums auf der Lernplattform. Dort werden Fragen und Diskussion der Studierenden verfolgt und dem Lernfortschritt angepasst beantwortet.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>a956103c-bfd6-4ce9-83b6-38a6f2ae8d67</modul_id>
+    <modul_abk>ISP1</modul_abk>
+    <modul_name>Schwerpunkt 1</modul_name>
+    <modul_ziel>Die Qualifikationsziele bestimmen sich nach dem gewählten Modul-Wahl aus den Modulen 7.6, 7.7 oder 7.8
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Die Prüfungsformen bestimmen sich nach dem gewählten Modul -Wahl aus den Modulen 7.6, 7.7 oder 7.8</modul_pruefungsform>
+    <modul_pruefungsdauer>0</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>2456c827-f838-4c2e-98a6-aa79d0b61080</id>
+        <titel>Die Inhalte bestimmen sich nach dem gewählten Modul-Wahl aus den Modulen 7.6, 7.7 oder 7.8 Die modulbezogene Übung dient der Vermittlung von Wissen im Anwendungsbezug. Übungen und Fallbeispiele sind entsprechend dem Lernfortschritt der Studierenden in die Veranstaltung integriert.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>2082b829-e423-460c-99a7-0a55efd90365</modul_id>
+    <modul_abk>ISP2</modul_abk>
+    <modul_name>Schwerpunkt 2</modul_name>
+    <modul_ziel>Die Qualifikationsziele bestimmen sich nach dem gewählten Modul-Wahl aus den Modulen 7.6, 7.7 oder 7.8
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Die Prüfungsformen bestimmen sich nach dem gewählten Modul -Wahl aus den Modulen 7.6, 7.7 oder 7.8</modul_pruefungsform>
+    <modul_pruefungsdauer>0</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>b54468d9-477f-4cdf-8914-620dac6d96c9</id>
+        <titel>Die Inhalte bestimmen sich nach dem gewählten Modul-Wahl aus den Modulen 7.6, 7.7 oder 7.8 Die modulbezogene Übung dient der Vermittlung von Wissen im Anwendungsbezug. Übungen und Fallbeispiele sind entsprechend dem Lernfortschritt der Studierenden in die Veranstaltung integriert.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>09cc0367-c62b-42a9-9edc-cdfcdb2f7e2f</modul_id>
+    <modul_abk>BPRO</modul_abk>
+    <modul_name>Bachelorprojekt</modul_name>
+    <modul_ziel>Die Studierenden sind in der Lage, ihre Abschlussarbeit (Bachelorthesis) vorzubereiten. Insbesondere können sie 
+- ein geeignetes Thema identifizieren und unter Einbeziehung der Erfahrungen aus der praktischen Studienphase abgrenzen,
+- ggf. geeignete Praxiskontakte anbahnen bzw. aktivieren, insbesondere zur Themenabstimmung und zur Organisation der Rahmenbedingungen,
+- die Durchführbarkeit (Datenverfügbarkeit, Ressourcen) überprüfen,
+- sich mit denwissenschaftlichen Forschungsmethoden auseinandersetzen, die für das Thema der Thesis von besonderer Relevanz sind,
+- ein Exposé erarbeiten, das Aufschluss über Problemstellung, Gang der Untersuchung, Grobstruktur, eingesetzte Methoden sowie angestrebte Ergebnisse der Thesis gibt.
+Folgende Bildungsziele des Studiengangs werden vermittelt:
+Kenntnisse: 1 oder 2, 3, 4 Fähigkeiten: 5, 6, 7, 8 Kompetenzen: 12, 16, 20
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Projektbericht (unbenotet)</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>8abfc086-5b8d-4c71-ac4f-4d5423cab565</id>
+        <titel>Das Bachelorprojekt dient der Vertiefung der in den ersten drei Studienjahren gewonnenen Kompetenzen im Umgang mit wissenschaftlichem Arbeiten und der eigenen Erstellung wissenschaftlicher Arbeiten und Präsentationen. Das Modul dient insbesondere als Vorbereitung der Bachelorthesis. Im Rahmen des Bachelorprojekts soll der Prozess der Erarbeitung der konkret geplanten Bachelorthesis (das Thema kann im Zusammenhang mit dem Praktikum stehen, also eine aktuelle Fragestellung aus der betriebswirtschaftlichen Praxis behandeln oder ein frei gewähltes Thema sein) strukturiert und dargestellt werden. In der modulbezogenen Übung werden im angeleiteten Selbststudium die gewonnenen Erkenntnisse vertieft - bspw. anhand von Best-Practice- bzw. misslungenen Beispielen wissenschaftlichen Arbeitens und durch intensiven Austausch über wiss. Recherchemethoden.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>0cafb636-0071-4deb-b8cc-9495d6ae9467</modul_id>
+    <modul_abk>INMI</modul_abk>
+    <modul_name>SP1: Internationales Marketing</modul_name>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer einen fachlichen Überblick über die wesentlichen Besonderheiten des internationalen Industriegütermarketing bzw. Business-to-Business-Marketing (Kenntnisse), die Fähigkeiten zur Anwendung ausgewählter Marketing-Managementmethoden im internationalen Business-to-Business-Kontext sowie vertiefte Kenntnisse des Innovationsmanagements und die Fähigkeit, die Methoden und Verfahren imRahmen von Innovationsprozessen zu beurteilen und anzuwenden sowie entsprechende Transfer-, Problemlösungs- und Handlungskompetenz.
+
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2, 3 Fähigkeiten: 5, 6 Kompetenzen: 12, 14, 16, 17,18
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur oder Portfolio</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>17a71bb2-03c1-4a84-98ea-8e11650bfb9f</id>
+        <titel>International Industrial Marketing: Vermittlung von vertieften Kenntnissen zur Praxis des internationalen Industriegütermarketing durch die Bearbeitung von Fallstudien aus der Praxis, durch Gastvorträge von Industrievertretern sowie Unternehmensbesichtigungen. Durch anwendungsbezogene Fallstudien mit Länder- und Regionenbezug soll die Teamfähigkeit aber auch die Sensibilisierung für internationale Aufgaben im Business-to-Business-Kontext vermittelt werden. Die wesentlichen inhaltlichen Themen sind der industrielle Beschaffungsprozess, das Buying-Center-Konzept, Präparation und Implementierung als erweiterte Mix-instrumente, Verhandlungsführung und interkulturelle Konflikte, Konditionenpolitik und internationale Preisbildung, Führung und Projektsteuerung im internationalen Marketingkontext.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>7740f17d-dc6c-4337-99e0-a0f1af6b9ae2</id>
+        <titel>Innovationsmanagement: Vermittlung von vertieften theoretischen und anwendungsbezogenen Kenntnissen im Bereich Innovationsmanagement und Produktentwicklung im Industriegüterbereich.Es werden dabei auch die sensible Schnittstelle Marketing/F&amp;E sowie die angrenzenden Felder des Marketings und Changemanagement bzw. des Business Process Reengineering angesprochen, ebenso wie die entstehenden Interessen- und Rollenkonflikte im Unternehmen. Die Veranstaltung wird durch die Bearbeitung ausgewählter Fallstudien vertieft. Die wesentlichen Themen sind: Marketing, Forschung und Entwicklung, Innovationsmanagement, Produkt- und Prozessinnovationen, Changemanagement, Business-Process-Reengineering, der betriebliche und gesellschaftliche Innovationsprozess, Innovationswiderstände, Implementierung von Innovationen im eigenen und in Kundenunternehmen, Beispiele aus der Praxis (Maschinenbau, Logistik, Informationstechnologie u.a.).</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>1bb03db1-b7b3-4e48-b664-dcf0709048c3</id>
+        <titel>Die modulbezogene Übung dient der Vermittlung von Wissen im Anwendungsbezug. Übungen und Fallbeispiele sind entsprechend dem Lernfortschritt der Studierenden in die Veranstaltung integriert.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>b0588f74-3fe9-4350-828c-cd5747b097ec</modul_id>
+    <modul_abk>INCI</modul_abk>
+    <modul_name>SP2: Internationales Controlling</modul_name>
+    <modul_ziel>NachAbschluss des Moduls besitzen die Teilnehmer 
+- Kenntnisse der internationalen Rechnungslegungsvorschriften bei Einzel- und Konzernabschlüssen sowie einen Überblick über Methoden der Jahresabschlussanalyse sowie einen fachlichen Überblick über das Zusammenwirken der wesentlichen unternehmerischen Funktionen
+- Fähigkeiten zur Anwendung ausgewählter Ziel-, Strategiefindungs- und Analysemethoden im internationalen Kontext
+- die Fähigkeit, Pläne zu formulieren, in Planwerten zu konkretisieren und laufend die Einhaltung der Pläne zu überprüfen sowie PC und Planungssoftware als Arbeitsinstrument bzw. Entscheidungshilfe zu nutzen
+- die Fähigkeit, wesentliche Bausteine des Unternehmensreporting beschreiben, nutzen und analysieren zu können.
+- Handlungs- und Problemlösungskompetenz im Bereich der internationalen Jahresabschlussanalyse und darauf aufbauender Planerstellung.
+Folgende Bildungsziele des Studiengangs werden vermittelt: Kenntnisse: 2, 3 Fähigkeiten: 5, 6 Kompetenzen: 12, 14, 16, 17, 18
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Schriftlich ausgearbeitetes Referat oder Portfolio</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>07d3a788-cc09-4379-a080-da0f18cc7c4e</id>
+        <titel>Anhand des Annual Report eines internationalen Konzerns werden die wesentlichen Aspekte der internationalen externen Rechnungslegung vermittelt: Elemente des Jahresabschlusses von großen Kapitalgesellschaften, Rechtsgrundlagen, besondere Bilanzpositionen- und erläuterungen, Konzernbilanzen, ausgewählte Unterschiede der Berichterstattung nach HGB und IFRS sowie wesentliche Aspekte einer Jahresabschlussanalyse kennzeichnen den ersten Teil der Veranstaltung.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>7d081ce9-a758-4624-a66b-1288bad75f1d</id>
+        <titel>Mit dem Schwerpunkt auf Planning and Reporting werden im zweiten Teil die betrieblichen Zusammenhänge zwischen Marketing, Produktion, Personal- und Finanzwirtschaft und ihre Auswirkungen auf das betriebliche Rechnungswesen in einem Unternehmensplanspiel erarbeitet. Die Studierenden lernen, Unternehmensstärken- und schwächen zu erkennen (SWOT-Analyse) und daraus Unternehmenspolitik- und planung abzuleiten sowie die mündliche und schriftliche Berichterstattung dazu (Reporting) zu liefern.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>4dc0aadc-c424-4a7c-8bf7-a261b6980ee8</modul_id>
+    <modul_abk>LOM</modul_abk>
+    <modul_name>SP3: Logistics / Operations Management</modul_name>
+    <modul_ziel>Die Studierenden sollen nach Abschluss des Moduls über folgende Kompetenzen verfügen:
+- Fachkompetenz: Logistische Zusammenhänge unter Berücksichtigung der Querschnittsfunktion der Logistik analysieren zu können (Erkennen von Problemstrukturen, Identifizieren von Handlungsalternativen)
+- Methodenkompetenz: Geeignete Planungsverfahren für ausgewählte operative und strategische Logistikprobleme auswählen bzw. übertragen und anwenden können
+- Sozialkompetenz: Notwendigkeit von Kommunikation und Kooperation in Supply Chains beurteilen können
+Die Erreichung der folgenden ISWI-Bildungsziele wird besonders unterstützt: 2, 3, 5, 6, 7, 9, 10, 13, 15, 16, 17, 20
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur oder mündliche Prüfung</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>fd1c0682-3090-40c7-9743-18c40faa886a</id>
+        <titel>Einführung, Design von Logistiknetzwerken, Logistikdienstleister, Outsourcing, Grundlagen der linearen und gemischt-ganzzahligen Optimierung, Softwareworkshop zur mathematischen Optimierung in der Logistik, Transportplanung, Tourenplanung, Standortpla-nung, Supply Chain Management (einschließlich Produktions-Distributions-Simulationsspiel), Business Analytics</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>

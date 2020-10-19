@@ -3104,8 +3104,8 @@
   </modul_typ>
   <modul_typ>
     <id>c05b2d13-4da5-44de-9d08-375bc4f04d88</id>
-    <modul_id>4eced5d0-65ad-4775-9864-a6ed8a6e89ba</modul_id>
-    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <modul_id>a728fd19-67dd-4e0d-9b2c-fbb2d93ef8b3</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
@@ -3515,5 +3515,125 @@
     <modul_id>68014de1-43d6-4bab-aff1-8e18614bb7a6</modul_id>
     <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
     <sws>2</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>f87c34b8-aa20-4592-a91e-1b4317a754e4</id>
+    <modul_id>de45c725-fc02-4d50-8def-d59ad8c6a79f</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>694bec1b-3eeb-4639-9c95-e43c2002d882</id>
+    <modul_id>dbb846b5-dfd8-473c-9805-0be02afa11a3</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>68ccd22f-fb3b-424a-92a0-c88793918a0e</id>
+    <modul_id>d87485df-13f7-44dd-8601-fd5d350389a5</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>1e5a3648-6665-4d55-b85e-790dcbfced73</id>
+    <modul_id>267ce2de-70af-48fa-88c4-880a69f3b7ac</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>5df528a5-a5c0-4d14-9072-a66fd84b606a</id>
+    <modul_id>12677165-24bd-462a-944f-beca64ab44f6</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>b9fd3512-96bb-4f7e-b7a3-c45937bce51b</id>
+    <modul_id>bc6b0c3f-dbec-4bda-8a5b-4952fb082449</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>30fdeb7d-e6ca-42f8-a624-da23a06820d7</id>
+    <modul_id>2623f3e9-3121-4d31-a3f1-a407941b7b83</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>1880c403-8686-48f8-846c-a847bec97ba1</id>
+    <modul_id>e1fec871-2863-4ea5-bb24-4e8419d46306</modul_id>
+    <typ_id>9caf3e98-97d5-4b49-b49c-9e76622569a9</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>ef0c9c00-b84d-413f-9004-e1d486608bb0</id>
+    <modul_id>01e44243-981d-4eec-837e-394299052d6a</modul_id>
+    <typ_id>9caf3e98-97d5-4b49-b49c-9e76622569a9</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>5fcca90d-92c8-45bc-97a9-22a8ed122801</id>
+    <modul_id>8237199d-eea2-42b3-83f5-421898d543e6</modul_id>
+    <typ_id>9caf3e98-97d5-4b49-b49c-9e76622569a9</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>d0075d27-d7e3-49d2-8613-3f590107b001</id>
+    <modul_id>05de16a8-58f3-4e5f-a0c6-40ae2ceabd17</modul_id>
+    <typ_id>9caf3e98-97d5-4b49-b49c-9e76622569a9</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>17661f60-4023-4c47-85a8-2bd7a2cfc354</id>
+    <modul_id>c3b442f1-8b72-4fef-8618-63e4630961cc</modul_id>
+    <typ_id>d9066321-dbda-4bf3-b8f0-945060774e10</typ_id>
+    <sws></sws>
+  </modul_typ>
+  <modul_typ>
+    <id>e5522cbc-36e3-449b-9559-c16218bf2c2c</id>
+    <modul_id>a8ddaee6-b300-4ed0-93ef-0bd5570a87ae</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>00ee110b-2015-488c-9576-397597df7a23</id>
+    <modul_id>a956103c-bfd6-4ce9-83b6-38a6f2ae8d67</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>312264b9-6753-4749-bd9a-f68a15ca34e1</id>
+    <modul_id>2082b829-e423-460c-99a7-0a55efd90365</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>fb743f88-71db-4b42-a2a3-a5586efb222f</id>
+    <modul_id>0cafb636-0071-4deb-b8cc-9495d6ae9467</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>d9455dc4-f8bd-4900-8e88-25e7cfcfeacd</id>
+    <modul_id>09cc0367-c62b-42a9-9edc-cdfcdb2f7e2f</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>530d255b-0e7c-4589-995e-89b31b0f5b97</id>
+    <modul_id>b0588f74-3fe9-4350-828c-cd5747b097ec</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>b065233e-202b-49a3-9762-460bfbd01d01</id>
+    <modul_id>4eced5d0-65ad-4775-9864-a6ed8a6e89ba</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>122a5353-71de-4836-8137-fdbb564c176a</id>
+    <modul_id>4dc0aadc-c424-4a7c-8bf7-a261b6980ee8</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
   </modul_typ>
 </dataroot>

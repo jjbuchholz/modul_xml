@@ -15655,7 +15655,7 @@
     <modul_lehrform>Seminaristischer Unterricht (SU) und Labor (L), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Rechnerprogramm</modul_pruefungsform>
-    <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>In allen technisch orientierten Studiengängen</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -15669,156 +15669,157 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>06047f61-7ea6-4e17-8c79-efdea64d2caf</id>
+        <id>be8acb54-fdc8-439a-a733-bd97dea9de47</id>
         <titel>Die oben aufgeführten Kompetenzen werden durch einen seminaristischen Unterricht vorbereitet und dann in Form von angeleiteten Übungsaufgaben auch mit Laborbeispielen im betreuten Selbststudium, durch Hausaufgaben und durch eigenständige Literaturstudien ausgebaut. Hierzu werden jeweils Literaturempfehlungen ausgegeben. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifische Kompetenzschwerpunkte gesetzt:</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>49513fce-982c-4fd1-a3b0-c35461d39868</id>
+        <id>fdc6829d-f1c9-461f-a272-3f79679a096a</id>
         <titel>Einführung und Geschichte der EDV</titel>
         <titel_eng>Introduction and history of electronic data processing</titel_eng>
       </kapitel>
       <kapitel>
-        <id>87d73694-63f5-49a6-9d38-c600323c9cf1</id>
+        <id>c793d4bf-953c-4c8e-b81c-8e9349e45cad</id>
         <titel>Mathematische und technische Grundlagen</titel>
         <titel_eng>Mathematic and technical principles</titel_eng>
         <unterkapitel>
-          <id>3c7d6417-f141-41c8-93a7-e5635497b04a</id>
+          <id>ff120b61-8230-4532-a6a4-ce1e40906815</id>
           <titel>Logik</titel>
           <titel_eng>Logic</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>61e0629a-8472-4ed8-a376-86bca0d359d6</id>
+          <id>ad9e9031-66d7-459b-ab87-cd9310c981b5</id>
           <titel>Informationsspeicherung und elektronische Grundlagen</titel>
           <titel_eng>Information storage and electronic fundamentals</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>80bc30e8-df98-4641-8b8c-1266a71dd912</id>
+          <id>81965913-dc56-4c49-be6a-b4e0ac0d607f</id>
           <titel>Algorithmen</titel>
           <titel_eng>Algorithms</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>cfeabd61-7ae4-45b8-8179-c2b9550af64f</id>
+        <id>9d645b00-c10d-4e22-b984-9425b409859d</id>
         <titel>Hardware</titel>
         <titel_eng>hardware</titel_eng>
         <unterkapitel>
-          <id>4032f704-6e5a-4b05-9ce3-0d4a214e3d50</id>
+          <id>74a08635-f26b-4b82-90dd-11cf89820226</id>
           <titel>Zentraleinheit (CPU)</titel>
           <titel_eng>Central processing unit (CPU)</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f6872809-c8f9-4179-9e40-0fd91007a972</id>
+          <id>61fcf551-b121-42c0-9095-0404a2ac06e7</id>
           <titel>Peripherie</titel>
           <titel_eng>Peripherals</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>cfc66310-e5ab-45df-90a5-cf13151bf590</id>
+        <id>8f61618f-f7e6-4dcf-ac73-8324f488fde2</id>
         <titel>Betriebssysteme</titel>
         <titel_eng>Operating systems</titel_eng>
         <unterkapitel>
-          <id>311896e5-bcf2-495c-be52-93dbef4ba021</id>
+          <id>baf2574c-268e-44ad-a547-d6e33f6fd7c8</id>
           <titel>Aufgaben und Konzepte</titel>
           <titel_eng>Tasks and concepts</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c0227c03-3cae-4e2a-a156-3612e570ae24</id>
+          <id>ccf51b27-5fb6-4530-98f1-bc382cdf45a2</id>
           <titel>Linux</titel>
           <titel_eng>Linux</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>699d8708-5fe9-4076-b7ce-c61b22ba1b85</id>
+          <id>403f0b8e-03a3-4d00-ab58-795ddd4f90ff</id>
           <titel>Mac OS</titel>
           <titel_eng>Mac OS</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>4f7cf42c-0c75-4518-8d14-6a49b9bdfe1b</id>
+          <id>fe463570-a997-465c-8d11-ab774d3ff3ac</id>
           <titel>Windows</titel>
           <titel_eng>Windows</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>7b653cce-2a63-4f56-94f9-f503c865f963</id>
+        <id>9d8fc228-708c-4c37-bd36-e6508cd7a792</id>
         <titel>Programmiersprachen</titel>
         <titel_eng>Programming Languages</titel_eng>
         <unterkapitel>
-          <id>f9b12455-db5f-4f92-923c-ce1c0246845c</id>
+          <id>e5809d1a-5d21-4517-8b0f-99e01fb7d8f0</id>
           <titel>Basic</titel>
           <titel_eng>Basic</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f997bb90-b045-4f85-88ae-0665843a346e</id>
+          <id>6d2afef5-e1b2-4e9f-951a-a409abde30eb</id>
           <titel>C</titel>
           <titel_eng>C</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8120361e-83e1-4cb5-94b9-36136ade6982</id>
+          <id>6f0a27cd-b9b6-43c8-bf58-60de7b128053</id>
           <titel>Java, Perl und PHP</titel>
           <titel_eng>Java, Perl and PHP</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c21d5fd9-574a-418c-a0c5-b128df0c6697</id>
+          <id>9da856eb-f2c4-4454-b5b4-3852e5a6457c</id>
           <titel>Microsoft .NET Sprachfamilie</titel>
           <titel_eng>Microsoft .NET language family</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>520d3f84-f1a5-4f0d-b771-66c57010a0e9</id>
+        <id>eb2d2f67-7661-4dc3-88d6-a43c637a63b2</id>
         <titel>Konzepte der Programmierung</titel>
         <titel_eng>Concepts of programming</titel_eng>
         <unterkapitel>
-          <id>109a904b-6c00-4880-a4d5-e082c6681457</id>
+          <id>2e4f843f-13ea-4bcb-a982-a6be821b3b63</id>
           <titel>Algorithmen und Datenstrukturen</titel>
           <titel_eng>Algorithms and data structures</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>3c3914d4-7ca5-4b4a-aec6-0878a88cd4e4</id>
+          <id>f05aecbd-e61a-4be0-a3c3-9691b04e4eca</id>
           <titel>Reguläre Ausdrücke</titel>
           <titel_eng>Regular expressions</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>7b178ca4-2450-4043-9a93-555fe7280f92</id>
+          <id>73cc42de-1cdb-486b-bcac-17a3f47bfaac</id>
           <titel>Grafikprogrammierung</titel>
           <titel_eng>Graphics programming</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>6063128d-2256-48dd-8682-a21a885460fd</id>
+        <id>56e41a00-ccc4-4a16-8f4f-eefe62b22625</id>
         <titel>Netzwerke</titel>
         <titel_eng>Networks</titel_eng>
         <unterkapitel>
-          <id>9d6fba60-6b68-42ea-a8a6-4933a67bf284</id>
+          <id>386aeded-d137-4a46-9571-f06b97d34b15</id>
           <titel>Funktionsebenen und Klassifizierung</titel>
           <titel_eng>Function levels and classification</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c8532a4a-9541-4d22-94d7-e54629c2f1ab</id>
+          <id>bf921f6b-e33e-4c00-a09c-af202c853dd5</id>
           <titel>Protokolle</titel>
           <titel_eng>Protocols</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>bea2f948-6102-4cab-a90b-1568de400ef3</id>
+          <id>63ebd6b2-fc8e-4bb2-b3f8-fea060b659fa</id>
           <titel>Internet</titel>
           <titel_eng>Internet</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>0bdb8108-e3e3-44b9-86e5-535ea3480b8e</id>
+        <id>4d89eb16-3dfd-4a05-86b5-94007eae4e2d</id>
         <titel>Übungen</titel>
         <titel_eng>Exercises</titel_eng>
         <unterkapitel>
-          <id>2c967bfb-78e3-4040-a31f-daf41648367e</id>
+          <id>b6b5b81e-1275-4a10-8375-9ad02012a9a6</id>
           <titel>Mein erstes Programm: Daten Einlesen, Verarbeiten, Ausgeben</titel>
           <titel_eng>My first program: data input, processing, output</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>2c5ac486-e5d8-4ca0-910d-7ea1201eafd9</id>
+          <id>a7c54ab5-25f5-4c78-8b48-27a75a5c23e5</id>
           <titel>Beispielprogramm aus den Bereichen Mathematik und Mechanik</titel>
           <titel_eng>Example program of the mathematics and mechanics field</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>06b43062-17a2-4cf3-92ca-7c8b7f835afb</id>
+        <id>83e77c11-3040-483e-8b93-192b70f33a5a</id>
         <titel>Beispielprogramm der WEB-Application</titel>
         <titel_eng>Example program of WEB application</titel_eng>
       </kapitel>
@@ -15918,7 +15919,7 @@
     <modul_ziel_eng>Ability to understand the basic physical laws of static electric and magnetic fields, as well as time varying electromagnetic fields and to solve electro technology problems. Participants can calculate and dimension DC electricity networks and magnetic circuits. You understand AC circuits, AC systems and the functioning of electronic components such as switches and amplifiers.</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Laborübung (L), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Klausur und Studienleistung (Laborteilnahme)</modul_pruefungsform>
+    <modul_pruefungsform>Klausur und Studienleistung (Labortestat)</modul_pruefungsform>
     <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>In allen technisch orientierten Studiengängen</modul_verwendbarkeit>
@@ -15933,36 +15934,37 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>3ed6cd44-64d7-4018-b9ad-d8a4b010d703</id>
+        <id>6a263cda-030a-4a97-a2fb-afcc044f4050</id>
         <titel>Die oben aufgeführten Kompetenzen werden durch einen seminaristischen Unterricht vorbereitet und dann in Form von angeleiteten Übungsaufgaben auch mit Laborbeispielen im betreuten Selbststudium, durch Hausaufgaben und durch eigenständige Literaturstudien ausgebaut. Hierzu werden jeweils Literaturempfehlungen ausgegeben. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifische Kompetenzschwerpunkte gesetzt:</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>14f72ad3-5b89-4824-84a4-19433a1ba7bb</id>
+        <id>a0b7bbcd-95bb-460e-b2fd-6332d4fc86fc</id>
         <titel>Grundbegriffe und elektrisches Gleichfeld</titel>
         <titel_eng>Basic concepts and DC electric field</titel_eng>
       </kapitel>
       <kapitel>
-        <id>da59ed30-75e3-4a6a-a146-34f4a7c73b32</id>
+        <id>ac80ad14-f7f6-4822-b917-2fb4be1972b7</id>
         <titel>Gleichgrößen und Gesetze im linearen Gleichstromkreis</titel>
         <titel_eng>Units and laws in the linear DC circuit</titel_eng>
       </kapitel>
       <kapitel>
-        <id>88ea4e25-b766-4025-ba33-c405ab4d5ce9</id>
+        <id>5286efc4-0bd7-4fa1-9443-f5b682ac4000</id>
         <titel>Magnetisches Feld und magnetischer Kreis</titel>
         <titel_eng>Magnetic field and magnetic circuit</titel_eng>
       </kapitel>
       <kapitel>
-        <id>95d14fd1-5055-4ba7-b790-e501c99b0445</id>
+        <id>2de7d6e2-4b6b-4e98-b1a1-d0cfc5f77628</id>
         <titel>Sinuswechselgrößen und einfache Wechselstromkreise</titel>
         <titel_eng>Sinus change sizes and simple AC circuits</titel_eng>
       </kapitel>
       <kapitel>
-        <id>d2ade246-8688-4939-9045-a01d992d0c51</id>
+        <id>42f4f7a1-7515-4d4e-a724-65b0fb4d3741</id>
         <titel>Drehstromtechnik</titel>
         <titel_eng>Three-phase technology</titel_eng>
       </kapitel>
       <kapitel>
-        <id>e10eb6f3-dd1d-48cd-9a02-e78d1e08bc85</id>
+        <id>1130108c-3ee6-428c-9d0e-a8230e4f69b0</id>
         <titel>Elektronische Bauelemente und Grundschaltungen</titel>
         <titel_eng>Electronic components and basic circuits</titel_eng>
       </kapitel>
@@ -15977,7 +15979,7 @@
     <modul_ziel_eng>The module enables participants to assess production and manufacturing procedures in terms of technological and economic importance. Students shall apply in practical the in the seminars acquired knowledge on material testing and manufacturing based on the examination of the characteristics of a real component, to develop views on these subjects, to identify connections between technical fields and to deepen their knowledge with the results evaluations. The practical work enables them to become more competent in process evaluation, shall they experience the influencing factors and testing possibilities themselves.</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU) und Labor (L), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Klausur und Studienleistung (Laborteilnahme)</modul_pruefungsform>
+    <modul_pruefungsform>Klausur und Studienleistung (Labortestat)</modul_pruefungsform>
     <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Das Modul ist als Pflichtmodul bzw. als Wahlpflichtmodul für alle ingenieurswissenschaftlichen Studiengänge im Bereich des Maschinenbaus und der Elektrotechnik geeignet.</modul_verwendbarkeit>
@@ -15992,290 +15994,291 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>21cc648a-efb6-410c-a1ac-79b0fafdb2ab</id>
+        <id>7c979624-cdee-4ca2-81a4-27ef576ae1d9</id>
         <titel>Die oben aufgeführten Kompetenzen werden durch einen seminaristischen Unterricht vorbereitet und dann in Form von angeleiteten Übungsaufgaben auch mit Laborbeispielen im betreuten Selbststudium, durch Hausaufgaben und durch eigenständige Literaturstudien ausgebaut. Hierzu werden jeweils Literaturempfehlungen ausgegeben. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifische Kompetenzschwerpunkte gesetzt:</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>9b17e02e-03eb-4c42-aa99-f925a615987f</id>
+        <id>6718f8b8-55c7-4292-bfde-260b58e131b7</id>
         <titel>Grundlagen</titel>
         <titel_eng>Basis</titel_eng>
         <unterkapitel>
-          <id>e6971aff-20da-489d-b741-c1c9eedd8980</id>
+          <id>6bdf8df8-cf93-48ca-8db8-f515a726fae5</id>
           <titel>Bedeutung und Aufgaben der Fertigungstechnik im ProduktionsProzess</titel>
           <titel_eng>Importance and functions of the manufacturing technology in production</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>ae42c959-4231-4d09-99c1-17df26a425eb</id>
+          <id>689bfcb3-9f11-4057-bd20-7ed34ea08281</id>
           <titel>Produktionstheoretische Grundlagen, Bereitstellungsplanung, auf- und ablauforganisatorische Probleme der Produktion</titel>
           <titel_eng>Theoretical foundations of production, supply planning, organizational and process problems in production</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>33780f35-f6cd-4fb9-ba07-8fc4b88abc50</id>
+          <id>833408ba-0e50-4278-a1d2-b0a92900dac6</id>
           <titel>Einteilung der Fertigungstechnik</titel>
           <titel_eng>Classification of Manufacturing Technology</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>98de632f-6ea7-4c28-8c3b-911fb2972dbf</id>
+          <id>b9aadde0-bafd-4e99-9d2b-341a9e5cbc7b</id>
           <titel>Toleranzen, Passsysteme, technische Oberflächen</titel>
           <titel_eng>Tolerances, passport systems, technical surfaces</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>76a46171-82af-400a-83f9-80687d3af3f1</id>
+          <id>8fb2af65-c008-48f8-8a18-21187db8d5cc</id>
           <titel>Werkstoffe</titel>
           <titel_eng>Materials</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>93185e93-f8b3-4900-9bd2-9b8503826a1a</id>
+        <id>c1ca4955-941d-4e9f-ab61-00305d6ff096</id>
         <titel>Urformen</titel>
         <titel_eng>Archetype</titel_eng>
         <unterkapitel>
-          <id>abb4be07-6cca-47ec-a2f9-2f6192a8a296</id>
+          <id>587aaa0f-3bc5-47d2-9ce2-93519ee27093</id>
           <titel>Urformen aus dem flüssigen Zustand</titel>
           <titel_eng>Original form from the liquid state</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9bc6124b-ae5c-4381-8a4c-ab4d9710be60</id>
+          <id>0b9cec57-b7dd-4ee3-aa2f-87ce0ae119da</id>
           <titel>Urformen aus dem ionisierten Zustand</titel>
           <titel_eng>Prototype from the ionized state</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>29b01016-f2b0-4b63-9b1f-ac367909966d</id>
+          <id>2506d0d9-158c-42d2-b810-6c1c32ff2307</id>
           <titel>Urformen aus dem festen Zustand</titel>
           <titel_eng>Original form from the solid state</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>397cd218-974e-4280-9bec-d7d283949bbf</id>
+        <id>48c9088b-3733-4652-8b1c-2d81948e247d</id>
         <titel>Umformen</titel>
         <titel_eng>Forming</titel_eng>
         <unterkapitel>
-          <id>b44d43f4-328c-405e-bd75-57bc9e5ae5d2</id>
+          <id>73d11298-2d22-4508-b076-ac8cbfb59687</id>
           <titel>Druckumformen</titel>
           <titel_eng>Pressure forming</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>7ff83b05-fb4f-49b4-873d-2d664a3ad370</id>
+          <id>88a4326d-a1ec-4174-abab-e0742b934766</id>
           <titel>Zugumformen</titel>
           <titel_eng>Stretch forming</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>04c28297-f62d-4cb1-a64c-4ff9edcd62a4</id>
+          <id>40f96426-d6fc-40ba-9e15-59232cafe417</id>
           <titel>Zugdruckumformen</titel>
           <titel_eng>Pressure stretch forming</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>30fa1353-cb05-4f74-939e-d1ffa3c87e93</id>
+        <id>f9d1fb0c-2b65-40a0-88f0-92ca14805b1e</id>
         <titel>Trennen</titel>
         <titel_eng>Disconnect</titel_eng>
         <unterkapitel>
-          <id>e0247124-d1d3-458f-b847-02f6ecce94d9</id>
+          <id>76f47d4f-8868-4fa9-8cb6-9334b1c72f7f</id>
           <titel>Zerteilen</titel>
           <titel_eng>Cutting</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>262c87ba-99f1-49f2-be94-684f7f4fdc52</id>
+          <id>6842bf6c-cad5-466d-8ad3-14626046a01e</id>
           <titel>Spanen mit geometrisch bestimmten Schneiden</titel>
           <titel_eng>Machining with geometrically specific cutting</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b5383b42-ab0f-4b06-8d56-850923b3dc08</id>
+          <id>7d63e443-6db4-4389-8528-648b5804319c</id>
           <titel>Spanen mit geometrisch unbestimmten Schneiden</titel>
           <titel_eng>Machining with geometrically undefined cutting</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b4cdf615-e7eb-49a2-90e0-2a637e25da7a</id>
+          <id>13683798-cdf2-4cc1-bf56-8562d0a8feaa</id>
           <titel>Abtragen</titel>
           <titel_eng>Removing</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>68686ab9-7065-4944-9ea2-61ed524219f0</id>
+        <id>5e5011fd-46a7-4887-b272-2474297b0bf3</id>
         <titel>Fügen</titel>
         <titel_eng>Joining</titel_eng>
         <unterkapitel>
-          <id>9061534e-ad7e-4f12-a327-0e26dccc8007</id>
+          <id>e89ee9d2-957f-4011-aac2-a93b99e70489</id>
           <titel>Fügen durch Schweißen</titel>
           <titel_eng>Joining by welding</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>029117eb-b4ea-4846-a1e0-43b0df449e61</id>
+          <id>3e0ed79d-143c-41ce-be46-4410cf2c6487</id>
           <titel>Schmelzschweißverfahren</titel>
           <titel_eng>Fusion welding processes</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>94ba4cfe-38ba-405b-9389-73e3c857b2c8</id>
+          <id>36806075-1031-4a17-9b3c-092a76694b1c</id>
           <titel>Pressschweißverfahren</titel>
           <titel_eng>Press welding procedures</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8a5f0469-e1a4-47e4-9dd4-ef0ce436a8c3</id>
+          <id>b00526f4-0c03-4b3b-ac32-f4753c86e149</id>
           <titel>Fügen durch Löten</titel>
           <titel_eng>Joining by soldering</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>55b19c61-45d0-4284-bd11-9c92e87a855f</id>
+          <id>0f18771a-6ce4-416e-870a-36379763f3bc</id>
           <titel>Fügen durch Kleben</titel>
           <titel_eng>Joining by adhesive bonding</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>695adec9-e648-433b-b166-bcd4d0a19a07</id>
+          <id>a58dba78-ba6f-41f4-80c6-ab580ab36a9d</id>
           <titel>Fügen durch Umformen</titel>
           <titel_eng>Joining by forming</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>b94d633f-5dc6-4cc1-96fe-eeed1edf95db</id>
+        <id>ac58e330-712f-4109-8f22-a79cc4123b5f</id>
         <titel>Beschichten</titel>
         <titel_eng>Coating</titel_eng>
         <unterkapitel>
-          <id>30083c78-550e-45c7-87cd-5ef6e459e583</id>
+          <id>d0ff8b34-153b-449a-a5ee-e9f4afc16673</id>
           <titel>Beschichten aus dem flüssigen Zustand</titel>
           <titel_eng>Coating from the liquid state</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b3e01914-e285-459e-9a76-fa87c7f3cbad</id>
+          <id>becbed68-cf04-48a3-b2c9-d13705872ca3</id>
           <titel>Beschichten aus dem festen Zustand</titel>
           <titel_eng>Coating from the solid state</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6bdde157-ec5b-4f9d-b56e-4614db7d37e4</id>
+          <id>ea9da4d1-8e28-4cbb-9533-b005b51975ff</id>
           <titel>Beschichten aus dem gas- und dampfförmigen Zustand</titel>
           <titel_eng>Coating from the gas and vapour state</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>12c1143e-fe54-4fec-a26b-3b94ef727ba4</id>
+          <id>43c0c5bc-3366-4b7b-afdc-c94bb9e4ce25</id>
           <titel>Beschichten aus dem ionisierten Zustand</titel>
           <titel_eng>Coating from the ionized state</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>2f3b5e5f-501d-4189-90e9-abd2c0054645</id>
+        <id>b1478bb2-bae0-427a-8855-1ed6f101365d</id>
         <titel>Kunststoffverarbeitung</titel>
         <titel_eng>Plastics</titel_eng>
         <unterkapitel>
-          <id>b7070727-f8b8-4b37-b867-44d9e13ffeef</id>
+          <id>56076b47-370b-4335-8f29-75f72027842f</id>
           <titel>Urformen</titel>
           <titel_eng>Archetypes</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f366d36f-2b79-4b40-8a62-6c86cdab27e4</id>
+          <id>8456c19a-6762-4be3-af67-b5fafc4f1021</id>
           <titel>Umformen und Fügen</titel>
           <titel_eng>Forming and joining</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>45983415-b388-431c-8558-8c3cdf2a2d76</id>
+        <id>0f2e787e-68a5-4d12-949d-c63ebb937e07</id>
         <titel>Auswahl von Fertigungsverfahren</titel>
         <titel_eng>Selection of manufacturing processes</titel_eng>
         <unterkapitel>
-          <id>3b3fcc41-97b9-4214-baae-c44f73841b30</id>
+          <id>5a78f181-29b3-448a-9538-1f0e7b284785</id>
           <titel>Technologischen Vergleich</titel>
           <titel_eng>Technological comparison</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9aa75c8b-888c-4c2f-9345-bcd1a936bd0d</id>
+          <id>732b0b9d-c4c3-443d-8873-14a25193e403</id>
           <titel>Kalkulatorischer Vergleich</titel>
           <titel_eng>Calculation comparison</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d65f09e5-f1f6-4968-b318-22d057097e36</id>
+          <id>77db71a7-e838-4366-919d-915169874edf</id>
           <titel>Nutzwertanalyse</titel>
           <titel_eng>Utility analysis</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>d315dccd-b734-4361-80fe-692bceaf7a81</id>
+        <id>6b18f01c-6a68-4ab6-9bd6-49bbbbe8bcf7</id>
         <titel>Einsatz von Fertigungsverfahren</titel>
         <titel_eng>Use of manufacturing processes</titel_eng>
         <unterkapitel>
-          <id>d3b03525-34a5-4057-bb83-75adbb18ecc1</id>
+          <id>cf1f9c6a-8440-4578-b823-94931b7c9eb4</id>
           <titel>Automobilindustrie</titel>
           <titel_eng>Automobile industry</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>bb36b0bc-78b2-4222-81a6-47e7a74ed2b9</id>
+          <id>be813daa-2e05-4199-b4e4-772d4842b67b</id>
           <titel>Luft- und Raumfahrtindustrie</titel>
           <titel_eng>Air and space travel industry</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>aa35ad7b-d918-486d-98ff-e82ff70198e9</id>
+        <id>97969420-2061-4192-8106-a0e7986e83b0</id>
         <titel>Die Studenten vertiefen ihre Kenntnisse in Praktika (jeweils 2SWS)</titel>
         <titel_eng>The students deepen their knowledge in practical training (each 2SWS) General Introduction to the labs, lab order and task (each 2SWS)</titel_eng>
         <unterkapitel>
-          <id>85884aa2-1a42-4ac8-b057-97bf498be6cc</id>
+          <id>6516d68a-ad22-4e7f-b2a4-7e0bc7090828</id>
           <titel>Allgemeine Einführung in die Labore, Laborordnung und die Aufgabe</titel>
           <titel_eng>General Introduction to the labs, lab order and task</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b9ffd37c-d4e4-4ddc-90b6-93b3cf1b751d</id>
+          <id>722699f2-38f0-45c4-a77c-c327796ef217</id>
           <titel>Praktische Schliffherstellung, Lichtmikroskopie und Gefügeanalyse</titel>
           <titel_eng>Practical touches manufacture, light microscopy and microstructure analysis</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>a553b74c-fa68-4ec5-840d-9528c9684cd3</id>
+          <id>1a6da833-316b-4929-ac57-8712829da68d</id>
           <titel>Praktischer Vergleich von Härtemessverfahren</titel>
           <titel_eng>Practical Comparison of hardness measurement techniques</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d92605c7-6892-4ab0-ab45-fa3417a09219</id>
+          <id>dc95decc-d7f3-4dbc-ac8f-251827273290</id>
           <titel>Erstellung von Schraubenverspannungsdiagrammen von gleichen Schrauben unterschiedlicher Herstellungsverfahren (Spanen, Drücken..)</titel>
           <titel_eng>Creating tension screws charts of the same screws of different manufacturing processes (machining, pressing ..)</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>66058c07-5792-4c3c-9b6f-81d170611879</id>
+          <id>e557c2e2-0fd9-43f8-b927-90033c4b6e20</id>
           <titel>Festigkeitsprüfung dieser Schrauben auf dem Rüttelstand</titel>
           <titel_eng>Strength tests of these screws on the Jolts</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6e7d6ef8-358f-4bb8-ac51-a4a36fb855fa</id>
+          <id>1f7c2bfa-6a23-45ad-85e2-57a7dcf0fcd1</id>
           <titel>Variierte Wärmebehandlung der Schrauben und Gefügekontrolle</titel>
           <titel_eng>Variation of heat treatment and microstructure control bolts</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>0b3dcf08-66c8-47d6-9860-7040651eab04</id>
+          <id>4e459813-bdd9-4096-90b0-9ebd00f40800</id>
           <titel>Härtekontrolle und Zugversuch an diesen Schrauben, Einfluss der Kerbwirkung auf den Zugversuch</titel>
           <titel_eng>Tensile test and hardness control in these screws, the influence on the notch tensile test</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c586a529-0356-41c3-970f-1fe35cb27c56</id>
+          <id>7821bcf5-693c-49cf-81e6-496b2ec6cceb</id>
           <titel>Ermittlung der Verspannungsdiagramme der wärmebeh. Schrauben</titel>
           <titel_eng>Determination of the tension diagrams of temperature influenced screws</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>0172fb72-b73c-4ad4-99bd-2e2b18cf5770</id>
+          <id>a4ee080e-6b26-4d0f-a0ea-75f7ca980d28</id>
           <titel>Ermittlung von deren Festigkeit auf dem Rüttelstand</titel>
           <titel_eng>Determination of their strength on the Jolts</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>7f52ca09-5e2c-45ff-9ea3-a4e67f78add9</id>
+          <id>2409199c-c4e2-42c3-86c9-711318ca15ba</id>
           <titel>Spektralanalyse der Schraubenwerkstoffe und Diskussion der insgesamt ermittelten Ergebnisse</titel>
           <titel_eng>Spectral analysis of materials and bolts discussion of the overall results obtained</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8dc308ad-f95a-48ee-a4a1-32fe363d1f29</id>
+          <id>1e1462da-65e1-4e83-80c0-9578e212d536</id>
           <titel>Demoversuche Lichtbogenschweißen, Blaswirkung, Polung</titel>
           <titel_eng>Demo attempts arc welding, Arc Deformation, polarity</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>62aab0ec-8950-4ef8-8594-3dcb7723450f</id>
+          <id>0133558a-e4b9-40c9-8299-6b98dd344e0f</id>
           <titel>Demoversuche Schutzgasschweißen, Variation der Gase</titel>
           <titel_eng>Demo shielded experiments, variation of the gases</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e602b6ce-b25c-499e-a611-610812d2ac59</id>
+          <id>0158b3b5-0e01-45f1-b4a0-b732541034c8</id>
           <titel>Erichson-Tiefungsversuch, Bedeutung und Auswertung</titel>
           <titel_eng>Erichson-Stamping test, meaning and interpretation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6f1153bd-f187-4fc8-844a-55df92062f23</id>
+          <id>c7f6fe09-c430-4eb5-a36e-7280cbc9249b</id>
           <titel>Stauchversuch</titel>
           <titel_eng>Stauch attempt</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e5c26666-0d1d-4d49-8b9c-b948f5676927</id>
+          <id>107f16f9-29bf-4167-aff1-ad87ec985534</id>
           <titel>Zerspanungsversuch</titel>
           <titel_eng>Relaxation test</titel_eng>
         </unterkapitel>
@@ -16905,7 +16908,7 @@
     <modul_ziel_eng>Development of skills and knowledge needed for independent handling of practical operational duties. The proof of the inclusion of recent scientific discoveries in the present task shall be lead.</modul_ziel_eng>
     <modul_lehrform>Betreuung des Praxissemesters durch Mentoren</modul_lehrform>
     <modul_lernform>angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Studienleistung (SL)</modul_pruefungsform>
+    <modul_pruefungsform>Projektarbeit (PA)</modul_pruefungsform>
     <modul_pruefungsdauer>.</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Modul ist Grundlage für nahezu alle Folgemodule</modul_verwendbarkeit>
@@ -16920,15 +16923,16 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>6bf5e452-7385-4bad-a049-0c9058a1d160</id>
+        <id>b803ab1b-4236-4fee-8df1-39b348494b17</id>
         <titel>Ausführung von ingenieurmäßigen Arbeiten im Betrieb unter betrieblichen Bedingungen und unter betriebserfahrener und fachkundiger Anleitung; Förderung der Fähigkeit und Bereitschaft, Erlerntes erfolgreich umzusetzen und zugleich kritisch zu überprüfen; Eigenständige Bearbeitung der vom Mentor gestellten zusätzlichen (theoretischen) Aufgabe mit ingenieurtechnisch-wissenschaftlichem Inhalt (Projektarbeit/Studienarbeit); Durchführung der für die Themenbearbeitungen erforderlichen inhaltlichen Recherchen; Anwendung moderner Präsentationstechniken mit dem Ziel die erarbeiteten Lösungsvorschläge und Ideen, sowie die geplanten Vorgehensweisen im Team abzustimmen; Studium der betrieblichen Abläufe; Darstellung der Arbeitsergebnisse in schriftlicher und mündlicher Form nach den dafür geltenden Richtlinien.</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>
   <modul>
     <modul_id>9b78e99f-f714-4e33-8df6-22c1314a9893</modul_id>
     <modul_abk>MAX</modul_abk>
-    <modul_name>Management und Praxissemestervorbereitung</modul_name>
+    <modul_name>Management und Praxisvorbereitung</modul_name>
     <modul_name_eng>Management and internship Preparation</modul_name_eng>
     <modul_ziel>Die Studierenden sollen die Grundlagen kennen lernen, damit sie Fähigkeiten und Kenntnisse, die zur eigenständigen Bearbeitung von praktischen betrieblichen Aufgaben und Projekten erforderlich sind, entwickeln können. Sie sollen lernen, sich in das soziale und kulturelle Umfeld im betrieblichen Alltag einzuordnen.</modul_ziel>
     <modul_ziel_eng>Development of skills and knowledge needed for independent handling of practical operational duties. Qualification for social and cultural adaptation in corporate life</modul_ziel_eng>
@@ -16949,71 +16953,88 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>407ebd09-a2cd-4d4b-a358-c9172193071c</id>
+        <id>bd65db6d-9f70-426d-a5f1-5723a6358262</id>
         <titel>Vorbereitungsmodul zur Durchführung des Praxissemester. Dieses Modul bereitet die Studierenden auf das Praxissemester vor. Dabei werden Information über Ziele und Form des Praxissemesters und Information über organisatorische Strukturen und betriebliche Abläufe in einem Unternehmen vermittelt. Es werden u.a. rechtliche, soziale, kulturelle, finanzielle und technische Gesichtspunkte der Unternehmensorganisation durchgenommen. Im Rahmen des Vorbereitungsmoduls stellt der zugewiesene Mentor eine zusätzliche (theoretische) Aufgabe, die während des Praxissemesters zu bearbeiten ist (Projektarbeit/Studienarbeit). Diese Aufgabe kann aber muss nicht mit den Aufgaben, die im Betrieb bearbeitet werden, im Zusammenhang stehen. Um die angestrebten Lernziele zu erreichen, werden in der Lehre folgende spezifischen Kompetenzschwerpunkte gesetzt:</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>5964274f-60ef-482b-b74c-ffe17c54ccf5</id>
+        <id>6532711f-b3b5-4554-a9ab-38b24f9157d9</id>
         <titel>Das Umgehen mit komplexen Problemsituationen</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>7cf3c598-6b13-413a-8737-e69fba0fa439</id>
+        <id>9b862e87-6d85-49e3-b7b1-3454ac082582</id>
         <titel>Der Problemlösungsprozess</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>2525b167-c9db-441b-bf98-ab7ad5aae07e</id>
+          <id>750ec70b-6308-4005-9284-9967eb0e4b63</id>
           <titel>Probleme entdecken und identifizieren</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6beceb67-baa3-4e8b-91f6-cbeee1a643f2</id>
+          <id>a9f50f27-3924-472b-b6b8-26d0a796c8f1</id>
           <titel>Zusammenhänge und Spannungsfelder</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>651f698e-437d-465a-9c6c-ce5cfb8fc95d</id>
+          <id>b0796bf5-5226-4b8e-b915-42e40157231e</id>
           <titel>Analyse von Wirkungsverläufen</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>5f9f7187-0663-40b0-8468-91f5b9770a44</id>
+          <id>c67ff279-f64f-40b1-9f15-2d8ae7aaf7e9</id>
           <titel>Gestaltungs- und Lenkungsmöglichkeiten</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>4f05ef9d-fe07-4b5a-b268-055a4b4dde89</id>
+          <id>5bde7608-3407-4d64-b1db-c23bd3b984ea</id>
           <titel>Strategien und Maßnahmen planen</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>3a6d6238-3c7c-4e16-a195-5b0a1adadaf5</id>
+          <id>07fb477d-29ee-400b-9ac4-30dc08ecb26a</id>
           <titel>Problemlösungen umsetzen und verankern</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>22d829c4-c5b6-4aa0-95cd-7535f88dd1a6</id>
+          <id>3507a083-89c1-473f-9dda-bab2ee0e124b</id>
           <titel>Die ganzheitliche Sicht von Unternehmen</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>53590a45-6a77-4ef8-88f2-2b3d00b10408</id>
+        <id>4214af63-be1a-462b-8ab1-126d0e35298e</id>
         <titel>Projektmanagement</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>77a4887d-e77c-4676-aec9-9e02665381e2</id>
+          <id>c9b1d2d5-0f30-40a1-85b9-3ccedc9914e5</id>
           <titel>Aufgabenformulierung</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>45cd462e-9f3f-4c46-a17a-c3849b9e4587</id>
+          <id>3a549881-b2e9-48dc-80a6-d40de7532a91</id>
           <titel>Projektstrukturplan</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>2011888f-bdfe-4fc4-8817-6f604885db0a</id>
+          <id>ae5f796e-dad7-4bca-bc4f-cea15460dba7</id>
           <titel>Terminplan</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>e881e819-046d-438f-8c92-53b7627bc9db</id>
+        <id>01caba67-49a4-4adb-a53a-a4fef6b9c5c2</id>
         <titel>Präsentationstechniken</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>9bc34a67-7047-40f5-9def-53793a2b9ef1</id>
+          <id>158e888c-11ae-45c6-a5a5-b270db8eb3a2</id>
           <titel>Mündliche Präsentation</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>0d32cd1f-3d1a-42ad-bf3c-757e3166d6f9</id>
+          <id>610afa66-f18d-49ef-92e2-3d3834c47446</id>
           <titel>Schriftliche Präsentation</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
     </inhalt>
@@ -17146,7 +17167,7 @@
     <modul_ziel_eng>The Bachelor thesis is to show that the student is in a position to self-reliantly solve a problem scientifically and methodically, within a specified time, and to technically classify it.</modul_ziel_eng>
     <modul_lehrform>Das Modul wird praktisch in Projektform durchgeführt.</modul_lehrform>
     <modul_lernform>Selbststudium unter Anleitung, selbstständiges und damit eigenverantwortliches Erarbeiten von Zusammenhängen und Sachverhalten, Darstellung der Arbeit und der Ergebnisse anderen Personen gegenüber</modul_lernform>
-    <modul_pruefungsform>Projektarbeit (PA) und Kolloquium</modul_pruefungsform>
+    <modul_pruefungsform>Bachelorthesis und Kolloquium</modul_pruefungsform>
     <modul_pruefungsdauer>ca. 45 min für die Verteidigung der Thesis in Form des Kolloquiums</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>.</modul_verwendbarkeit>
@@ -17161,8 +17182,9 @@
     <modul_bemerkung>Literaturhinweise werden zu Beginn der Veranstaltung bekannt gegeben.</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>0495052d-90d3-474a-a116-6814a33fe0d6</id>
+        <id>a2c48760-283c-487b-b329-f232c8688958</id>
         <titel>Die Bearbeitung des Themenbereiches der Thesis erfolgt unter Anleitung des Themenstellers nach den Regeln wissenschaftlichen und ingenieursmäßigen Arbeitens. Die zugeordneten Arbeitstechniken werden dabei verbessert und weiter entwickelt. Die Ausführungsbestimmungen der Bachelorthesis sind in der Prüfungsordnung des Studiengangs beschrieben.</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>
@@ -18263,8 +18285,8 @@
     <modul_ziel_eng>The module enables participants to assess production and manufacturing procedures in terms of technological and economic importance.</modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Klausur und Studienleistung (Laborteilnahme)</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Klausur und Studienleistung (Labortestat)</modul_pruefungsform>
+    <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -18278,156 +18300,156 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>b1e33baf-60d0-4106-921d-f13ace7eb052</id>
+        <id>f6aee8a9-5e56-467f-b118-3a929e8809f7</id>
         <titel>Umformtechnik- und Umformmaschinen</titel>
         <titel_eng>Metal forming and forming machines</titel_eng>
         <unterkapitel>
-          <id>ceefccba-cb8f-44af-b3f3-2f2f437aa2ef</id>
+          <id>205a2585-b236-4de0-bb29-2ecc614c12e4</id>
           <titel>Übersicht über die Umformtechnik, Bedeutung der Umformtechnik aus wirtschaftlicher und technischer Sicht, Zuordnung zu den Fertigungsverfahren</titel>
           <titel_eng>Overview of metal forming, The importance of Metal forming under economic and technical views, assignment to the manufacturing processes</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>51b50b93-7db9-41c3-b81a-c1c469414ac0</id>
+          <id>21ffdc2e-feb1-4b4c-89fb-efffca17b307</id>
           <titel>Begriffe und Kenngrößen, Metallkundliche Grundlagen / Elastische und plastische Verformung / Verfestigung und Eigenspannung / Thermisch – Mechanisches Verhalten</titel>
           <titel_eng>Concepts and characteristics, metallurgical basics / Elastic and plastic deformation / hardening and residual stress / thermal - mechanical Behaviour</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>a2217efc-3991-42f9-a97a-402b9c684229</id>
+          <id>3b1c5b64-10fe-4bf7-9589-6926957bb82a</id>
           <titel>Tribologie,Mathematische Beschreibung der Reibung / Reibungszustände / Oberflächenkenngrößen</titel>
           <titel_eng>Tribology, mathematical description of the friction / friction conditions / surface characteristics</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>703da174-6c8d-4877-88ba-5f5efe7427df</id>
+          <id>c804d65e-93ae-41d4-8618-898ddbb9837d</id>
           <titel>Fließkurvenaufnahme, Belastungsabhängige Aufnahme von Fließkurven / Auswerteverfahren</titel>
           <titel_eng>Flow curve recording, load-dependent recording of flow curves / Evaluation / Forming materials, iron materials / light metal alloys / Surface and Heat Treatment</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>47025416-271b-457a-ac54-6e40deacdd6b</id>
+          <id>5d9ce6fd-a3f1-4f39-a1d2-742c47a1eb83</id>
           <titel>Werkstoffe der Umformtechnik, Eisenwerkstoffe / Leichtmetalllegierungen / Oberflächen- und Wärmebehandlung</titel>
           <titel_eng>Methods of hot forging (forging), disposition of the proceedings / Applications / Part Design / Tools / Lubricants</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>1bb6eba5-c4a5-4c4b-8cef-38c0727f14eb</id>
+          <id>1a87cda6-34e3-4952-98d6-11fcdedac6c4</id>
           <titel>Verfahren der Warmumformung (Schmieden), Einteilung der Verfahren / Einsatzgebiete / Bauteildesign / Werkzeuge / Schmierstoffe</titel>
           <titel_eng>Procedures of "in mass" forming (extrusion, pulling),</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9883974e-bd8b-46a6-bae0-06b4920f237f</id>
+          <id>38b67bba-a1a3-4e85-906a-f3f7cbbffe0a</id>
           <titel>Verfahren der Masivumformung ( Fließpressen, Ziehverfahren), Einteilung der Verfahren / Einsatzgebiete / Bauteildesign / Werkzeuge / Schmierstoffe</titel>
           <titel_eng>Classification of procedures / applications / part design / tools / Lubricants</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e9d1223f-cf3c-409e-a987-af0d030d2a08</id>
+          <id>4f43526b-cf4d-4ed9-98a7-43e386ab49ca</id>
           <titel>Walzen,Blechwalzen, Profilwalzen, Gewindewalzen</titel>
           <titel_eng>Rolls, sheet rolls, profile rolling, thread rolling</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9ee4c5fd-7bdf-412c-8f46-f3a4c1297290</id>
+          <id>9f5a0f08-0122-4464-b59c-f302655beb0f</id>
           <titel>Strangpressen, Einteilung der Verfahren / Einsatzgebiete / Bauteildesign / Werkzeuge / Wärmebehandlung</titel>
           <titel_eng>Extrusion, classification procedures / applications / part design / Tools / Heat treatment</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e2526133-6e22-4bcb-9b48-75f7945c9b94</id>
+          <id>00d6ac78-25c4-498c-a35d-5d2b5106fd4b</id>
           <titel>Tiefziehen und Biegen, Einteilung der Verfahren / Einsatzgebiete / Bauteildesign / Werkzeuge Schmierstoffe</titel>
           <titel_eng>Deep drawing and bending, classification procedures / applications / Part Design / Tools Lubricants</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>500238ea-4640-4d2b-9544-059420071f8e</id>
+          <id>370321dc-88f8-4ef4-8b72-d0364c86d6d0</id>
           <titel>Umformen mit Wirkmedium (Hydroformen), Einteilung der Verfahren / Einsatzgebiete / Bauteildesign / Werkzeuge</titel>
           <titel_eng>Forming with influencing means (hydro-Forms), division of the procedures / applications / part design / tools</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b87ecd43-6671-4d62-a0b3-593bfb8f4281</id>
+          <id>50e77095-3834-4474-8e9e-2496de5130be</id>
           <titel>Prozessevaluierung- / überwachung, Simulation / Qualitätssicherung / Maschinenüberwachung</titel>
           <titel_eng>Process evaluation / monitoring, simulation / quality control / monitoring equipment</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f5ac40b3-da91-4367-a1ac-521db4256df1</id>
+          <id>751b0512-0d80-4b13-a1da-2960ff70657c</id>
           <titel>Umformmaschinen, Einteilung der Maschinen / Zuordnung der Maschinen zu den Verfahren / Kenngrößen der Maschinen</titel>
           <titel_eng>Forming, allocation of machines / allocation of machines to process / parameters of the machine</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>401ea936-4ca8-4c58-8029-6c3416d7c613</id>
+          <id>68b7cee9-df3a-47b5-a449-55594d493b1a</id>
           <titel>Fertigungskonzepte, Automatisierung / Flexibilisierung / Handhabung, Wirtschaftlichkeit Kosten – Nutzen Analyse / Verfahrensvergleich /</titel>
           <titel_eng>Manufacturing concepts, automation / flexibilization / handling, efficiency cost - benefit analysis / comparison procedure /</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>3b1fbcaa-a08a-41e2-ad2b-99e1bcdf866e</id>
+          <id>67e266b1-3a5a-466c-80ba-32371e4b1fa3</id>
           <titel>Begleitend werden Exkursionen zu umformtechnischen Betrieben durchgeführt</titel>
           <titel_eng>Excursions to metal forming companies will take place</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>1e34b0af-14dd-4f04-83b1-5c9eae4c8381</id>
+          <id>794b5250-43fd-43e3-8d7b-6383554bb32e</id>
           <titel>Vertiefung wichtiger Schmelzschweißverfahren, Schutzgaschweißen (Verfahren, Maschinen, Hilfsmittel, Einflussgrößen auf das Schweißergebnis), Strahlschweißen (Entstehung von LASER-Strahlung, Anwendung des LASERS, Einsatz als Fügeverfahren)</titel>
           <titel_eng>Explanation of important fusion welding processes, fusion with protection gases (process, machine, tool, influencing the result of welding), welding beam (LASER-emergence of radiation, use of lasers, used as a joining)</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>726d397c-731b-4845-9975-1d0cbbc19d48</id>
+          <id>23883eaf-05eb-4e78-929b-1b0c70188c48</id>
           <titel>Aufbau einer Schweißnaht und ihre Eigenschaften</titel>
           <titel_eng>Construction of a weld and its properties</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9ab2aa5f-af01-420a-9482-d7ff75036016</id>
+          <id>bd802386-f42d-4488-a1bf-e3f26deea643</id>
           <titel>Schweißnahtprüfung</titel>
           <titel_eng>Weld Inspection</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>4796fd20-8e34-40bb-8285-15d3026bbe18</id>
+        <id>952e6a63-bd86-48b8-a10a-c3f478c7d34a</id>
         <titel>Labor</titel>
         <titel_eng>Laboratory</titel_eng>
         <unterkapitel>
-          <id>51370639-0c57-47ce-830d-bde0118b61a5</id>
+          <id>e64364ae-487e-4254-8999-cee7e172ecdf</id>
           <titel>Praktikum 1 (2SWS) Allgemeine Laboreinführung im Schweißlabor, Schweißtechn. Sicherheitsbelehrung (Unfallgefahren), Laborordnung, Gruppeneinteilung</titel>
           <titel_eng>Internship 1 (2SWS) General introduction in the welding lab, welding technology. Safety instruction (accident hazards), lab order, group divisions</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d002dd2d-3c39-4da7-a9ae-4225a67483ef</id>
+          <id>ad63c9fa-ebf2-42e9-beab-24b4d4c4fbf7</id>
           <titel>Praktikum 2 (8 SWS) Lichtbogen-Handschweißen (Verfahren 111), W01, Auftragschweißen und Kehlnaht(FW) in Position PA, evtl. PF und PG, Beurteilung nach Sicht und Bruchfläche, Lichtbogen-Handschweißen (Verfahren 111), W01, Stumpfnähte einfach und mehrlagig (BW) in PA, evtl. PF und PG, Demonstration der Blaswirkung</titel>
           <titel_eng>Internship 2 (8 SWS) Hand arc welding (procedure 111), W01, welding and fillet welds (FW) in position PA, possibly PF and PG, based on visual assessment and fracture surface, hand-arc welding (procedure 111), W01, butt simple and multiwall welds (BW) in PA, PF and possibly PG, demonstrating arc perturbations</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9a8326cf-47f0-418c-a591-e338a556201d</id>
+          <id>9737c189-1c07-443f-95ba-03f16f48cf80</id>
           <titel>Praktikum 3 (2SWS) Schweißerqualifikation nach EN 287, Schweißerprüfungen, Systematik der Bezeichnungen und deren Gültigkeitsbereiche für zulassungspflichtige Fertigungsprozesse</titel>
           <titel_eng>Internship 3 (2SWS) Welder qualification according to EN 287, welding inspections, classification in terms of validity ranges for approved production processes.</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>ee376107-962e-4c1d-85a1-dd05b6943266</id>
+          <id>73dbd037-8e38-4b25-9f05-f96fd8966522</id>
           <titel>Praktikum 4 (2SWS) Schweißnahtprüfung, Allgemeine Einführung, Fehler in Schweißnähten, anwendbare Prüfverfahren, Zerst.freie und zerst. Prüfung</titel>
           <titel_eng>Internship 4 (2SWS) Weld inspection, general introduction, defects in welds, applicable test methods, non-destructive and destructive tests.</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8c815e1d-37a9-4ac7-96af-a04978698d2f</id>
+          <id>bfae2fe2-5952-40f7-afe4-1bc9aae0127f</id>
           <titel>Praktikum 5 (2SWS) Schweißnahtprüfung – Röntgen, Gemeinsame Auswertung von Röntgenbildern mit IIW-Kartei und eigenen Schweißungen, Einfluss der Aufnahmetechnik, Interpretation der ausgewählten Röntgenbeispiele</titel>
           <titel_eng>Internship 5 (2SWS) Weld inspection - X-Ray, joint evaluation of X-ray images with IIW-register and own welds, impact of recording technology, interpretation of X-ray selected samples</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>733b16d0-a82b-4e8f-a3dd-749d362a220c</id>
+          <id>d94cecb9-cc59-4713-a8f6-e749b6fb1263</id>
           <titel>Praktikum 6 (2SWS) Schweißnahtprüfung – Schliff und Härte, Gefügeschätzung über t8/5 – Zeiten, Gefügebetrachtung im Schliff, Härteprüfung des Nahtgefüge-Verbundes entsprechend Schweißnormen und Interpretation</titel>
           <titel_eng>Internship 6 (2SWS) Weld inspection test - cut and hardness, microstructure estimates of t8 / 5 - times, cut microstructure analyses, hardness testing of the welding joint recurring to the welding standards and interpretation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c943ad4b-3816-460b-9576-aeeffcc70544</id>
+          <id>8ccafeba-0550-426d-a104-1068c0582812</id>
           <titel>Praktikum 5 (2SWS) Schutzgasschweißen (131, 135, 141), W01, FW und BW in PA und PF, Demonstration: innere Regelung</titel>
           <titel_eng>Internship 5 (2SWS) fusion with protection gases (131, 135, 141), W01, FW and BW in PA and PF, demonstration: internal regulation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>840a4e6d-e1e2-4276-ac81-098e72263a14</id>
+          <id>f8e08e3a-66be-4e7f-9af3-a62b57db23e8</id>
           <titel>Praktikum 6 (2SWS) Schweißfolgeplan, Schweißanweisung</titel>
           <titel_eng>Internship 6 (2SWS) Welding sequence plan, welding instruction</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>1bc0c281-0f44-4d61-8a74-05e9267c97e5</id>
+          <id>67ddbbdc-5bf2-4dce-9bf9-c2851ee0aa94</id>
           <titel>Praktikum 7 (4SWS) Umformtechnisches Praktikum (Tiefziehen) im Hause DC</titel>
           <titel_eng>Internship 7 (4SWS) Forming placement (deep drawing) in the DC home</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d261a533-8405-4357-b6cd-aff8959a7531</id>
+          <id>6a790a3e-e6c6-40ef-b735-3a82df64f2b3</id>
           <titel>Praktikum 8 (4SWS) Umformtechnisches Praktikum (Kaltfließpressen)</titel>
           <titel_eng>Internship 8 (4SWS) Forming placement (cold extrusion)</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>9d254ef9-f994-4d1e-82e3-671e4cdf7ab5</id>
+          <id>62d43d89-b551-4b2b-a492-f56cbb99faae</id>
           <titel>Praktikum 9 (2SWS) Umformtechnisches Praktikum (Strangpressen) im Hause Hydro-Aluminium</titel>
           <titel_eng>Internship 9 (2SWS) Forming placement (extrusion) in the Hydro-Aluminium home</titel_eng>
         </unterkapitel>
@@ -22418,7 +22440,7 @@
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Klausur (85%) und Referat (15%)</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>Grundlage für etliche Folgemodule</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -22432,116 +22454,116 @@
     <modul_bemerkung>Literatur wird zu Semesterbeginn bekanntgegeben</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>e630945e-b84f-4406-82f3-f8184eacfb7c</id>
+        <id>f95b29e8-30ab-4ebc-a76a-f3f7679e4afa</id>
         <titel>Produzierende Unternehmen wickeln die Aufträge dadurch ab, indem sie die Organisation strukturieren und die Abläufe vom Auftragseingang bis zur Lieferung effizient gestalten. Im Rahmen dieses Moduls werden die Aufbau- und die Ablauforganisation in Unternehmen zusammenhängend dargestellt und an praxisnahen Beispielen erläutert.</titel>
         <titel_eng>Manufacturing companies handle requests by structuring the organization and efficiently implementing the processes since the order request until the delivery. The structure and organization's sequence of events in the corporate will be presented and explained with practical examples in the course of this module.</titel_eng>
       </kapitel>
       <kapitel>
-        <id>5d58b7ae-7623-44cc-b6b1-2130d9fd8b4e</id>
+        <id>54625a7f-4749-4b01-99b0-fdb613ae5392</id>
         <titel>Aufbau- und Ablauforganisation in produzierenden Unternehmen</titel>
         <titel_eng>Operational and organizational structure in manufacturing companies</titel_eng>
       </kapitel>
       <kapitel>
-        <id>ae187278-eed3-4f40-915e-c0f611726d5a</id>
+        <id>3129dde0-2318-459c-b94c-45f55191bf5a</id>
         <titel>Bereiche in produzierenden Unternehmen</titel>
         <titel_eng>Areas in manufacturing companies</titel_eng>
         <unterkapitel>
-          <id>ae508c0c-17c4-43bd-bbba-3e5f25c6ef5f</id>
+          <id>c5b0a9fa-34a6-4695-a62e-965aecf5e6d4</id>
           <titel>Konstruktion</titel>
           <titel_eng>Construction</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>a3063be4-ff71-41dc-98e4-fe948cad173e</id>
+          <id>81d3b87d-353d-4518-b284-17ff100e0d06</id>
           <titel>Arbeitsvorbereitung</titel>
           <titel_eng>Operations scheduling</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f87288fd-b03d-4017-94bb-2d8f8c8ebd8b</id>
+          <id>51e956f7-ccf7-4e3b-86e8-0ec76db83ff4</id>
           <titel>Materialwirtschaft</titel>
           <titel_eng>Materials management</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>897bc477-76f8-40a2-81aa-7e34554d7a6b</id>
+          <id>0bb1e14e-28c2-45e7-809c-e812314c9b41</id>
           <titel>Fertigung</titel>
           <titel_eng>Manufacturing</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>083f65f9-a35b-4609-82e6-e6eafe778674</id>
+          <id>d3a5d3d5-cca4-4a83-b109-a62fc06fb075</id>
           <titel>Montage</titel>
           <titel_eng>Mounting</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>a370635e-1f91-482e-ba69-aca6da25b987</id>
+          <id>e909af6f-213d-4f11-abd2-c144f1baba6e</id>
           <titel>Qualitätssicherung</titel>
           <titel_eng>Quality assurance</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>12043d90-f07a-40da-a238-41b8a8e6c1d6</id>
+        <id>1a2307e1-639b-4d70-8657-70b2d3c4a419</id>
         <titel>Querschnittsaufgaben</titel>
         <titel_eng>Cross-sectional tasks</titel_eng>
         <unterkapitel>
-          <id>7792d31a-73ed-437c-aad2-81f7941c1576</id>
+          <id>39e618a7-7bf0-44fa-8149-123a8abcd5e7</id>
           <titel>Informationswesen</titel>
           <titel_eng>Information science</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f02f414e-78a2-4c73-88d0-f889804556c0</id>
+          <id>7ea149ba-46e6-411d-909a-1f492f7be82a</id>
           <titel>Kostenwesen</titel>
           <titel_eng>Cost accounting</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>69308ad6-f80e-45fb-9e5d-e7385192b6bb</id>
+          <id>deba54e0-5307-4b5b-87d5-a1550cbc6497</id>
           <titel>Planung</titel>
           <titel_eng>Planning</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>b7efb84a-fe82-4a5e-97ac-d207a343ac8e</id>
+        <id>b9a29b5b-3c99-4646-a7c0-ce75c93d1be6</id>
         <titel>Die modulbezogene Übung dient der Vermittlung von Wissen im Anwendungsbezug. Übungen sind entsprechend dem Lernfortschritt der Studierenden in die Veranstaltung integriert. Im Übungsteil werden die Themen an praxisorientierten Fallbeispielen vertieft.</titel>
         <titel_eng>The modular exercise aims at conveying knowledge in a practical context. Exercises are presented in accordance with the learning development of students in the integrated event. Topics will be deepened by practical case studies in the exercise block.</titel_eng>
       </kapitel>
       <kapitel>
-        <id>ca22051f-c93d-48eb-b598-e5c7bf8bfd19</id>
+        <id>6b0c1ba5-f024-4fc2-8fad-c5896eda4957</id>
         <titel>Übungen</titel>
         <titel_eng>Exercises</titel_eng>
         <unterkapitel>
-          <id>a6aad272-7621-4dd2-b458-89a44650a83d</id>
+          <id>83a0594c-342a-4388-ae10-47de468821f1</id>
           <titel>Auftragsplanung</titel>
           <titel_eng>Order planning</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c4ccda00-3ed4-4b84-a01c-43e03fbadc4e</id>
+          <id>98b54594-1c35-4890-8fe8-b35fb81c2f08</id>
           <titel>Stücklistenerstellung</titel>
           <titel_eng>BOM creation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>dd1c9163-b6b1-4e90-a663-1f5082c9eeb3</id>
+          <id>bffa6b1a-fc4f-4c42-baa4-be7d50fc59ba</id>
           <titel>Arbeitsplanerstellung</titel>
           <titel_eng>Work preparation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>29073d2a-7bd3-4d92-a2e6-5f781040ddce</id>
+          <id>a4684d75-4193-4261-96dd-74055a5014a9</id>
           <titel>Fertigungsplanung</titel>
           <titel_eng>Production planning</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>bcf36c70-3c10-4352-a089-e50b5a437100</id>
+          <id>57870146-61ac-430f-b38c-f04b54498f40</id>
           <titel>Montageplanung</titel>
           <titel_eng>Assembly planning</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>cbecc8f3-0804-4600-b746-dda4e21e5a26</id>
+          <id>26bbc295-6320-46c2-a374-5af0a113b6d5</id>
           <titel>Durchlaufzeitermittlung</titel>
           <titel_eng>Identification of cycle times</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>75efe807-6959-4439-9662-bf834b0fa671</id>
+          <id>37976010-244e-4846-b5ad-6197f86d1ad0</id>
           <titel>Kostenermittlung</titel>
           <titel_eng>Cost</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>2d9ed661-e335-443f-8511-a8c243b67f3f</id>
+          <id>663da539-c904-4804-9561-31490c7a553a</id>
           <titel>Rechnerintegration</titel>
           <titel_eng>Computer integration</titel_eng>
         </unterkapitel>
@@ -22773,12 +22795,15 @@
     <modul_abk>ACBM</modul_abk>
     <modul_name>Rechnerunterstützte höhere Mathematik</modul_name>
     <modul_name_eng>Advanced Computer Based Mathematics</modul_name_eng>
-    <modul_ziel>Aufbauend auf die im Bachelor-Studiengang gelehrten Grundlagen der Ingenieurmathematik (Gleichungen, Funktionen, Vektoren, Matrizen, Differenzial- und Integralrechnung, Differenzialgleichungen) ergänzt dieses Modul wichtige Themen der angewandten Mathematik und legt so die mathematischen Voraussetzungen für die erfolgreiche Teilnahme an den übrigen Modulen des Master-Studiengangs. Dabei wird ein besonderes Augenmerk darauf gelegt, dass die Studierenden ihr theoretisches Wissen in praktischen rechnerbasierten Übungen mit der Mathematikumgebung Matlab®/Simulink® umsetzen. Die Teilnehmer sind nach erfolgreicher Teilnahme am Modul in der Lage, mathematische Probleme, wie sie in der Ingenieurspraxis auftreten, mit einem Digitalrechner zu lösen und die Lösungen auf ihre Anwendbarkeit hin zu untersuchen. Sie beherrschen, exemplarisch in Matlab, sowohl das analytische Modul des Computer-Algebra-Systems als auch die numerischen Lösungsverfahren für komplexe Systeme. &amp;lt;p&amp;gt; Sie haben somit die Fähigkeit, ihr Wissen in eine neue Problemstellung zu integrieren und mit Komplexität umzugehen. Sie können ihr Wissen sowie ihre Fähigkeiten zur Problemlösung auch in neuen und unvertrauten multidisziplinären Situationen anwenden.</modul_ziel>
+    <modul_ziel>Aufbauend auf die im Bachelor-Studiengang gelehrten Grundlagen der Ingenieurmathematik (Gleichungen, Funktionen, Vektoren, Matrizen, Differenzial- und Integralrechnung, Differenzialgleichungen) ergänzt dieses Modul wichtige Themen der angewandten Mathematik und legt so die mathematischen Voraussetzungen für die erfolgreiche Teilnahme an den übrigen Modulen des Master-Studiengangs. Dabei wird ein besonderes Augenmerk darauf gelegt, dass die Studierenden ihr theoretisches Wissen in praktischen rechnerbasierten Übungen mit der Mathematikumgebung Matlab®/Simulink® umsetzen.  
+Die Teilnehmer_innen sind nach erfolgreicher Teilnahme am Modul in der Lage, mathematische Probleme, wie sie in der Ingenieurspraxis auftreten, mit einem Digitalrechner zu lösen und die Lösungen auf ihre Anwendbarkeit hin zu untersuchen. Sie beherrschen, exemplarisch in Matlab, sowohl das analytische Modul des Computer-Algebra-Systems als auch die numerischen Lösungsverfahren für komplexe Systeme.  
+Sie haben somit die Fähigkeit, ihr Wissen in eine neue Problemstellung zu integrieren und mit Komplexität umzugehen. Sie können ihr Wissen sowie ihre Fähigkeiten zur Problemlösung auch in neuen und unvertrauten multidisziplinären Situationen anwenden. 
+</modul_ziel>
     <modul_ziel_eng>Based on the Bachelors course taught fundamentals of engineering mathematics (equations, functions, vectors, matrices, differential and integral calculus, differential equations) this module adds important topics of applied mathematics and presents the mathematical prerequisites for successful participation in the remaining modules of the Master's Degree. A special focus is placed on ensuring that the students implement their theoretical knowledge in practical calculus based exercises with the mathematical environment Matlab®/Simulink®. After successful completion of the module, the students are capable of solving mathematical problems with a digital solver, as they appear in the engineering practice, and to investigate the applicability of the solutions. They master, exemplified in Matlab, both the analytical module of the Computer-Algebra-Systems, as well as the numerical solution methods for complex systems. &amp;lt;p&amp;gt; In this way, they have the ability to integrate their knowledge into new problems and to deal with complexity. They also can apply their knowledges and problem solving skills in new, unfamiliar multidisciplinary situations. </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Rechnerprogramm</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -22792,102 +22817,102 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>652d093d-d97d-42d5-85f7-558d5b4e473f</id>
+        <id>71407e4b-50ae-4976-bf03-6b1651ea0a02</id>
         <titel>Raumkurven, Vektorielle Parameterdarstellung, Tangentenvektor, Krümmung</titel>
         <titel_eng>Space curves, Parameter representation, Tangent vectors, Curvature</titel_eng>
       </kapitel>
       <kapitel>
-        <id>c0bb48b2-3f7a-4c42-9a5c-d702c86bd35a</id>
+        <id>fb1dcb3e-7aee-434d-8990-4ad4c90db31d</id>
         <titel>Skalar- und Vektorfelder, Gradient, Divergenz, Rotation, Niveaulinien, Richtungsableitung, Quellenfreiheit, Wirbelfreiheit, Laplace-Operator, Laplace-Gleichung, Poisson-Gleichung</titel>
         <titel_eng>Scalar and vector fields, Gradient, Divergence, Curl, Contour lines, Directional derivative, Source free vector fields, Irrotational vector fields, Laplace operator, Laplace equation, Poisson equation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>806ffaa3-f0b7-48c9-956b-88174ced5055</id>
+        <id>af347267-538f-4f13-a2ab-b551e91e8672</id>
         <titel>Kurvenintegrale, Potenzialfunktion, konservative Felder</titel>
         <titel_eng>Line integrals, Scalar potential, Conservative fields</titel_eng>
       </kapitel>
       <kapitel>
-        <id>baa2bee5-71f9-46c5-b09d-78ce1a837e3e</id>
+        <id>11e646c5-4002-40e2-95cc-7d5c2fcecf2b</id>
         <titel>Kombinatorik, Wahrscheinlichkeit, Permutation, Kombination, Variation, De Morganschen Regeln, Zufallszahlen, Histogramm, Wahrscheinlichkeitsdiagramm</titel>
         <titel_eng>Combinatorics, Probability, Permutation, Combination, Variation, De Morgan's rules, Random numbers, Histogram, Probability diagram</titel_eng>
       </kapitel>
       <kapitel>
-        <id>97e47bef-57d8-4000-bd5f-433a9ea2e452</id>
+        <id>51ab63f7-5fc2-4605-95ac-ff90f13c7679</id>
         <titel>Verteilungen, Wahrscheinlichkeitsfunktion, Verteilungsfunktion, Dichtefunktion, Binomialverteilung, Galton-Brett, Hypergeometrische Verteilung, Poisson-Verteilung, Gaußsche Normalverteilung, Standardnormalverteilung, Fehlerfunktion, Quantile, Mehrdimensionale Verteilungen, Randverteilungen, Chi-Quadrat-Verteilung, Gamma-Funktion, Student-t-Verteilung</titel>
         <titel_eng>Distributions, Probability function, Distribution function, Density function, Binomial distribution, Galton board, Hypergeometric distribution, Poisson distribution, Gaussian normal distribution, Standard normal distribution, Error function, Quantile, Multidimensional distributions, Marginal distributions, Chi-square distribution, Gamma function, Student-t distribution</titel_eng>
       </kapitel>
       <kapitel>
-        <id>3ad25827-28b8-4326-b67e-7b32c7c6bb52</id>
+        <id>ac4fe093-2262-4597-baff-0b6e16ad29fb</id>
         <titel>Angewandte Statistik, Stichprobe, Mittelwert, Standardabweichung, Varianz, Spannweite, Median, Modalwert, Ausreißer, Vertrauensintervall</titel>
         <titel_eng>Applied statistics, Sample, Mean, Standard deviation, Variance, Range, Median, Mode, Outliers, Confidence interval</titel_eng>
       </kapitel>
       <kapitel>
-        <id>b8eadf6f-7fe5-468c-aea1-d224c3eff815</id>
+        <id>4ea8edd5-8e3e-4dac-811a-de4bbbf05c4f</id>
         <titel>Interpolationsverfahren, Kennlinie, Look Up Table, Lineare Interpolation, Kubische Interpolation, Spline-Interpolation</titel>
         <titel_eng>Interpolation, Characteristic curve, Look Up Table, Linear interpolation, Cubic interpolation, Spline interpolation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>34714958-4237-4d7f-a0e6-f8fe94fdd7c8</id>
+        <id>8d0e1ed9-0bfc-49f0-93a4-4ca2b3f14f10</id>
         <titel>Mehrdimensionale Interpolation, Nearest-Neighbor-Interpolation</titel>
         <titel_eng>Multidimensional Interpolation, Nearest-Neighbor-Interpolation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>d69a2979-290b-42a3-92e0-da179e9c3020</id>
+        <id>513f7022-b57d-47b0-b7d4-c42430a0147c</id>
         <titel>Korrelation, Regression, Least Squares, Korrelationskoeffizient, Irrtumswahrscheinlichkeit, Nichtlineare Regression</titel>
         <titel_eng>Correlation, Regression, Least Squares, Correlation coefficient, Error probability, Nonlinear regression</titel_eng>
       </kapitel>
       <kapitel>
-        <id>2ba0c496-e626-4a8c-bc8c-cb8cbe8e43df</id>
+        <id>004e328d-d314-47ec-bd4b-0b1ceff59274</id>
         <titel>Simulation, Dynamische Systeme, Dämpfung, Eigenfrequenz, Übertragungsfunktion, Zustandsraum, Sprungantwort</titel>
         <titel_eng>Simulation, Dynamic systems, Damping, Natural frequency, Transfer function, State space, Step response</titel_eng>
       </kapitel>
       <kapitel>
-        <id>dc20a6d8-0c3d-4e38-9b58-0617737c724c</id>
+        <id>ddeab6b5-b691-4b35-8882-fddc6729b2c7</id>
         <titel>Optimierung, Identifikation, Kostenfunktion</titel>
         <titel_eng>Optimisation, Identification, Cost function</titel_eng>
       </kapitel>
       <kapitel>
-        <id>1d916d54-c367-4b2d-a4b4-c03d9909b5bd</id>
+        <id>961bacda-bdfa-41b5-8d98-cc6dbea35771</id>
         <titel>Zufallszahlen, Sortieralgorithmen, Periodenlänge, Straight-Insertation, Shell's Method, Quicksort, Heapsort, Indexieren, Ranking</titel>
         <titel_eng>Random numbers, Sorting algorithms, Period length, Straight-Insertation, Shell's Method, Quicksort, Heapsort, Indexing, Ranking</titel_eng>
       </kapitel>
       <kapitel>
-        <id>8d52fccb-4015-4970-a43d-2f61c502999c</id>
+        <id>87fc5a5d-8068-47ff-b805-fbbf51223195</id>
         <titel>Matrizeneigenschaften, Spezielle Funktionen, Quadratische Matrix, Diagonalmatrix, Symmetrische Matrix, Hermitesche Matrix, Reelle Matrix, Singuläre Matrix, Orthogonale Matrix, Unitäre Matrix, Positiv definierte Matrix, Hadamard-Matrix, Hankel-Matrix, Hilbert-Matrix, Pascal-Matrix, Toeplitz-Matrix, Vandermonde-Matrix, Hessenberg-Matrix</titel>
         <titel_eng>Matrix characteristic, Special Functions, Quadratic matrix, Diagonal matrix, Symmetric matrix, Hermitian matrix, Real matrix, Singular matrix, Orthogonal matrix, Unitary matrix, Positive definite matrix, Hadamard matrix, Hankel matrix, Hilbert matrix, Pascal matrix, Toeplitz matrix, Vandermonde matrix, Hessenberg matrix</titel_eng>
       </kapitel>
       <kapitel>
-        <id>eca1b17e-5987-4d2b-9766-d1672a5a7fe6</id>
+        <id>bcfa3f5e-130f-40a0-95c9-283428e256c9</id>
         <titel>Matrizeninversion, Gauß-Jordan-Zerlegung, Pivotisierung, LU-Zerlegung, Cholesky-Zerlegung, QR-Zerlegung</titel>
         <titel_eng>Matrix inversion, Gauss-Jordan decomposition, Pivoting, LU decomposition, Cholesky decomposition, QR decomposition</titel_eng>
       </kapitel>
       <kapitel>
-        <id>0228ce51-730d-427e-8aaf-d0bd45ad9e62</id>
+        <id>e93a9570-52fb-42bb-b031-4461a859d405</id>
         <titel>Singulärwert-Zerlegung, Singulärwerte, Singulärvektoren, (Pseudo-)Inversion, Nullraum, Wertebereich, lineare Abhängigkeiten</titel>
         <titel_eng>Singular value decomposition, Singular values, Singular vectors, (Pseudo-) inversion, Null space, Range, Linear dependencies</titel_eng>
       </kapitel>
       <kapitel>
-        <id>519a7985-5387-4127-9d14-c1a9e4274a98</id>
+        <id>de7b0950-5688-471e-8db6-934301989989</id>
         <titel>Schnelle Fourier-Transformation, Polynommultiplikation, Faltung, zero padding, Autokorrelation, Leistungsdichte, Nyquistfrequenz, Bartlett-Fenster, digitale Filter</titel>
         <titel_eng>Fast Fourier transform, Polynomial multiplication, Convolution, Zero padding, Autocorrelation, Power density, Nyquist frequency, Bartlett window, Digital filters</titel_eng>
       </kapitel>
       <kapitel>
-        <id>397e4009-ed2e-44b2-ab56-5df570966438</id>
+        <id>9fb8c982-8ca5-46a7-bf95-fc76760cc54d</id>
         <titel>Partielle Differenzialgleichungen, Wellengleichung, Diffusionsgleichung, Poissongleichung, Anfangsbedingungen, Randbedingungen, Animation</titel>
         <titel_eng>Partial differential equations, Wave equation, Diffusion equation, Poisson equation, Initial conditions, Boundary conditions, Animation</titel_eng>
       </kapitel>
       <kapitel>
-        <id>b95e3e88-e03e-4d34-86ee-44ab4c91d27d</id>
+        <id>92ef2383-e66a-462e-ad83-ef12dc9d5436</id>
         <titel>Numerische Lösung partieller Differenzialgleichungen, hyperbolische PDG, parabolische PDG, elliptische PDG</titel>
         <titel_eng>Numerical solution of partial differential equations, Hyperbolic PDE, Parabolic PDE, Elliptic PDE</titel_eng>
       </kapitel>
       <kapitel>
-        <id>43f2db71-a58f-473f-9e85-ae4e7922696c</id>
+        <id>466548ce-297d-474b-b475-9a76afaa4db5</id>
         <titel>Differenzial-algebraische Gleichungen, Massenmatrix, Zwangsbedingungen, Algebraic Constraint, Minimalrealisierung</titel>
         <titel_eng>Differential-algebraic equations, Mass matrix, Constraints, Algebraic Constraint, Minimal realization</titel_eng>
       </kapitel>
       <kapitel>
-        <id>1223d42c-2712-4998-8525-cfbf4459c79e</id>
+        <id>8dfaf211-8392-4e9f-9b9e-30fa68024593</id>
         <titel>Randwertprobleme, Shooting-Methode, Relaxationsmethode</titel>
         <titel_eng>Boundary value problems, Shooting method, Relaxation Method</titel_eng>
       </kapitel>
@@ -23485,62 +23510,48 @@
     <modul_abk>CAQ</modul_abk>
     <modul_name>Computer Aided Quality</modul_name>
     <modul_name_eng>Computer Aided Quality</modul_name_eng>
-    <modul_ziel>
-      Kompetenzen
-      &lt;p&gt;
-      &lt;ul&gt;
-      &lt;li&gt;
-      Befähigung zur systematischen Analyse von Produkten, Verfahren und Systemen
-      &lt;/li&gt;
-      &lt;li&gt;
-      Befähigung zum Einsatz wissenschaftlicher Analyseverfahren (multivariater Analyse)
-      &lt;/li&gt;
-      &lt;li&gt;
-      Befähigung Produkte und Prozesse zu analysieren, Fehlerpotentiale zu erkennen und zu vermeiden
-      &lt;/li&gt;
-      &lt;li&gt;
-      Befähigung Produkte und Prozesse robust zu gestalten
-      &lt;/li&gt;
-      &lt;li&gt;
-      Befähigung zum Arbeiten mit CAQ-Systemen. Die Teilnehmer sind nach dem erfolgreichen Bestehen des Moduls in der Lage, die vorgestellten Qualitätstechniken, wie Qualitätsvorausplanung APQP, FMEA, FTA, PPAP, Qualitäts- und Prüfplanung, SPC, Wareneingangs-/Endprüfung und statistische Auswertung komplett innerhalb der vorgestellten C-Verfahren umzusetzen.
-      &lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;p&gt;
-      Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, mit Komplexität in ähnlich gelagerten Fällen umzugehen. Die Entwicklungen auf dem Gebiet können sie sich selbständig aneignen und ihr Wissen und Können erweitern und sich mit Fachvertretern und mit Laien über Informationen, Ideen, Probleme und Lösungen auf wissenschaftlichem Niveau austauschen.
+    <modul_ziel>Kompetenzen
+  - Befähigung zur systematischen Analyse von Produkten, Verfahren und Systemen
+  - Befähigung zum Einsatz wissenschaftlicher Analyseverfahren (multivariater Analyse)
+  - Befähigung Produkte und Prozesse zu analysieren, Fehlerpotentiale zu erkennen und zu vermeiden
+  - Befähigung Produkte und Prozesse robust zu gestalten
+  - Befähigung zum Arbeiten mit CAQ-Systemen. Die Teilnehmer sind nach dem erfolgreichen Bestehen des Moduls in der Lage, die vorgestellten Qualitätstechniken, wie Qualitätsvorausplanung APQP, FMEA, FTA, PPAP, Qualitäts- und Prüfplanung, SPC, Wareneingangs-/Endprüfung und statistische Auswertung komplett innerhalb der vorgestellten C-Verfahren umzusetzen.
+
+Nach erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, mit Komplexität in ähnlich gelagerten Fällen umzugehen. Die Entwicklungen auf dem Gebiet können sie sich selbständig aneignen und ihr Wissen und Können erweitern und sich mit Fachvertretern und mit Laien über Informationen, Ideen, Probleme und Lösungen auf wissenschaftlichem Niveau austauschen.
     </modul_ziel>
     <modul_ziel_eng>
       Expertise
-      &lt;p&gt;
-      &lt;ul&gt;
-      &lt;il&gt;
+      &amp;lt;p&amp;gt;
+      &amp;lt;ul&amp;gt;
+      &amp;lt;il&amp;gt;
       Ability to systematic analysis of products, processes and systems
-      &lt;/li&gt;
-      &lt;li&gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;
       Ability to implement scientific analysis procedures (multivariate analysis)
-      &lt;/li&gt;
-      &lt;li&gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;
       Ability to analyze products and processes and to recognize and avoid potential errors
-      &lt;/li&gt;
-      &lt;li&gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;
       Ability to implement robust products and processes
-      &lt;/li&gt;
-      &lt;li&gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;
       Ability to work with CAQ systems. After a successful completion of the module the participants are capable to completely implement the presented Quality techniques, such as Quality in advance planning APQP, FMEA, FTA, PPAP, quality and test planning, SPQ, warehouse entries/final testing and statistical evaluations within the C-procedures.
-      &lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;p&gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;/ul&amp;gt;
+      &amp;lt;p&amp;gt;
       After successful completion of this module, students are capable to deal with complexity in similar cases. They can adapt themselves self-reliantly to new developments in the field, expand their knowledge and skills and exchange information, ideas, problems and solutions on scientific level with technical representatives and laypeople.
     </modul_ziel_eng>
-    <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
+    <modul_lehrform>Seminar</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Projektarbeit</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>.</modul_umfang>
     <modul_kontaktstunden>.</modul_kontaktstunden>
-    <modul_praesenz>0</modul_praesenz>
-    <modul_selbststudium>0</modul_selbststudium>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
     <modul_credits>6</modul_credits>
     <modul_haeufigkeit>1 Mal pro Studienjahr im 2. Semester / Sommersemester</modul_haeufigkeit>
     <modul_voraussetzung>Erfolgreiche Leistungsnachweise</modul_voraussetzung>
@@ -23548,21 +23559,21 @@
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>f61f01f4-580a-4632-bff2-d2d92bf77ae9</id>
-        <titel>Qualitätsplanung vom Design bis zur vollständigen Prozessüberwachung erfordert den Einsatz wissenschaftlicher und rechnerunterstützter Verfahren, um Fehler und damit auch Verluste zu vermeiden. Die neuen ISO 9001.2000 Normen erfordern ihrerseits Prozeduren, die auf kontinuierliche Verbesserung und Bewertung der Kundenzufriedenheit ausgerichtet sind. </titel>
+        <id>2ce054f7-4c54-4cb3-b2f7-6431aa3472ce</id>
+        <titel>Qualitätsplanung vom Design bis zur vollständigen Prozessüberwachung erfordert den Einsatz wissenschaftlicher und rechnerunterstützter Verfahren, um Fehler und damit auch Verluste zu vermeiden. Die neuen ISO 9001.2000 Normen erfordern ihrerseits Prozeduren, die auf kontinuierliche Verbesserung und Bewertung der Kundenzufriedenheit ausgerichtet sind.</titel>
         <titel_eng>Quality planning from design to full process supervision requires the implementation of scientific and computer aided procedures to avoid errors and hence losses. The new ISO 9001.2000 standards themselves require procedures oriented on continuous improvement and evaluation of customer satisfaction.</titel_eng>
       </kapitel>
       <kapitel>
-        <id>0e2832dd-588a-4ed1-83da-0a5dbf90c15c</id>
+        <id>787b253e-0e64-4d73-a9b0-c713b3c6ba44</id>
         <titel>Das Modul hat zwei Schwerpunkte</titel>
         <titel_eng>The module has two main focuses</titel_eng>
         <unterkapitel>
-          <id>acff6225-d712-494a-9f23-9d7d39a71015</id>
+          <id>7a160c47-0ebc-43f7-a157-4449fc0f31d3</id>
           <titel>Die Vermittlung wissenschaftlicher Verfahren zur Analyse und Bewertung von Strukturen. Der Begriff Strukturen bezieht sich auf Produkte und Prozesse. Inhalt sind die Strukturen – prüfende Verfahren und die Strukturen – entdeckende Verfahren. Die Strukturen – prüfenden Verfahren werden primär zur Durchführung von Kausalanalysen eingesetzt, um herauszufinden welchen Einfluss Faktoren auf ausgewählte Merkmale haben. Im Gegensatz zu den strukturen-prüfenden Verfahren erfolgt bei den Strukturen entdeckenden Verfahren keine Unterteilung in abhängige und unabhängige Variable. Diese Kenntnisse sind Voraussetzung zum Verständnis von Fehlerentstehung und Fehlerauswirkungen, zur Fehlerbewertung und Fehlervermeidung.</titel>
           <titel_eng>The teaching of scientific methods for analysis and evaluation of structures. The term structure refers to products and processes. The content are the structures of tested procedures and the structures of new found procedures. The structures of tested procedures are primarily used in the implementation of causal analysis to determine what influence on selected features some factors have. In contrast to the structures tested procedures a division in dependent and independent variables does not happen in the structures of new found procedures. These skills are prerequisite to the understanding of the origin of errors and error effects, for error evaluation and avoidance of error.</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>95a1af1c-bd46-499d-b871-d8a63ef68ac5</id>
+          <id>9201e42b-6b6f-43c2-9814-055d621d534a</id>
           <titel>Die Vermittlung von rechnerunterstützten Verfahren zur Strukturanalyse in Bezug auf Fehlerbedeutung, Fehlerentstehung, Fehlerursachen, Fehlerfolgen und Fehlerauswirkung, Fehlerbewertung und Fehlervermeidung. CAQ-Systeme und Verfahren der wissensbasierten Produktoptimierung, wie Advanced Product Quality Planning (APQP), Vorausschauende Qualitätsplanung, Failure Mode and Effect Analysis, Reklamationsverfolgung und Fehleranalyse und Production Part and Approval Process (PPAP) werden vorgestellt und anhand von praktischen Beispielen aus dem betrieblichen Alltag bearbeitet. Systeme und Verfahren die der Produktoptimierung, der Prozessverbesserung und der Evaluation im Unternehmen dienen, wie Dokumentenmanagement und Innovationsmanagement werden vorgestellt und eingehend erläutert.</titel>
           <titel_eng>The transmission of calculation-aided procedures for structural analysis in relation to error significance, origin of errors, causes, consequences of errors and error effects, error evaluation and error avoidance. CAQ systems and procedures of the knowledge-based product optimization, proactive Quality Planning, Failure Mode and Effect Analysis, complaints tracking and error analysis and Production Part and Approval Process (PPAP)are presented and processed through practical examples of the operational day-to-day. Systems and procedures that serve the company concerning product optimization, process improvement and evaluation, such as document management and innovation management will be presented and explained in detail.</titel_eng>
         </unterkapitel>
@@ -23849,7 +23860,7 @@
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
-    <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>.</modul_umfang>
@@ -24497,48 +24508,48 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>c9f1e79a-ee48-4f56-be73-57cc437a43ff</id>
+        <id>61d73b13-2a86-4c8d-aef6-428dfad23311</id>
         <titel>Physik</titel>
         <titel_eng>Physik</titel_eng>
         <unterkapitel>
-          <id>bd5172dc-6f57-4c02-a66e-066b2a1d1070</id>
+          <id>a8802a4f-eacf-49eb-bef4-34936588484d</id>
           <titel>Mechanik</titel>
-          <titel_eng>Mechanik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>56e592e2-ced1-4b04-89af-21ff574b96ac</id>
+          <id>515a1231-ca92-4591-9dad-017ae1399053</id>
           <titel>Thermodynamik</titel>
-          <titel_eng>Thermodynamik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>e58e98be-a560-4ee6-86d4-aaaba6f4d7e5</id>
+          <id>f79c22d7-6a58-4304-86be-bd243bccb324</id>
           <titel>Akustikd. Optik</titel>
-          <titel_eng>Akustikd. Optik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>641f62e5-b069-4a12-be94-a29768ab6207</id>
+          <id>f827c9fb-58f4-49e7-8e74-a685aabeb401</id>
           <titel>Atomphysik,Grundlagen ingenieurbezogener Physik</titel>
-          <titel_eng>Atomphysik,Grundlagen ingenieurbezogener Physik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>84e3647d-c889-44e6-8e16-68bd222af1ca</id>
+        <id>d710fed4-f2b0-4e15-99ba-b6b6189c1b2d</id>
         <titel>Elektrotechnik</titel>
-        <titel_eng>Elektrotechnik</titel_eng>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>fde2af06-aae0-4066-834d-8f11d5b0ac4b</id>
+          <id>2bc684f2-e8e2-4de5-98ca-169c961cceb6</id>
           <titel>Elektrostatik</titel>
-          <titel_eng>Elektrostatik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>cdb8249e-1a18-4eec-ae3c-4e3263a0afe1</id>
+          <id>dbe13f49-634f-4ffa-909e-838fa836395e</id>
           <titel>Elektrodynamik</titel>
-          <titel_eng>Elektrodynamik</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>cbdab187-fc70-4ea5-a14e-ff7c884bcb8c</id>
+          <id>ae7b287d-6888-43e6-8573-484511cf2c2d</id>
           <titel>Elektromagnetische Wellen</titel>
-          <titel_eng>Elektromagnetische Wellen</titel_eng>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
     </inhalt>
@@ -25086,10 +25097,10 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
   <modul>
     <modul_id>0fbba4da-76ac-4c8d-bd43-4f0431f372d1</modul_id>
     <modul_abk>LSMF</modul_abk>
-    <modul_name>Logistische Systeme und MF</modul_name>
+    <modul_name>Logistische Systeme und Materialfluss</modul_name>
     <modul_name_eng>Logistical Systems and MF</modul_name_eng>
-    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer: &lt;br&gt; - fachliche Grundkenntnisse über Materialfluss- und Logistiksysteme (M+L Systeme) &lt;br&gt; - die Fähigkeit aufgabenadäquate Lösungen in M+L-Systemen zu erarbeiten und zu analysieren &lt;br&gt; - die fachlichen Kenntnisse über den Einsatz von M+L-Systemen &lt;br&gt; - die Fähigkeit das ganzheitliche Denken und Handeln in logistischen Dimensionen anzuwenden</modul_ziel>
-    <modul_ziel_eng>Upon completion of the module, participants will have:&lt;br&gt; - technical knowledge about material flow and logistics systems (M + L Systems) &lt;br&gt; - the ability to develop and analyze task problem relevant solutions in M + L-systems &lt;br&gt; - the technical knowledge on the use of M + L-systems &lt;br&gt; - the ability to apply the holistic thinking and acting in logistical dimensions&lt;br&gt; </modul_ziel_eng>
+    <modul_ziel>Nach Abschluss des Moduls haben die Teilnehmer: &amp;lt;br&amp;gt; - fachliche Grundkenntnisse über Materialfluss- und Logistiksysteme (M+L Systeme) &amp;lt;br&amp;gt; - die Fähigkeit aufgabenadäquate Lösungen in M+L-Systemen zu erarbeiten und zu analysieren &amp;lt;br&amp;gt; - die fachlichen Kenntnisse über den Einsatz von M+L-Systemen &amp;lt;br&amp;gt; - die Fähigkeit das ganzheitliche Denken und Handeln in logistischen Dimensionen anzuwenden</modul_ziel>
+    <modul_ziel_eng>Upon completion of the module, participants will have:&amp;lt;br&amp;gt; - technical knowledge about material flow and logistics systems (M + L Systems) &amp;lt;br&amp;gt; - the ability to develop and analyze task problem relevant solutions in M + L-systems &amp;lt;br&amp;gt; - the technical knowledge on the use of M + L-systems &amp;lt;br&amp;gt; - the ability to apply the holistic thinking and acting in logistical dimensions&amp;lt;br&amp;gt; </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Alle Prüfungsformen</modul_pruefungsform>
@@ -25107,81 +25118,81 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>278e44f0-8162-4946-913b-f3654a9c0ad9</id>
+        <id>1ab61be7-49d0-434f-a136-36346679df9d</id>
         <titel>Materialfluss-Systeme</titel>
         <titel_eng>Material flow systems</titel_eng>
         <unterkapitel>
-          <id>ab94d190-d1c6-4c7c-b9a9-865db2f27f5a</id>
+          <id>d32015a1-e9b9-4792-bc3d-2cf36576ef28</id>
           <titel>Einführung: Bedeutung und Aufgaben; Gegenstände und Funktionen; inner-, außer- und überbetrieblicher Materialfluss</titel>
           <titel_eng>Introduction: Importance and functions, objects and functions, internal, external and intercompany material flow</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>a6a0a104-6086-48db-af50-cffa9ecadde8</id>
+          <id>272e9904-2e73-4fc7-89bb-aaf149a057b4</id>
           <titel>Aufbau und Funktion: Definitionen, Begriffe, Systemgrößen; Gestaltungsebenen und Strukturen; Funktionen im Materialfluss</titel>
           <titel_eng>Structure and function: definitions, concepts, system unities, design levels and structures, functions in the material flow</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>dafffb0e-4d45-4814-94d5-0645cf3be225</id>
+          <id>9ca38e30-3fce-48b0-920c-fa550608fd27</id>
           <titel>Systemische Grundlagen: Autonome Subsysteme; Beschreibungssprache; Materialflussverfolgung; Bestands- und Bedarfspuffermodell</titel>
           <titel_eng>Systemic Basics: Autonomous subsystems; description language, material tracking, inventory and requirements model</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c6a28371-f018-4c6f-a221-ae80b6636ecd</id>
+          <id>6d0bb2f0-bb43-4635-b2a3-088b47455319</id>
           <titel>Materialfluss-Systemelemente im Unternehmen: Transport-, Lager-, Umschlagsystem; Handhabungs-, Kommissioniersystem; Sortier-, Vereinzelungssystem; Verpackungs-, Palletier-, Depalletiersystem</titel>
           <titel_eng>Material- flow system elements in the companies: transport, storage, handling system, handling, commissioning, sorting, separation system, packaging, palletizing, unpacking system</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>fc575bd5-c1cf-4e29-8e4b-7aaa64c42815</id>
+        <id>6ec5aff3-84a2-4e4a-a4eb-4c11351d5265</id>
         <titel>Logistik-Systeme</titel>
         <titel_eng>Logistics systems</titel_eng>
         <unterkapitel>
-          <id>f81136ad-8551-4529-b0a5-afeb7494c6c6</id>
+          <id>6d7771a6-8230-499b-9538-870e5e6ecc38</id>
           <titel>Einführung: Auftrag und Gegenstände; Das 3-Säulenmodell; Mikro-, Makro-, und Metalogistik</titel>
           <titel_eng>Introduction: Order and items; The 3-pillar model, micro, macro, and Metalogistics</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>3a8cdaae-14c2-4330-bc32-2a5e62c746dc</id>
+          <id>977d6395-cf7e-4817-a1af-de1c0630f75d</id>
           <titel>Aufbau und Funktion: Ziel- und Kenngrößen; Gestaltung von Logistiksystemen; Planung, Steuerung, Optimierung, Überwachung</titel>
           <titel_eng>Structure and Function: Goals and recognition units, design of logistics systems, planning, management, optimization, monitoring</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>f8f19cdd-8127-4fca-8bf2-e05ddd67569b</id>
+          <id>91e5851e-611e-4229-b02b-077055fe272d</id>
           <titel>Systemische Grundlagen: Wertschöpfungskette und Durchlaufzeit; Logistikkosten und Optimierung; Logistikleistung und –strategien</titel>
           <titel_eng>Systemic Basics: Add value chain and cycle time, logistics costs and optimization, logistics services and strategies</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c3992e0b-be75-43e4-a2f2-a034b362122c</id>
+          <id>a4a209d7-bd29-430b-8ea0-608cf0133983</id>
           <titel>Logistik-Systemelemente im Unternehmen: Produktions-, Beschaffungssystem; Distributions-, Verpackungssystem; Entsorgungs-, Verkehrssystem</titel>
           <titel_eng>Logistics system elements in the company Production-, procurement system, distribution-, packaging system, waste disposal-, transport system</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>63047e32-e197-492e-b8e7-5d900de88810</id>
+        <id>934d7a78-d37c-47d3-b445-d0f55255cfd2</id>
         <titel>EDV-Anwendung in Materialfluss- und Logistik-Systemen</titel>
         <titel_eng>IT application in material flow and logistics systems</titel_eng>
         <unterkapitel>
-          <id>32841099-9176-41f5-a159-b98005086e8b</id>
+          <id>65cba3b4-60d2-4c8f-931e-23cd0195e2e3</id>
           <titel>Informations- und Steuerungssysteme: Informationserfassung und Identifizierung; Kommunikation und Netzwerke; Materialfluss- und Logistik–Leitstand</titel>
           <titel_eng>Information and Control Systems: Information gathering and identification, communications and networks, material and logistics control</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c04bd077-8e53-472c-8970-2956c1515f44</id>
+          <id>be1be05b-0cb0-4db5-b00c-57bf2e19c065</id>
           <titel>Übungen mit Logistik-Werkzeugen und –Instrumenten: Assistenzsysteme in der Planung; Modellbildung mit Prozessketten; Verschiedene Simulationswerkzeuge</titel>
           <titel_eng>Exercises with logistics tools and instruments: Assistance systems in the planning, modelling with process chains; Various simulation tools</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>6ef736ab-0ecd-46c9-8282-31b4e5fb24ab</id>
+        <id>6ba20e5a-44fd-4bee-8429-b45e90010e8f</id>
         <titel>Aktuelle Themen aus Materialfluss und Logistik</titel>
         <titel_eng>Current topics in material flow and logistics</titel_eng>
         <unterkapitel>
-          <id>b7ebdc45-fcc6-46a1-a2c3-0e5b394b5138</id>
+          <id>5825130e-2fdf-4b8a-bf65-21c75a89f829</id>
           <titel>Entwicklung, Planung, Betrieb</titel>
           <titel_eng>Development, planning, operation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c39161d4-8a05-4a86-b459-bc355674ebe9</id>
+          <id>33ac147c-2379-43e8-bf97-28b71822e013</id>
           <titel>Simulation, e-logistics, Supply Chain Management (SCM)</titel>
           <titel_eng>Simulation, e-logistics, supply chain management (SCM)</titel_eng>
         </unterkapitel>
@@ -25692,8 +25703,8 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_ziel_eng>The successful completion of the module enables the participant to carry out independently more complex mechanical problems, through simulation, interpretation and calculation of mechanical engineering components. After successful completion of the module, the students have the ability to apply their knowledge and their understanding as much as their problem-solving skills in other simulation or FEM problems. </modul_ziel_eng>
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
-    <modul_pruefungsform>Praktische Anwendung</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsform>Projektarbeit</modul_pruefungsform>
+    <modul_pruefungsdauer></modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>60 + 120</modul_umfang>
@@ -25707,91 +25718,91 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Die Prüfung findet in Form der Praktischen Anwendung (PA) statt. Dabei sind in fixen Zeitabständen (z.B. alle 14 Tage) praktische Aufgabenstellungen zu lösen und die Ergebnisse in Form einer schriftlichen Ausarbeitung abzugeben.</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>507b48cc-762b-4944-861d-a6db1dce6309</id>
+        <id>a2cbd48f-205a-487c-ae72-a8a7aafebc79</id>
         <titel>Kontinuumsmechanik</titel>
         <titel_eng>Continuum mechanics,</titel_eng>
         <unterkapitel>
-          <id>0904937b-d3ce-43e4-bcf4-914fe30c025b</id>
+          <id>26f5c66b-e3d5-4c63-9072-10c82754bccf</id>
           <titel>Spannungs-, Dehnungstensor</titel>
           <titel_eng>Stress-, deformation tensor</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>919e0d63-d014-41eb-b0a6-1679e1bb2b52</id>
+          <id>c8ffac94-4e03-49d9-8c11-8516b447c2b5</id>
           <titel>Invarianten, Eulersche Winkel</titel>
           <titel_eng>Invariants, Euler angle</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>88134332-ffad-477f-bd7f-a15753fc4933</id>
+          <id>f1528f5a-848e-4e43-9be0-bfa7adb6eb24</id>
           <titel>Orthotropie, Anisotropie, Laminattheorie</titel>
           <titel_eng>Orthotropy, anisotropy and laminate theory</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b61ef77e-2606-47bf-9bf0-b149e319e536</id>
+          <id>45790ea6-6d70-4b72-9dfd-9129e507071f</id>
           <titel>Praktische Berechnung von 3D-Volumina</titel>
           <titel_eng>Practical calculation of 3D volumes</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>41c11cad-1567-414d-b25c-cd036353c90f</id>
+          <id>87890242-6c01-4a58-83dc-9e058550ea54</id>
           <titel>Praktische Berechnung von Fasermaterialien</titel>
           <titel_eng>Practical calculation of fibre materials</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>8ba5dedf-bd5a-491b-a4a3-f1becfc6fbea</id>
+        <id>1f8fc74b-284d-41eb-a634-68b1c09d034a</id>
         <titel>Dynamisch belastete mechanische Systeme</titel>
         <titel_eng>Dynamically loaded mechanical systems</titel_eng>
         <unterkapitel>
-          <id>1f6d3b4c-37b0-4683-8680-d3f6b6634e17</id>
+          <id>898342ac-2ce2-4cd5-a2ed-4ce3f8247dd1</id>
           <titel>Eigenformen, -frequenzen</titel>
           <titel_eng>Eigenmode, eigen frequency</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>2b7925f8-d575-47b7-842a-919bcaf05221</id>
+          <id>26c0c169-46c1-493c-becb-a65a55e2c2c5</id>
           <titel>Periodische und nicht periodische Anregung</titel>
           <titel_eng>Periodic and non-periodic excitation</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b6b8ff5d-eb6c-4fa2-8de1-de3a828b4957</id>
+          <id>5d9af874-6b6b-4a2d-bd49-b700a88f4551</id>
           <titel>Ermüdung und Betriebsfestigkeit</titel>
           <titel_eng>Fatigue and Durability</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>d6583e33-4478-4d2a-8f91-6a88416515c0</id>
+          <id>c9244be6-6eeb-4c34-b939-6d4edcda1478</id>
           <titel>Praktische Berechnung von schwingenden Platten</titel>
           <titel_eng>Practical calculation of vibrating plates</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>719cbc05-131c-4cca-824c-1aa688acba9c</id>
+          <id>39d66faa-72ee-4bbb-bb5e-a61028a3bae6</id>
           <titel>Praktische Berechnung von Lebensdauer und Betriebsfestigkeit</titel>
           <titel_eng>Practical calculation of life times and Durability</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>14260051-a5f7-4d0e-98e6-5f861151483c</id>
+        <id>c4a21903-b5ae-4e64-b65c-b7779317c911</id>
         <titel>Plastisches Werkstoffverhalten</titel>
         <titel_eng>Non-linear material behaviour</titel_eng>
         <unterkapitel>
-          <id>6de80661-b49c-4a34-89a0-d3f2112505ed</id>
+          <id>5fe5cdd9-7b06-48e8-8ab4-9ebfa7e6bbf9</id>
           <titel>Spannungsdeviator, Fließgrenze</titel>
           <titel_eng>Stress deviator, yield point</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>c82f4ff9-061d-4b04-9d75-b5b5a78d77e8</id>
+          <id>d019d479-8193-4b7d-a381-3156a5c0af08</id>
           <titel>Potentialfläche, Verfestigung</titel>
           <titel_eng>Yield surface, hardening</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>043cf804-426c-4338-a61b-aa25afd65b5c</id>
+          <id>612a8507-7064-4fab-986b-6b8a75b845dc</id>
           <titel>Drucker-Prager, Huber-Mises, Tresca</titel>
           <titel_eng>Drucker-Prager, Huber-Mises, Tresca</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b285ab75-1f3c-42ce-9ee1-8d86c05ed4e6</id>
+          <id>9599d1f8-483f-4c77-b3f3-75c35eccbe77</id>
           <titel>Praktische Berechnung des Tiefziehens</titel>
           <titel_eng>Practical calculation of stamping</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>434eee04-7b89-4f49-9375-bb24e08f0e9c</id>
+          <id>cb95e585-f71e-400c-92a7-854ccc3255b5</id>
           <titel>Praktische Berechnung von Blechbiegeprozessen</titel>
           <titel_eng>Practical calculation of metal bending processes</titel_eng>
         </unterkapitel>
@@ -29926,7 +29937,7 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
   <modul>
     <modul_id>f68e8068-b602-4641-9744-959eb6851541</modul_id>
     <modul_abk>LWB</modul_abk>
-    <modul_name>Leichtbau-Werkstoffe und Bauweisen</modul_name>
+    <modul_name>Leichtbauwerkstoffe und Bauweisen</modul_name>
     <modul_name_eng>Materials and Structures</modul_name_eng>
     <modul_ziel>Die Studierenden werden in die Lage versetzt, grundlegende Eigenschaften von Leichtbau-Werkstoffen und deren anwendungsspezifische Verwendung für Leichtbauelemente und Leichtbaustrukturen im Luft- und Raumfahrzeugbau zu verstehen und zu bewerten. Es sollen Grundkenntnisse in der Auslegung und Berechnung von Leichtbaustrukturen erworben werden.</modul_ziel>
     <modul_ziel_eng>Knowledge of lightweight materials and their use in the construction, layout and calculation of lightweight components and lightweight structures in aircraft and spacecraft.</modul_ziel_eng>
@@ -29947,86 +29958,109 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Keine Bemerkung</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>e1422e98-50ac-4580-9ede-182e455e9992</id>
+        <id>fecfd829-d7dc-4f8c-a4e2-868dc50533d6</id>
         <titel>Einführung</titel>
         <titel_eng>Introduction</titel_eng>
       </kapitel>
       <kapitel>
-        <id>f151de8b-6285-4922-8980-3452354b3507</id>
+        <id>c5863786-0f56-4947-9553-f90c9d075ca1</id>
         <titel>Werkstoffe in Raum- und Luftfahrt</titel>
         <titel_eng>Materials in space and aeronautics</titel_eng>
         <unterkapitel>
-          <id>27727c58-6cae-4db3-885e-d53d4f8eb5a2</id>
-          <titel>Metallische Leichtbauwerkstoffe&lt;br&gt; - Aluminiumlegierungen &lt;br&gt; - Titanlegierungen</titel>
-          <titel_eng>Lightweight metallic materials &lt;br&gt; - Aluminium alloys (heat treatment and mechanisms for adjusting the strength, name systems of Al-alloys. And their states; alloy groups and their specific properties) &lt;br&gt; - Titanium alloys (properties and applications of titanium, titanium alloys and their structure-specific properties, structure and setting of properties on the example TiAl6V4)&lt;br&gt;</titel_eng>
+          <id>f81d8aea-1ce3-42f2-935a-78260a9a4f80</id>
+          <titel>Metallische Leichtbauwerkstoffe</titel>
+          <titel_eng>Lightweight metallic materials</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>6576d19a-4701-4260-8bea-8d2c9acefe6d</id>
+          <id>fde21c90-eb50-4cb7-972d-19963e327d19</id>
+          <titel>Aluminiumlegierungen</titel>
+          <titel_eng>Aluminium alloys (heat treatment and mechanisms for adjusting the strength, name systems of Al-alloys. And their states; alloy groups and their specific properties)</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>d28c615c-2f77-4764-b99b-e786a92034e8</id>
+          <titel>Titanlegierungen</titel>
+          <titel_eng>Titanium alloys (properties and applications of titanium, titanium alloys and their structure-specific properties, structure and setting of properties on the example TiAl6V4)</titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>b3302ee1-7921-42c3-b0cd-efecaf8d4b43</id>
           <titel>Triebwerkswerkstoffe (Einführung in hochwarmfeste Stähle, Ni-Basis-Legierungen und säurefeste Stähle)</titel>
           <titel_eng>Engine Materials (introduction to high temperature steels, Ni-base alloys and acid resistant steels)</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>477bf921-5234-4c24-81b2-4c5997ca8797</id>
+          <id>0426dd88-e583-4711-a18f-d56899c7ee53</id>
           <titel>Einführung zu Keramiken</titel>
           <titel_eng>Introduction to Ceramics</titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>fb5bb8b7-833a-473d-9007-423662bd7612</id>
+          <id>6bb7458c-6661-471e-a260-1a7cf2da97d1</id>
           <titel>Bezogene Werkstoffeigenschaften und Bewertungskriterien</titel>
           <titel_eng>Related material properties and evaluation criteria</titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>425f5f10-9f80-4149-81bf-65ad3d416911</id>
+        <id>219044ca-d805-4208-a582-cd6ab8a2ee6e</id>
         <titel>Leichtbauweisen</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>b9a07d5f-6070-433a-9a06-43e6c15d49b4</id>
+          <id>46246186-da04-4b11-a782-3fc3756e3db7</id>
           <titel>Differenzialbauweise</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>b748e165-3067-4604-a659-1eccb349fc15</id>
+          <id>dcf37eb9-4f7b-46ea-a916-7141e9d65fd5</id>
           <titel>Integralbauweise</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>4fb0951b-8d0c-4969-9ce7-36d822beba25</id>
+          <id>ee141725-aa87-4947-842a-fc158839327f</id>
           <titel>Integrierende Bauweise</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>ec9dd30a-62bd-438d-9271-a11a6702c7cf</id>
+          <id>b682002c-82c3-4bbb-9408-4febade2086b</id>
           <titel>Verbundbauweise</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>9e4cec0a-0e8f-4368-a347-05ccca28db16</id>
+        <id>6b13ec68-766b-4474-8630-3b44df6fa35f</id>
         <titel>Leichtbaukennzahlen</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>23dd1154-0dfb-432b-bce8-37b277207381</id>
+        <id>db1bebd1-b569-496a-ba6c-82a1984bf215</id>
         <titel>Gestaltungsprinzipien im Leichtbau</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>c71f2e6b-793e-4894-9656-cd4a5fd40091</id>
+        <id>f980bbbd-4794-4bdc-b638-29e95f8ed193</id>
         <titel>Krafteinleitungen</titel>
+        <titel_eng></titel_eng>
       </kapitel>
       <kapitel>
-        <id>7664009a-3399-4ed6-b601-fe05b3668f90</id>
+        <id>b9b22f88-b295-482c-86a2-b5d906d4c5dc</id>
         <titel>Verbindungen</titel>
+        <titel_eng></titel_eng>
         <unterkapitel>
-          <id>b03e58c0-23fc-475e-a014-8439ef4854ec</id>
+          <id>508d4b30-e574-4468-85de-1252633a2654</id>
           <titel>Nieten</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>8ef94cb0-c75c-4bc6-b710-b0996b9d5bfe</id>
+          <id>5968856c-17cd-4e3e-87fb-9821754f549d</id>
           <titel>Kleben</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
         <unterkapitel>
-          <id>ef545f4f-8361-48a1-b5f0-566a8b0ac77c</id>
+          <id>0e582be4-b86b-460c-8e75-ef2c78fc6862</id>
           <titel>Schweißen</titel>
+          <titel_eng></titel_eng>
         </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>0f58830b-fd1e-420b-a504-0f054026fd99</id>
+        <id>e8c5982b-2008-4f41-841a-f7738c8e0b97</id>
         <titel>Zeitlich veränderliche Belastungen</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>
@@ -30149,7 +30183,7 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Written Master Thesis and colloquium</modul_pruefungsform>
-    <modul_pruefungsdauer>.</modul_pruefungsdauer>
+    <modul_pruefungsdauer>120 Minuten</modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>tbd</modul_verwendbarkeit>
     <modul_umfang>60 + 840</modul_umfang>
@@ -31355,7 +31389,7 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_lehrform>Projektarbeit</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Schriftliche Masterthesis und Kolloquium</modul_pruefungsform>
-    <modul_pruefungsdauer>90-120 Minuten</modul_pruefungsdauer>
+    <modul_pruefungsdauer>(Prüfungsdauer gemäß PO) </modul_pruefungsdauer>
     <modul_vorkenntnisse>Siehe aktuelle Prüfungsordnung</modul_vorkenntnisse>
     <modul_verwendbarkeit>M.Eng. Aeronautical Managem, M.Sc. Aerospace Technologies, CBME (in der Übergangszeit)</modul_verwendbarkeit>
     <modul_umfang>60 + 840</modul_umfang>
@@ -31369,8 +31403,9 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Eine Literaturliste wird bei Bedarf empfohlen.</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>39cabc4b-ef44-4138-8d45-0e2feb3feaa0</id>
+        <id>0fcaf7ea-8097-4b23-85e7-ef02fc412d2f</id>
         <titel>Durchführung eines Projektes auf der Basis wissenschaftlicher Methoden zu einer zwischen Studierendem und Lehrendem vereinbarten Thematik. Diese kann entweder an laufende Forschungs- und Entwicklungsaktivitäten an den Instituten der Hochschule, an einer externen wissenschaftlichen Einrichtung oder in einem Wirtschaftbetrieb anknüpfen. Die wissenschaftliche Arbeit kann dabei analytischen, experimentellen oder entwickelnden Charakter haben. Die Masterarbeit wird von dem/der ProfessorIn in Form eines Seminars individuell betreut.</titel>
+        <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
   </modul>
@@ -31461,7 +31496,7 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_id>69c1d21c-1678-4bae-9e57-680fdcbfb010</modul_id>
     <modul_abk>IPPP</modul_abk>
     <modul_name>Integrierte Planung und Prozessgestaltung in der Präzisionsfertigung</modul_name>
-    <modul_ziel>Die Studierenden sollen am Ende des Semesters einen kompletten Produktionsprozess planen, gestalten und bewerten können. Dazu gehören z.B.: Planen des Produktionsprozesses, Bewertung der Fertigungsfolgen, Prozesszeit- und –kostenermittlung, Material- und Layoutplanung einer Produktion. Die Studierenden sollen die Fähigkeit erwerben, ähnliche Aufgaben auch in neuen und unvertrauten Planungsaufgaben anzuwenden, ihr Wissen in die Fragestellung zu integrieren und die Komplexität der Planungsprozesse zu bewältigen, weitgehend autonom eigenständige forschungs- oder anwendungsorientierte Projekte durchzuführen.</modul_ziel>
+    <modul_ziel>Die Studierenden sollen am Ende des Semesters in der Lage sein, anspruchsvolle Fertigungsaufgaben im Bereich der Präszisionsbearbeitung zu bewerten sowie auf der Basis gegebener Randbedingungen selbständig zu planen. Hierzu gehören alle Aspekte der Präzisionsbearbeitung sowie angrenzende Gebiete: Prozesse, Werkzeugmaschinen, In- und Post-Prozess-Messung, werkstoffkundliche Fragestellungen sowie konstruktive Aspekte. Weiterhin erlernen die Studierenden Kompetenzen, mit denen Sie das Erlernte auf neue Fragestellungen in diesem Themenkreis übertragen können.</modul_ziel>
     <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
@@ -31479,78 +31514,33 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_bemerkung>Die aktuellen Literaturlisten werden zu Beginn des Semesters verteilt.</modul_bemerkung>
     <inhalt>
       <kapitel>
-        <id>fa104277-8bd1-4f9d-958d-768af4cd6ef6</id>
-        <titel>Das Modul teilt sich in zwei Schwerpunkte auf:</titel>
+        <id>adb603b3-2e9d-49c8-b7f9-ddc5bf5382bb</id>
+        <titel>Prozesse: Präzisionsdrehen, - fräsen, -schleifen sowie Polieren</titel>
         <titel_eng></titel_eng>
-        <unterkapitel>
-          <id>c87f8db8-7182-47fa-b278-3b963af0c042</id>
-          <titel>Systemtheorie</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>643b211e-7695-48df-a237-493dd89ea8e8</id>
-          <titel>Integrierte Prozessgestaltung in der Produktion</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>bf3638a4-5fae-4d7e-bcff-2fe09c8c7c52</id>
-        <titel>Mit Hilfe der Systemtheorie soll den Studierenden die Erscheinungen und Gesetzmäßigkeiten unterschiedlichster komplexer Systeme verstehbar und bearbeitbar gemacht werden.</titel>
+        <id>36a995dd-4240-4a16-8f15-0b64318ae901</id>
+        <titel>Werkzeugmaschinen: Aufbau und Eigenschaften von Präzisionsmaschinen</titel>
         <titel_eng></titel_eng>
-        <unterkapitel>
-          <id>e2f4defb-3c6b-4ea8-8b2d-6c72374aef81</id>
-          <titel>Grundlagen der Systemtheorie</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>149b312d-f396-4600-b908-6cca8cf63f38</id>
-          <titel>Begriffe: System, Vernetztheit, Komplexität, Ordnung, Lenkung</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>c5b0d87e-1663-4e48-8a0e-14d72d6ad3f1</id>
-          <titel>Unterscheidung einfacher und komplexer Systeme</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>cf79eabd-8a8e-480f-9de5-d11346609b21</id>
-          <titel>Technik des vernetzten Denkens</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>e214690a-3175-4a82-8805-209cc39a06e8</id>
-          <titel>Methodenunterstützte Problemlösung im Fabrikbetrieb</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>a685b7ca-6010-43a2-bba7-90662d036808</id>
-        <titel>Der Produktionsprozess kann als ein Prozess der Informationsverarbeitung betrachtet werden. Im Rahmen des zweiten Teiles dieses Moduls werden Methoden zur Steigerung von Effizienz in der integrierten Prozessgestaltung dargestellt und vermittelt.</titel>
+        <id>2c698de6-ff88-4f7c-a4c0-6cb84927555a</id>
+        <titel>In- und Post-Prozess-Messung: Anspruchsvolle Methoden zur Bestimmung von Prozess- sowie Oberflächenkenngrößen</titel>
         <titel_eng></titel_eng>
-        <unterkapitel>
-          <id>3ec890cf-33bf-4bf1-b278-febf0184c450</id>
-          <titel>Prozessmanagement – Grundlagen und Zielsetzung</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>9785a778-e341-4083-a344-b8c6befddb35</id>
-          <titel>Integrierte Technologieplanung</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>2b8c2b4a-2e5b-4e8a-860f-e2517d16fc12</id>
-          <titel>Integrierte Produktionsprozessgestaltung</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
-        <unterkapitel>
-          <id>0ca61a5c-b2d1-400f-a137-74ce00e24275</id>
-          <titel>Prozesssimulation (Beispiele)</titel>
-          <titel_eng></titel_eng>
-        </unterkapitel>
       </kapitel>
       <kapitel>
-        <id>88ed1b68-f542-4f31-a34d-3db110ae400d</id>
-        <titel>Beide Teile des Moduls werden durch Planungs- und Berechnungsaufgaben ergänzt und mit Beispielen, z.T. mit eigenen Forschungsergebnissen, veranschaulicht.</titel>
+        <id>86faa893-2a44-41a0-bbaf-be72f4fca5ba</id>
+        <titel>Werkstoffkunde: Werkstoffverhalten im Fertigungsprozess</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>18b55c1c-4ffb-40e1-88a7-cb999157ef1e</id>
+        <titel>Konstruktion: Aspekte der fertigungsgerechten Konstruktion</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>47ebdc47-3ff7-4408-931f-0ed7ac4aa934</id>
+        <titel>Prozessparameterbestimmung: experimentelle und analytische Methoden sowie Dokumentation der Ergebnisse</titel>
         <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
@@ -33935,7 +33925,7 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_id>b1da7091-9ba2-4612-ac79-b57592e0ffb3</modul_id>
     <modul_abk>FLLL</modul_abk>
     <modul_name>Flugsysteme leichter als Luft</modul_name>
-    <modul_ziel>tbd</modul_ziel>
+    <modul_ziel>Erwerb von grundlegenden Kenntnissen über die Funktionsweise von Flugsystemen leichter als Luft, die zu einem Entwurf solcher Systeme anhand der flugphysikalischen Gegebenheiten befähigen.</modul_ziel>
     <modul_lehrform>Seminaristischer Unterricht (SU), Modulbezogene Übung (MÜ)</modul_lehrform>
     <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
     <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
@@ -33950,8 +33940,194 @@ Kenntnisse: 1, 4 Fähigkeiten: 5, 6, 7 Kompetenzen: 11, 12
     <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
     <modul_voraussetzung>erfolgreiche Leistungsnachweise</modul_voraussetzung>
     <modul_sprache>Deutsch</modul_sprache>
-    <modul_bemerkung>Die aktuellen Literaturlisten werden den Studierenden zu Beginn des Semesters zur Verfügung gestellt.</modul_bemerkung>
-    <inhalt></inhalt>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>bcb09405-12b5-49ea-bf44-0c0c22367bc6</id>
+        <titel>Allgemeine Grundlagen</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>89ba1b1f-22ea-4959-92c9-d4cfa6707241</id>
+          <titel>Einführung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>39f1775c-53e1-402c-8872-a9af91517956</id>
+          <titel>Anwendungsbereiche</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>7ad24bd7-ee9e-4913-9938-10786dbcd839</id>
+          <titel>Kategorisierung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>82d093f8-7e39-43a6-abe8-3d524827f2da</id>
+          <titel>Zulassung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>821ed645-8bbb-44c0-b54d-6c0730b93699</id>
+        <titel>Physikalische Grundlagen</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>c6c3915a-c7a8-4f9c-9ded-d03d61488875</id>
+          <titel>Aerostatik</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>77602f0e-c59b-4eae-9ad2-ed4017909bb3</id>
+          <titel>Stationäre und instationäre Aerodynamik</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>aa466e65-dc56-4252-8045-3b24ee2b4854</id>
+          <titel>Physikalische Grundlagen für den praktischen Betrieb</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>99f055df-32cc-449d-ac95-4afea0304d6a</id>
+          <titel>Flugmechanik</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>0790571f-873a-4662-a8f6-4d729ea261de</id>
+        <titel>Projektierung von Luftschiffen und Ballonen</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>ed9a56b2-f559-4ded-add8-cc0eef933e06</id>
+          <titel>Markt- und Bedarfsorientierung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>9ba18862-f865-4577-9c80-d87ba4cb17e4</id>
+          <titel>Analyse der Systemanforderungen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>8781e7bc-4166-444e-8656-d201b0c52020</id>
+          <titel>Lösung des Existenzproblems für definierte Flugeigenschaften</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>91ea75c9-bfaa-4ebb-b840-14a2fc3df521</id>
+        <titel>Konstruktiver Entwurf</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>6fca10c5-2cf2-4064-ad3c-de85e6f8b302</id>
+          <titel>Systematischer Ablauf</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>285829e5-9e78-4dd7-b8e0-e2f84e7af697</id>
+          <titel>Tragstrukturen für den Hüll- und Stützberecih</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>228b53e8-6cca-4876-a9bb-b2a527041c57</id>
+          <titel>Hüllen- und Ballonauslegung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>45bead2f-eb3f-43e2-a9bc-704ac4673033</id>
+          <titel>Auslegung von Baugruppen und Elementen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>6d64bff7-2eb3-40d2-98fa-a70c62aa201b</id>
+          <titel>Antriebe</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>89672877-6e02-4962-9a74-9d532d4a933d</id>
+          <titel>Manövriereinrichtungen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>e427ac2b-73cc-4bc4-995e-c9a102a3c409</id>
+        <titel>LTA-Strukturmechanik</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>ee7f01d4-3b08-4c78-b6aa-381b0c0632e9</id>
+          <titel>Betriebsfestigkeit von Luftschiffkonstruktionen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>9fd89290-059a-4421-b828-9e0db728ec42</id>
+          <titel>Betriebsfestigkeit flexibler Hüllenstrukturen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>1e03f39c-dd40-4766-84b5-98576066c520</id>
+          <titel>Aeroelastizität</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>a4061cb4-72fa-4c9a-993f-52f2f9eba510</id>
+        <titel>Flugführung</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>e9d07410-f8e8-49fd-98c9-28046b3ad2ea</id>
+          <titel>Steuerungsverhalten</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>bdd5359b-723c-4810-8031-584bf0bcd468</id>
+          <titel>Steuerungssystem</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>4bc1e442-960e-456d-935b-dee92e75c089</id>
+          <titel>Navigation und Meteorologie</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>548f6e3a-5eb4-4e3a-8f78-98968c581a16</id>
+          <titel>Start und Landung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>592b4537-0c9e-41cb-96a7-debd91d21256</id>
+          <titel>Allwetterbetrieb von Luftschiffen</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>94adf235-ce82-46bb-affe-14fb7d20288b</id>
+        <titel>Bodenanlagen</titel>
+        <titel_eng></titel_eng>
+        <unterkapitel>
+          <id>fec0b6ac-7b97-489a-929a-2e73a0da1295</id>
+          <titel>Anlagen zum Bodenbetrieb</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>c3ba95f2-8eea-4e4d-8a44-4ade09bb3618</id>
+          <titel>Einrichtung einer Luftschiffwerft</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+        <unterkapitel>
+          <id>620164d4-e418-44cb-a12e-15133faf45df</id>
+          <titel>Vorkehrung zur Wartung, Reparatur, und Überholung</titel>
+          <titel_eng></titel_eng>
+        </unterkapitel>
+      </kapitel>
+      <kapitel>
+        <id>e6fed95c-c78d-4279-bbb9-7e494e8d8796</id>
+        <titel>Wirtschaftlichkeitsbetrachtung</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>7fd8b082-47fd-467b-bec5-9f95a320523a</id>
+        <titel>Ausblicke</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
   </modul>
   <modul>
     <modul_id>6749231f-aa9c-4cb1-bbd9-473e99759fbe</modul_id>
@@ -34915,5 +35091,194 @@ Die Erreichung der folgenden ISWI-Bildungsziele wird besonders unterstützt: 2, 
         <titel_eng></titel_eng>
       </kapitel>
     </inhalt>
+  </modul>
+  <modul>
+    <modul_id>b23cb805-1c5b-4c20-b1c5-4206eb6d27d5</modul_id>
+    <modul_abk>MRP</modul_abk>
+    <modul_name>Methoden der rechnergestützten Produktentwicklung</modul_name>
+    <modul_ziel>- Befähigung zur Umsetzung der rechnergestützten Produktentwicklung in ihrem zeitlichen Ablauf, beginnend mit der Aufgabenstellung, Konzeptentwicklung, über Simulation, Konstruktion, Detailierung und Iterative Schleifen zur Optimierung
+- Anwendung und Bedienung von rechnergestützten Produktentwicklungswerkzeugen: 3D-CAD-Systeme, Finite-Elemente-Systeme, Mehrkörper-Simulationssysteme, Kinematik- und Mechanismen-Software, Bewegungsdesign und Servo-Software
+- Den Studierenden soll die Fähigkeit vermittelt werden, komplexe Entwicklungsaufgaben mit Hilfe verschiedener rechnergestützter Produktentwicklungswerkzeuge zu bearbeiten. Es soll stets eine kritische Betrachtung verschiedener Software-Systeme bezüglich ihrer Eignung für individuelle Entwicklungsaufgaben gefördert werden.
+</modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 - 120 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt>
+      <kapitel>
+        <id>dc57675f-8497-44cd-a262-7dda65854feb</id>
+        <titel>Es werden verschiedene Typen von Entwicklungssoftwaresystemen bezüglich folgender Punkte behandelt:</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>4e498bfa-4afd-496e-a619-17801ebe56b8</id>
+        <titel>Eignung</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>a55fe57d-542d-4cd2-9377-e9e20c2a6bea</id>
+        <titel>Leistungsfähigkeit</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>fef18d7e-4842-4b3f-84c6-9d976093a2e6</id>
+        <titel>Arbeitsweise (physikalisches Modell des Systems)</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+      <kapitel>
+        <id>294103ff-39d9-4e59-91d5-97acce2a0e16</id>
+        <titel>In den praktischen Übungsblöcken wird von den Studierenden eine konkrete Entwicklungsaufgabe am Rechnerarbeitsplatz bearbeitet. Dabei werden die verschiedenen Phasen der Produktentwicklung durchlaufen und die jeweils geeigneten Software-Werkzeuge genutzt:  Aufgabenstellung, Konzeptphase (Ideen, Struktursynthese), Simulation, Bauraumprüfung (Mechanismensoftware), Konstruktion (CAD-Software), Prüfung kritischer Bauteile (FEM-Software), Iterative Optimierung.</titel>
+        <titel_eng></titel_eng>
+      </kapitel>
+    </inhalt>
+  </modul>
+  <modul>
+    <modul_id>8829ada4-3fb0-4d31-bbc2-73da7307eb8f</modul_id>
+    <modul_abk>FB1</modul_abk>
+    <modul_name>Flugbetrieb 1</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>2a3624d7-8db6-4005-af9b-0171f9deaa88</modul_id>
+    <modul_abk>FB2</modul_abk>
+    <modul_name>Flugbetrieb 2</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>9d6abb93-b940-4479-91eb-ad47b3ff04ce</modul_id>
+    <modul_abk>FB3</modul_abk>
+    <modul_name>Flugbetrieb 3</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>e7ae4c80-7725-443f-b882-8483b7f8a432</modul_id>
+    <modul_abk>PRAA</modul_abk>
+    <modul_name>Praxisphase Aviation</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>2e3ecf7f-c528-4577-ad26-8fbfb98ffa4b</modul_id>
+    <modul_abk>PTSA</modul_abk>
+    <modul_name>Prüftechnik und Schadensanalyse</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>7b039564-5040-4a8a-88bd-f92c82564201</modul_id>
+    <modul_abk>WARI</modul_abk>
+    <modul_name>Wartung und Instandhaltung</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
+  </modul>
+  <modul>
+    <modul_id>233a617f-0c80-41d5-b36f-b53aa7372858</modul_id>
+    <modul_abk>PROJ</modul_abk>
+    <modul_name>Projektmanagement</modul_name>
+    <modul_ziel></modul_ziel>
+    <modul_ziel_eng></modul_ziel_eng>
+    <modul_lehrform>Seminaristischer Unterricht (SU)</modul_lehrform>
+    <modul_lernform>Präsenzstudium, angeleitetes Selbststudium</modul_lernform>
+    <modul_pruefungsform>Klausur nach Prüfungsordnung</modul_pruefungsform>
+    <modul_pruefungsdauer>90 Minuten</modul_pruefungsdauer>
+    <modul_verwendbarkeit>Grundlage für etliche folgende Module</modul_verwendbarkeit>
+    <modul_umfang>60 + 120</modul_umfang>
+    <modul_praesenz>60</modul_praesenz>
+    <modul_selbststudium>120</modul_selbststudium>
+    <modul_credits>6</modul_credits>
+    <modul_haeufigkeit>Einmal pro Studienjahr (15 Termine)</modul_haeufigkeit>
+    <modul_sprache>Deutsch</modul_sprache>
+    <modul_bemerkung></modul_bemerkung>
+    <inhalt></inhalt>
   </modul>
 </dataroot>

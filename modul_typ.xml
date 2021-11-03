@@ -346,19 +346,19 @@
     <id>9f3ff14f-eb68-4bba-8375-f941b8690bea</id>
     <modul_id>c314dae9-3739-4e72-b4f5-c079246c91bd</modul_id>
     <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
-    <sws>2</sws>
+    <sws>4</sws>
   </modul_typ>
   <modul_typ>
     <id>86f9afe5-99fd-400d-864f-d8b161e56b5f</id>
     <modul_id>a6b6cdce-4358-46a4-8f94-70c85cc5495e</modul_id>
     <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
-    <sws>2</sws>
+    <sws>4</sws>
   </modul_typ>
   <modul_typ>
     <id>f130c0ce-819b-49e4-90a7-47364b30fe24</id>
     <modul_id>c8455882-c84f-459a-8140-98488f34e727</modul_id>
     <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
-    <sws>2</sws>
+    <sws>4</sws>
   </modul_typ>
   <modul_typ>
     <id>43c8b640-5ade-4f9e-a302-610b03c0530a</id>
@@ -1737,13 +1737,13 @@
   <modul_typ>
     <id>1119b63c-53e8-4565-89a0-129fff840efb</id>
     <modul_id>cd3a2867-773b-484b-a49c-42fc13bd0cdb</modul_id>
-    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <typ_id>3f1281b6-6485-49ba-be7e-eb4279b18795</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
     <id>5e2f5e29-b773-42bb-b1cd-951beb5a9cee</id>
     <modul_id>b76ef727-43ce-4743-a396-ab9411b26a32</modul_id>
-    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <typ_id>3f1281b6-6485-49ba-be7e-eb4279b18795</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
@@ -2439,7 +2439,7 @@
   <modul_typ>
     <id>ce81f144-8691-433a-8c1a-70ce2adccd50</id>
     <modul_id>8046853c-c22a-42ea-9783-ce3afcb3d797</modul_id>
-    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <typ_id>3f1281b6-6485-49ba-be7e-eb4279b18795</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
@@ -3177,7 +3177,7 @@
   <modul_typ>
     <id>318fba12-636c-4fb7-86e7-99e04ac71991</id>
     <modul_id>69c1d21c-1678-4bae-9e57-680fdcbfb010</modul_id>
-    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <typ_id>3f1281b6-6485-49ba-be7e-eb4279b18795</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
@@ -3626,13 +3626,61 @@
   </modul_typ>
   <modul_typ>
     <id>b065233e-202b-49a3-9762-460bfbd01d01</id>
-    <modul_id>4eced5d0-65ad-4775-9864-a6ed8a6e89ba</modul_id>
-    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <modul_id>8829ada4-3fb0-4d31-bbc2-73da7307eb8f</modul_id>
+    <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
     <sws>4</sws>
   </modul_typ>
   <modul_typ>
     <id>122a5353-71de-4836-8137-fdbb564c176a</id>
     <modul_id>4dc0aadc-c424-4a7c-8bf7-a261b6980ee8</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>3bef4422-e91d-4b6e-892d-8f90a79fbb98</id>
+    <modul_id>b23cb805-1c5b-4c20-b1c5-4206eb6d27d5</modul_id>
+    <typ_id>8eaa23d5-801f-42dd-939d-65e28f1b8a7e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>8ccf972f-32f1-4711-a230-1ba084761a77</id>
+    <modul_id>2a3624d7-8db6-4005-af9b-0171f9deaa88</modul_id>
+    <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>c4099c5c-2bf8-4b21-b5be-04643b34c635</id>
+    <modul_id>9d6abb93-b940-4479-91eb-ad47b3ff04ce</modul_id>
+    <typ_id>7df2f55d-3b35-4108-9d9b-b7a5b54e7cd3</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>410e709b-90f3-4f39-8431-f3079d827185</id>
+    <modul_id>e7ae4c80-7725-443f-b882-8483b7f8a432</modul_id>
+    <typ_id>d9066321-dbda-4bf3-b8f0-945060774e10</typ_id>
+    <sws>6</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>e68779fe-dacf-4f05-8fee-3476f5013d89</id>
+    <modul_id>4eced5d0-65ad-4775-9864-a6ed8a6e89ba</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>e5ffe7f5-ba99-42b9-8617-b52f21ba1dbb</id>
+    <modul_id>2e3ecf7f-c528-4577-ad26-8fbfb98ffa4b</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>c0952bed-5582-4eed-bab2-85bac5a67d6b</id>
+    <modul_id>7b039564-5040-4a8a-88bd-f92c82564201</modul_id>
+    <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
+    <sws>4</sws>
+  </modul_typ>
+  <modul_typ>
+    <id>dcf18ec5-38de-4984-a641-e4ed4071ae94</id>
+    <modul_id>233a617f-0c80-41d5-b36f-b53aa7372858</modul_id>
     <typ_id>47f97641-ad39-4609-9d29-acc76b90021e</typ_id>
     <sws>4</sws>
   </modul_typ>

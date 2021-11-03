@@ -430,4 +430,9 @@
     <dozent_name>Jutta Berninghausen</dozent_name>
     <dozent_homepage></dozent_homepage>
   </z_dozent>
+  <z_dozent>
+    <dozent_id>c75e304c-2770-4db4-82ee-59f6e936fe39</dozent_id>
+    <dozent_name>Prof. Dr. Ralf Gläbe</dozent_name>
+    <dozent_homepage>https://www.hs-bremen.de/internet/de/hsb/struktur/mitarbeiter/rmglaebe/</dozent_homepage>
+  </z_dozent>
 </dataroot>

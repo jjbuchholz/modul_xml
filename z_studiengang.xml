@@ -182,4 +182,18 @@
     <studiengang_name>Wirtschaftsingeneurwesen mit Schwerpunkt Energie (Bachelor)</studiengang_name>
     <studiengang_beginn>ws</studiengang_beginn>
   </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>07c57bdf-fc3b-45b5-bec9-4544851e188a</studiengang_id>
+    <studiengang_abk>ILST_HI</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management, Herstellung und Instanthaltung (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
+  <z_studiengang>
+    <studiengang_id>6aa773ac-dcd8-46d0-9af0-6ddfe73de459</studiengang_id>
+    <studiengang_abk>ILST_B</studiengang_abk>
+    <studiengang_abschluss>Bachelor</studiengang_abschluss>
+    <studiengang_name>Internationaler Studiengang Luftfahrtsystemtechnik und -management, Betrieb (Bachelor)</studiengang_name>
+    <studiengang_beginn>ws</studiengang_beginn>
+  </z_studiengang>
 </dataroot>
